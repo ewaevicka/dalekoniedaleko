@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Średniowieczne Turku</title>
+	<atom:link href="/sredniowieczne-turku/feed/" rel="self" type="application/rss+xml" />
+	<link>/sredniowieczne-turku/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/sredniowieczne-turku/?#comment-2843</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2011 15:27:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3592#comment-2843</guid>
+		<description><![CDATA[jednak Brugia :) 
+
+Bardziej mi się podoba atmosfera w tym mieście, ale to może też wina tego, że jak byłam w Turku to to był listopad. Słońce ledwo zdążyło wzejść, a już zachodziło, a jak się do tego doda chmury to momentami było naprawdę ponuro... choć ogólnie Turku jest przyjemne :)]]></description>
+		<content:encoded><![CDATA[<p>jednak Brugia :) </p>
+<p>Bardziej mi się podoba atmosfera w tym mieście, ale to może też wina tego, że jak byłam w Turku to to był listopad. Słońce ledwo zdążyło wzejść, a już zachodziło, a jak się do tego doda chmury to momentami było naprawdę ponuro&#8230; choć ogólnie Turku jest przyjemne :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: gosiak</title>
+		<link>/sredniowieczne-turku/?#comment-2841</link>
+		<dc:creator><![CDATA[gosiak]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2011 11:34:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3592#comment-2841</guid>
+		<description><![CDATA[A jeśli byś miała wybierać jedno średniowieczne miasto to Turku czy Brugia ? :o)]]></description>
+		<content:encoded><![CDATA[<p>A jeśli byś miała wybierać jedno średniowieczne miasto to Turku czy Brugia ? :o)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

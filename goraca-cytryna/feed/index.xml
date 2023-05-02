@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Gorąca cytryna</title>
+	<atom:link href="/goraca-cytryna/feed/" rel="self" type="application/rss+xml" />
+	<link>/goraca-cytryna/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Aga</title>
+		<link>/goraca-cytryna/?#comment-524418</link>
+		<dc:creator><![CDATA[Aga]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2023 09:05:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1003#comment-524418</guid>
+		<description><![CDATA[piłam w Lizbonie -pyyycha ,w warszawie już mim tak nie smakowało,ale może dlatego ,ze nie ma tego słoneczka :)]]></description>
+		<content:encoded><![CDATA[<p>piłam w Lizbonie -pyyycha ,w warszawie już mim tak nie smakowało,ale może dlatego ,ze nie ma tego słoneczka :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Agnieszka Kuczyńska</title>
+		<link>/goraca-cytryna/?#comment-1314</link>
+		<dc:creator><![CDATA[Agnieszka Kuczyńska]]></dc:creator>
+		<pubDate>Sun, 03 Oct 2010 09:03:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1003#comment-1314</guid>
+		<description><![CDATA[Tez byłam zaskoczona, jak pierwszego poranka u &quot;mojej&quot; portugalskiej rodzinki zastałam w wielkiem filiżance nie kawę, nie herbatę, a elegancko poszarpaną skórkę cytrynki (prosto z ogródka!) czekającą na nas. I na wrzątek. I też byłam zaskoczona. Niestety, z cytryn kupionych u nas próbowałam 3 razy, mimo szorowania owocu, napój był gorzki :(]]></description>
+		<content:encoded><![CDATA[<p>Tez byłam zaskoczona, jak pierwszego poranka u &#8220;mojej&#8221; portugalskiej rodzinki zastałam w wielkiem filiżance nie kawę, nie herbatę, a elegancko poszarpaną skórkę cytrynki (prosto z ogródka!) czekającą na nas. I na wrzątek. I też byłam zaskoczona. Niestety, z cytryn kupionych u nas próbowałam 3 razy, mimo szorowania owocu, napój był gorzki :(</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/goraca-cytryna/?#comment-161</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Thu, 14 Jan 2010 09:02:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1003#comment-161</guid>
+		<description><![CDATA[Zaryzykowałam, jeszcze nie świecę w ciemności ;)]]></description>
+		<content:encoded><![CDATA[<p>Zaryzykowałam, jeszcze nie świecę w ciemności ;)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Michał</title>
+		<link>/goraca-cytryna/?#comment-160</link>
+		<dc:creator><![CDATA[Michał]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2010 21:42:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1003#comment-160</guid>
+		<description><![CDATA[Nie do zaadoptowania u nas ze względu na pestycydy.]]></description>
+		<content:encoded><![CDATA[<p>Nie do zaadoptowania u nas ze względu na pestycydy.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

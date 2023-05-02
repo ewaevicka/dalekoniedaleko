@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Pocztówka z Lizbony</title>
+	<atom:link href="/pocztowka-z-lizbony/feed/" rel="self" type="application/rss+xml" />
+	<link>/pocztowka-z-lizbony/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/pocztowka-z-lizbony/?#comment-143</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Wed, 30 Dec 2009 09:30:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=887#comment-143</guid>
+		<description><![CDATA[Dziękuję! Cieszę się, że blog się podoba :) Pozdrawiam ciepło z Lizbony!]]></description>
+		<content:encoded><![CDATA[<p>Dziękuję! Cieszę się, że blog się podoba :) Pozdrawiam ciepło z Lizbony!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Jola</title>
+		<link>/pocztowka-z-lizbony/?#comment-140</link>
+		<dc:creator><![CDATA[Jola]]></dc:creator>
+		<pubDate>Tue, 29 Dec 2009 14:18:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=887#comment-140</guid>
+		<description><![CDATA[Dobra nowina,u nas w kraju też kanary maja mieć mundurki... 
+Już się uzależniłam od Twojego bloga. Podróżuj jak najwięcej, a ja w Twoim Cieniu....przed komputerkiem.]]></description>
+		<content:encoded><![CDATA[<p>Dobra nowina,u nas w kraju też kanary maja mieć mundurki&#8230;<br />
+Już się uzależniłam od Twojego bloga. Podróżuj jak najwięcej, a ja w Twoim Cieniu&#8230;.przed komputerkiem.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

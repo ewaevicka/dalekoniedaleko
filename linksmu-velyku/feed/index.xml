@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Linksmų Velykų!</title>
+	<atom:link href="/linksmu-velyku/feed/" rel="self" type="application/rss+xml" />
+	<link>/linksmu-velyku/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/linksmu-velyku/?#comment-5099</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Tue, 26 Apr 2011 08:57:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4318#comment-5099</guid>
+		<description><![CDATA[Dzięki wszystkim za życzenia!
+
+Święta były jak najbardziej udane. Jedna z najfajniejszych Wielkanocy w życiu :)))]]></description>
+		<content:encoded><![CDATA[<p>Dzięki wszystkim za życzenia!</p>
+<p>Święta były jak najbardziej udane. Jedna z najfajniejszych Wielkanocy w życiu :)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ola</title>
+		<link>/linksmu-velyku/?#comment-5098</link>
+		<dc:creator><![CDATA[Ola]]></dc:creator>
+		<pubDate>Tue, 26 Apr 2011 08:26:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4318#comment-5098</guid>
+		<description><![CDATA[Za późno na życzenia, ale mam nadzieję, że Swięta były udane! Fajna ta pisanka!]]></description>
+		<content:encoded><![CDATA[<p>Za późno na życzenia, ale mam nadzieję, że Swięta były udane! Fajna ta pisanka!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: wkraj</title>
+		<link>/linksmu-velyku/?#comment-5011</link>
+		<dc:creator><![CDATA[wkraj]]></dc:creator>
+		<pubDate>Fri, 22 Apr 2011 17:26:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4318#comment-5011</guid>
+		<description><![CDATA[Tak jak wielkie jest to jajo tak wiele dobrego Ci życzę.
+Wesołych Świąt!]]></description>
+		<content:encoded><![CDATA[<p>Tak jak wielkie jest to jajo tak wiele dobrego Ci życzę.<br />
+Wesołych Świąt!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Patryk</title>
+		<link>/linksmu-velyku/?#comment-5004</link>
+		<dc:creator><![CDATA[Patryk]]></dc:creator>
+		<pubDate>Fri, 22 Apr 2011 16:36:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4318#comment-5004</guid>
+		<description><![CDATA[Również wesołych świąt i baardzo mokrego poniedziałku :)
+
+Ja sobie nie wyobrażam jajecznicy z takiego dużego jajka, już wolę mieć trochę mniej ale za to z kilku jajek :P]]></description>
+		<content:encoded><![CDATA[<p>Również wesołych świąt i baardzo mokrego poniedziałku :)</p>
+<p>Ja sobie nie wyobrażam jajecznicy z takiego dużego jajka, już wolę mieć trochę mniej ale za to z kilku jajek :P</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

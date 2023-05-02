@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: El Mogote</title>
+	<atom:link href="/el-mogote/feed/" rel="self" type="application/rss+xml" />
+	<link>/el-mogote/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/el-mogote/?#comment-2084</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2010 22:46:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2986#comment-2084</guid>
+		<description><![CDATA[Ale buty to chyba z godzinę obmywałyśmy z błota. Ja sandały, a Klara piękne białe tenisówki :))) To był dopiero ubaw!]]></description>
+		<content:encoded><![CDATA[<p>Ale buty to chyba z godzinę obmywałyśmy z błota. Ja sandały, a Klara piękne białe tenisówki :))) To był dopiero ubaw!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ajka</title>
+		<link>/el-mogote/?#comment-2082</link>
+		<dc:creator><![CDATA[Ajka]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2010 16:58:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2986#comment-2082</guid>
+		<description><![CDATA[Cieszę się więc, że jestes cała :D]]></description>
+		<content:encoded><![CDATA[<p>Cieszę się więc, że jestes cała :D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/el-mogote/?#comment-2078</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2010 13:27:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2986#comment-2078</guid>
+		<description><![CDATA[Konie nie wchodziły tak wysoko, poza tym to większa frajda na piechotę :)]]></description>
+		<content:encoded><![CDATA[<p>Konie nie wchodziły tak wysoko, poza tym to większa frajda na piechotę :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Mira</title>
+		<link>/el-mogote/?#comment-2068</link>
+		<dc:creator><![CDATA[Mira]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2010 03:18:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2986#comment-2068</guid>
+		<description><![CDATA[A na koniu nie mogłaś? Miałaś darmowy piling ciała?
+Ewcia, uważaj troszeczkę.]]></description>
+		<content:encoded><![CDATA[<p>A na koniu nie mogłaś? Miałaś darmowy piling ciała?<br />
+Ewcia, uważaj troszeczkę.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/el-mogote/?#comment-2067</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2010 00:25:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2986#comment-2067</guid>
+		<description><![CDATA[Oj nie, proszę... :D]]></description>
+		<content:encoded><![CDATA[<p>Oj nie, proszę&#8230; :D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Klara Jóźwicka</title>
+		<link>/el-mogote/?#comment-2066</link>
+		<dc:creator><![CDATA[Klara Jóźwicka]]></dc:creator>
+		<pubDate>Wed, 22 Dec 2010 23:47:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2986#comment-2066</guid>
+		<description><![CDATA[Gratka w blotku lalalala]]></description>
+		<content:encoded><![CDATA[<p>Gratka w blotku lalalala</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

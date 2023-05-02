@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Juan Dolio</title>
+	<atom:link href="/juan-dolio/feed/" rel="self" type="application/rss+xml" />
+	<link>/juan-dolio/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/juan-dolio/?#comment-112810</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2014 03:37:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3003#comment-112810</guid>
+		<description><![CDATA[W Juan Dolio korzystałyśmy z couchsurfingu.]]></description>
+		<content:encoded><![CDATA[<p>W Juan Dolio korzystałyśmy z couchsurfingu.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Justyna</title>
+		<link>/juan-dolio/?#comment-112319</link>
+		<dc:creator><![CDATA[Justyna]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2014 21:03:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3003#comment-112319</guid>
+		<description><![CDATA[Hej, a w jakim hotelu spaliście w Juan Dolio?]]></description>
+		<content:encoded><![CDATA[<p>Hej, a w jakim hotelu spaliście w Juan Dolio?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/juan-dolio/?#comment-2178</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2010 20:50:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3003#comment-2178</guid>
+		<description><![CDATA[Dzięki wielkie i wzajemnie!]]></description>
+		<content:encoded><![CDATA[<p>Dzięki wielkie i wzajemnie!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Magdalena Jedrzejowska</title>
+		<link>/juan-dolio/?#comment-2130</link>
+		<dc:creator><![CDATA[Magdalena Jedrzejowska]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2010 19:17:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3003#comment-2130</guid>
+		<description><![CDATA[odpoczynek i relaks to lubie... i w tym miejscy życzę sobie i Wszystkim dużo odpoczynku i relaksu w nowym roku :D]]></description>
+		<content:encoded><![CDATA[<p>odpoczynek i relaks to lubie&#8230; i w tym miejscy życzę sobie i Wszystkim dużo odpoczynku i relaksu w nowym roku :D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/juan-dolio/?#comment-2108</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Sun, 26 Dec 2010 14:39:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3003#comment-2108</guid>
+		<description><![CDATA[Przymykam oko :D]]></description>
+		<content:encoded><![CDATA[<p>Przymykam oko :D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Mira</title>
+		<link>/juan-dolio/?#comment-2105</link>
+		<dc:creator><![CDATA[Mira]]></dc:creator>
+		<pubDate>Sun, 26 Dec 2010 05:00:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3003#comment-2105</guid>
+		<description><![CDATA[Poleżała bym na tej plaży, nawet bez whisky. Zazdrość to nie najlepsza cecha, ale w tym wypadku możesz chyba przymknąć oko? Miłego odpoczynku:)]]></description>
+		<content:encoded><![CDATA[<p>Poleżała bym na tej plaży, nawet bez whisky. Zazdrość to nie najlepsza cecha, ale w tym wypadku możesz chyba przymknąć oko? Miłego odpoczynku:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

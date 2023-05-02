@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Skąd się biorą gumki?</title>
+	<atom:link href="/skad-sie-biora-gumki/feed/" rel="self" type="application/rss+xml" />
+	<link>/skad-sie-biora-gumki/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: A</title>
+		<link>/skad-sie-biora-gumki/?#comment-515058</link>
+		<dc:creator><![CDATA[A]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2020 03:54:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=794#comment-515058</guid>
+		<description><![CDATA[Mała poprawka - drzewa nacina się nie o poranku tylko wieczorem, na początku nocy :)]]></description>
+		<content:encoded><![CDATA[<p>Mała poprawka &#8211; drzewa nacina się nie o poranku tylko wieczorem, na początku nocy :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/skad-sie-biora-gumki/?#comment-514535</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2019 09:32:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=794#comment-514535</guid>
+		<description><![CDATA[Super, przyjemnej podróży po Krainie Uśmiechu!]]></description>
+		<content:encoded><![CDATA[<p>Super, przyjemnej podróży po Krainie Uśmiechu!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Anna</title>
+		<link>/skad-sie-biora-gumki/?#comment-514532</link>
+		<dc:creator><![CDATA[Anna]]></dc:creator>
+		<pubDate>Mon, 18 Mar 2019 09:49:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=794#comment-514532</guid>
+		<description><![CDATA[Jestem architektem krajobrazu a więc w każdej podróży obserwuję roślinność i rolnictwo. Dziękuję za wspis, który potwierdził noje podejrzenia. Pozdrowienia z Tajlandii:)]]></description>
+		<content:encoded><![CDATA[<p>Jestem architektem krajobrazu a więc w każdej podróży obserwuję roślinność i rolnictwo. Dziękuję za wspis, który potwierdził noje podejrzenia. Pozdrowienia z Tajlandii:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

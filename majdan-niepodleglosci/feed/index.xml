@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Majdan Niepodległości</title>
+	<atom:link href="/majdan-niepodleglosci/feed/" rel="self" type="application/rss+xml" />
+	<link>/majdan-niepodleglosci/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/majdan-niepodleglosci/?#comment-2646</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Mon, 21 Feb 2011 13:03:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3355#comment-2646</guid>
+		<description><![CDATA[Kąpaliście się w fontannie? Ja cała nie weszłam, ale schłodzić spuchnięte, zmęczone stopy - to było coś!
+
+Kijów jeszcze przed Wami, jak wiecie polecam, bo warto :)]]></description>
+		<content:encoded><![CDATA[<p>Kąpaliście się w fontannie? Ja cała nie weszłam, ale schłodzić spuchnięte, zmęczone stopy &#8211; to było coś!</p>
+<p>Kijów jeszcze przed Wami, jak wiecie polecam, bo warto :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: nawschod</title>
+		<link>/majdan-niepodleglosci/?#comment-2645</link>
+		<dc:creator><![CDATA[nawschod]]></dc:creator>
+		<pubDate>Mon, 21 Feb 2011 11:29:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3355#comment-2645</guid>
+		<description><![CDATA[Wracając z Krymu spędziliśmy w Kijowie jedno popołudnie. Było gorąco i duszno, klimat podobny do tego na zdjęciach. Majdan jest faktycznie przyjemnym miejscem. A na rogu jest miła knajpka z w miarę tanim jadłem i napitkiem, o co w Kijowie wcale nie jest łatwo. :)
+
+Trochę szkoda, że nie zdążyliśmy porządnie zwiedzić miasta, ale czasu nie stało...]]></description>
+		<content:encoded><![CDATA[<p>Wracając z Krymu spędziliśmy w Kijowie jedno popołudnie. Było gorąco i duszno, klimat podobny do tego na zdjęciach. Majdan jest faktycznie przyjemnym miejscem. A na rogu jest miła knajpka z w miarę tanim jadłem i napitkiem, o co w Kijowie wcale nie jest łatwo. :)</p>
+<p>Trochę szkoda, że nie zdążyliśmy porządnie zwiedzić miasta, ale czasu nie stało&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

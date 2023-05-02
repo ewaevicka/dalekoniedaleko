@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Deszczowe Alentejo</title>
+	<atom:link href="/deszczowe-alentejo/feed/" rel="self" type="application/rss+xml" />
+	<link>/deszczowe-alentejo/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/deszczowe-alentejo/?#comment-407488</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Sat, 17 Dec 2016 08:49:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2454#comment-407488</guid>
+		<description><![CDATA[Może kiedyś wrócę jeszcze :)]]></description>
+		<content:encoded><![CDATA[<p>Może kiedyś wrócę jeszcze :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Mmalena</title>
+		<link>/deszczowe-alentejo/?#comment-407161</link>
+		<dc:creator><![CDATA[Mmalena]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2016 08:57:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2454#comment-407161</guid>
+		<description><![CDATA[Cudne miejsca. Szkoda, że deszczowe, do trzech razy sztuka ;-) Zatęskniłam za słońcem i południowym klimatem jeszcze bardziej ;-)]]></description>
+		<content:encoded><![CDATA[<p>Cudne miejsca. Szkoda, że deszczowe, do trzech razy sztuka ;-) Zatęskniłam za słońcem i południowym klimatem jeszcze bardziej ;-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/deszczowe-alentejo/?#comment-1361</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Mon, 11 Oct 2010 18:55:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2454#comment-1361</guid>
+		<description><![CDATA[Evora w deszczu jest prześliczna, więc pewnie przy pogodzie w ogóle jest niesamowicie. Z domkami to nieźle wykombinowali, żeby wykorzystać przestrzeń :)]]></description>
+		<content:encoded><![CDATA[<p>Evora w deszczu jest prześliczna, więc pewnie przy pogodzie w ogóle jest niesamowicie. Z domkami to nieźle wykombinowali, żeby wykorzystać przestrzeń :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ajka</title>
+		<link>/deszczowe-alentejo/?#comment-1351</link>
+		<dc:creator><![CDATA[Ajka]]></dc:creator>
+		<pubDate>Mon, 11 Oct 2010 07:09:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2454#comment-1351</guid>
+		<description><![CDATA[Aj, nigdy nie udało mi się dotrzeć do Evory mimo szczerych chęci! Ale wszystko przede mną. Te domki pod Akweduktem - rewelacja! I ładna ta opuszczona plaża. Lubie takie miejsca]]></description>
+		<content:encoded><![CDATA[<p>Aj, nigdy nie udało mi się dotrzeć do Evory mimo szczerych chęci! Ale wszystko przede mną. Te domki pod Akweduktem &#8211; rewelacja! I ładna ta opuszczona plaża. Lubie takie miejsca</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/deszczowe-alentejo/?#comment-1350</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Sun, 10 Oct 2010 23:59:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2454#comment-1350</guid>
+		<description><![CDATA[Parasole? Toż to by było pójście na łatwiznę ;)]]></description>
+		<content:encoded><![CDATA[<p>Parasole? Toż to by było pójście na łatwiznę ;)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Henryk Norek</title>
+		<link>/deszczowe-alentejo/?#comment-1349</link>
+		<dc:creator><![CDATA[Henryk Norek]]></dc:creator>
+		<pubDate>Sun, 10 Oct 2010 12:57:15 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2454#comment-1349</guid>
+		<description><![CDATA[A parasole są?]]></description>
+		<content:encoded><![CDATA[<p>A parasole są?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

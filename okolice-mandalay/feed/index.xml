@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Okolice Mandalay</title>
+	<atom:link href="/okolice-mandalay/feed/" rel="self" type="application/rss+xml" />
+	<link>/okolice-mandalay/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/okolice-mandalay/?#comment-38384</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2011 13:09:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5414#comment-38384</guid>
+		<description><![CDATA[Sama sie zastanawialam. Zapytalam &quot;how old are you&quot;, ale mysle, ze on jedak mogl miec na mysli klasztor :))))]]></description>
+		<content:encoded><![CDATA[<p>Sama sie zastanawialam. Zapytalam &#8220;how old are you&#8221;, ale mysle, ze on jedak mogl miec na mysli klasztor :))))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Michał</title>
+		<link>/okolice-mandalay/?#comment-38345</link>
+		<dc:creator><![CDATA[Michał]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2011 18:42:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5414#comment-38345</guid>
+		<description><![CDATA[&quot;Generalnie wychodzi nam z rozmowy, że w klasztorze praktycznie nie poświęca się czasu na medytację, cała rodzina chłopaka to politycy, a on sam ma dwa tysiące lat.&quot; klasztor ma dwa tysiące lat czy ten chłopak?? xDD]]></description>
+		<content:encoded><![CDATA[<p>&#8220;Generalnie wychodzi nam z rozmowy, że w klasztorze praktycznie nie poświęca się czasu na medytację, cała rodzina chłopaka to politycy, a on sam ma dwa tysiące lat.&#8221; klasztor ma dwa tysiące lat czy ten chłopak?? xDD</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

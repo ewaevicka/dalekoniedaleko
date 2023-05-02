@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Chillout w Cabarete</title>
+	<atom:link href="/chillout-w-cabarete/feed/" rel="self" type="application/rss+xml" />
+	<link>/chillout-w-cabarete/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/chillout-w-cabarete/?#comment-2049</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Tue, 21 Dec 2010 13:04:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2979#comment-2049</guid>
+		<description><![CDATA[Brawo! Trzymam kciuki! :)]]></description>
+		<content:encoded><![CDATA[<p>Brawo! Trzymam kciuki! :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ajka</title>
+		<link>/chillout-w-cabarete/?#comment-2048</link>
+		<dc:creator><![CDATA[Ajka]]></dc:creator>
+		<pubDate>Tue, 21 Dec 2010 11:47:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2979#comment-2048</guid>
+		<description><![CDATA[pieknie! :)
+Ewa Ewa zrobiłam TO dziś, jestem wolna!! :)]]></description>
+		<content:encoded><![CDATA[<p>pieknie! :)<br />
+Ewa Ewa zrobiłam TO dziś, jestem wolna!! :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/chillout-w-cabarete/?#comment-2046</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Tue, 21 Dec 2010 05:17:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2979#comment-2046</guid>
+		<description><![CDATA[Nie, spokojnie, nawet jeśli mi się podoba to i tak wracam :D]]></description>
+		<content:encoded><![CDATA[<p>Nie, spokojnie, nawet jeśli mi się podoba to i tak wracam :D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Mira</title>
+		<link>/chillout-w-cabarete/?#comment-2045</link>
+		<dc:creator><![CDATA[Mira]]></dc:creator>
+		<pubDate>Tue, 21 Dec 2010 03:34:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2979#comment-2045</guid>
+		<description><![CDATA[Mam nadzieję, że aż tak bardzo Ci się tam nie spodoba i wrócisz do nas!!!]]></description>
+		<content:encoded><![CDATA[<p>Mam nadzieję, że aż tak bardzo Ci się tam nie spodoba i wrócisz do nas!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

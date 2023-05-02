@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Grill ze świętym Sebastianem</title>
+	<atom:link href="/grill-ze-swietym-sebastianem/feed/" rel="self" type="application/rss+xml" />
+	<link>/grill-ze-swietym-sebastianem/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa-Margarytka</title>
+		<link>/grill-ze-swietym-sebastianem/?#comment-42885</link>
+		<dc:creator><![CDATA[Ewa-Margarytka]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2012 22:52:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5858#comment-42885</guid>
+		<description><![CDATA[Fajna ta parada Gigantów :)]]></description>
+		<content:encoded><![CDATA[<p>Fajna ta parada Gigantów :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/grill-ze-swietym-sebastianem/?#comment-42881</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2012 18:19:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5858#comment-42881</guid>
+		<description><![CDATA[Niestety, bywa i tak :(
+
+W Palmie póki co czuję się bezpiecznie, nawet wieczorami :)]]></description>
+		<content:encoded><![CDATA[<p>Niestety, bywa i tak :(</p>
+<p>W Palmie póki co czuję się bezpiecznie, nawet wieczorami :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ajka</title>
+		<link>/grill-ze-swietym-sebastianem/?#comment-42875</link>
+		<dc:creator><![CDATA[Ajka]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2012 07:51:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5858#comment-42875</guid>
+		<description><![CDATA[Ewentualnie z zadymą, policją i niszczeniem mienia publicznego :]]]></description>
+		<content:encoded><![CDATA[<p>Ewentualnie z zadymą, policją i niszczeniem mienia publicznego :]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/grill-ze-swietym-sebastianem/?#comment-42862</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Mon, 23 Jan 2012 16:38:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5858#comment-42862</guid>
+		<description><![CDATA[Nie wiem, ale mam wrażenie, że u nas musi być poważnie, pompatycznie i na baczność...]]></description>
+		<content:encoded><![CDATA[<p>Nie wiem, ale mam wrażenie, że u nas musi być poważnie, pompatycznie i na baczność&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ajka</title>
+		<link>/grill-ze-swietym-sebastianem/?#comment-42840</link>
+		<dc:creator><![CDATA[Ajka]]></dc:creator>
+		<pubDate>Mon, 23 Jan 2012 09:05:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5858#comment-42840</guid>
+		<description><![CDATA[Dlaczego u nas nie da się tak bawić? No dlaczego?]]></description>
+		<content:encoded><![CDATA[<p>Dlaczego u nas nie da się tak bawić? No dlaczego?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

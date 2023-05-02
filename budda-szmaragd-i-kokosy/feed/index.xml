@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Budda, szmaragd i kokosy &#8211; pokaz zdjęć w Warszawie</title>
+	<atom:link href="/budda-szmaragd-i-kokosy/feed/" rel="self" type="application/rss+xml" />
+	<link>/budda-szmaragd-i-kokosy/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Marcin</title>
+		<link>/budda-szmaragd-i-kokosy/?#comment-310</link>
+		<dc:creator><![CDATA[Marcin]]></dc:creator>
+		<pubDate>Sun, 21 Feb 2010 20:40:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1389#comment-310</guid>
+		<description><![CDATA[+ 2 osoby (mam tylko nadzieje, że z weekendu w górach zdążymy wrócić)]]></description>
+		<content:encoded><![CDATA[<p>+ 2 osoby (mam tylko nadzieje, że z weekendu w górach zdążymy wrócić)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: crullu</title>
+		<link>/budda-szmaragd-i-kokosy/?#comment-309</link>
+		<dc:creator><![CDATA[crullu]]></dc:creator>
+		<pubDate>Sun, 21 Feb 2010 20:18:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1389#comment-309</guid>
+		<description><![CDATA[ja na pewno nie wpadne, al pozdrawiam cie z chartumu :D lans jak sie patrzy, to fakt.]]></description>
+		<content:encoded><![CDATA[<p>ja na pewno nie wpadne, al pozdrawiam cie z chartumu :D lans jak sie patrzy, to fakt.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Mira</title>
+		<link>/budda-szmaragd-i-kokosy/?#comment-307</link>
+		<dc:creator><![CDATA[Mira]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2010 04:29:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1389#comment-307</guid>
+		<description><![CDATA[Super propozycja na spędzenie niedzielnego popołudnia. 2 osoby na pewno wpadną. Do zobaczenia:)]]></description>
+		<content:encoded><![CDATA[<p>Super propozycja na spędzenie niedzielnego popołudnia. 2 osoby na pewno wpadną. Do zobaczenia:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

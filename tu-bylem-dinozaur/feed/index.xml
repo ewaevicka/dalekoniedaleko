@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Tu byłem. Dinozaur</title>
+	<atom:link href="/tu-bylem-dinozaur/feed/" rel="self" type="application/rss+xml" />
+	<link>/tu-bylem-dinozaur/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Ewa</title>
+		<link>/tu-bylem-dinozaur/?#comment-1019</link>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+		<pubDate>Fri, 23 Jul 2010 17:28:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2296#comment-1019</guid>
+		<description><![CDATA[Gdzieś koło Albufeiry znaleziono ponoć szkielet innego dinozaura. Jak uda mi się i tam do DNA dokopać to nawet będziemy mieć różnorodność biologiczną :D
+
+A potem będziemy kasować za wycieczki do największej atrakcji turystycznej na Płw. Iberyjskim! Ha! :)))]]></description>
+		<content:encoded><![CDATA[<p>Gdzieś koło Albufeiry znaleziono ponoć szkielet innego dinozaura. Jak uda mi się i tam do DNA dokopać to nawet będziemy mieć różnorodność biologiczną :D</p>
+<p>A potem będziemy kasować za wycieczki do największej atrakcji turystycznej na Płw. Iberyjskim! Ha! :)))</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Ania</title>
+		<link>/tu-bylem-dinozaur/?#comment-1018</link>
+		<dc:creator><![CDATA[Ania]]></dc:creator>
+		<pubDate>Fri, 23 Jul 2010 10:47:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2296#comment-1018</guid>
+		<description><![CDATA[Pobierz DNA!!!!!!!! Stworzymy Jurrasic Park!!!!;)))]]></description>
+		<content:encoded><![CDATA[<p>Pobierz DNA!!!!!!!! Stworzymy Jurrasic Park!!!!;)))</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

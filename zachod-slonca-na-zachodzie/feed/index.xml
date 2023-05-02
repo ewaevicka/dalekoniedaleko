@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentarze do: Zachód słońca na zachodzie</title>
+	<atom:link href="/zachod-slonca-na-zachodzie/feed/" rel="self" type="application/rss+xml" />
+	<link>/zachod-slonca-na-zachodzie/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Sun, 16 Apr 2023 02:15:07 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Autor: Michał</title>
+		<link>/zachod-slonca-na-zachodzie/?#comment-34279</link>
+		<dc:creator><![CDATA[Michał]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2011 15:33:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=929#comment-34279</guid>
+		<description><![CDATA[Cabo da Roca podczas zachodu słońca, to chyba najpiękniejsze miejsce, jakie widziałem...]]></description>
+		<content:encoded><![CDATA[<p>Cabo da Roca podczas zachodu słońca, to chyba najpiękniejsze miejsce, jakie widziałem&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Michał</title>
+		<link>/zachod-slonca-na-zachodzie/?#comment-156</link>
+		<dc:creator><![CDATA[Michał]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2010 21:23:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=929#comment-156</guid>
+		<description><![CDATA[A mi się to logo troszkę kojarzy z przekształconym znaczkiem loży masońskiej. 
+Ta fotografia warta jest tysiąca słów. Fantastyczne miejsce ta Portugalia. Nabrałem na nia smaku po Twoim wpisie.]]></description>
+		<content:encoded><![CDATA[<p>A mi się to logo troszkę kojarzy z przekształconym znaczkiem loży masońskiej.<br />
+Ta fotografia warta jest tysiąca słów. Fantastyczne miejsce ta Portugalia. Nabrałem na nia smaku po Twoim wpisie.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Autor: Mira</title>
+		<link>/zachod-slonca-na-zachodzie/?#comment-149</link>
+		<dc:creator><![CDATA[Mira]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2010 04:53:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=929#comment-149</guid>
+		<description><![CDATA[Myślę, że Cabo da Roca jest piękne o każdej porze roku i dnia. Pamiętam cudowne  dywany kwiatów w maju i ogromne &quot;bałwany&quot; rozbijające się o skalisty brzeg, ale ten widok wart jest wyjazdu jeszcze raz!]]></description>
+		<content:encoded><![CDATA[<p>Myślę, że Cabo da Roca jest piękne o każdej porze roku i dnia. Pamiętam cudowne  dywany kwiatów w maju i ogromne &#8220;bałwany&#8221; rozbijające się o skalisty brzeg, ale ten widok wart jest wyjazdu jeszcze raz!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
