@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rewolucja kubańska &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/rewolucja-kubanska/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Niech żyje rewolucja?</title>
+		<link>/niech-zyje-rewolucja/</link>
+		<comments>/niech-zyje-rewolucja/?#comments</comments>
+		<pubDate>Mon, 11 Jul 2016 15:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kuba]]></category>
+		<category><![CDATA[Hawana]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[rewolucja kubańska]]></category>
+		<category><![CDATA[Santiago de Cuba]]></category>
+		<category><![CDATA[sytuacja polityczna]]></category>
+
+		<guid isPermaLink="false">/?p=11996</guid>
+		<description><![CDATA[Po przestronnym placu, nad którym dominuje betonowy monument, spaceruje kilkoro turystów pozujących do zdjęć z podobiznami bohaterów kubańskiej rewolucji &#8211; Ernesto Che Guevarą i Camilo Cienfuegosem. Poza nimi hula tu tylko wiatr. Na skraju placu zatrzymuje się kolejny autokar i&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/niech-zyje-rewolucja/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+		</item>
+		<item>
+		<title>Amerykańska motoryzacja spotyka kubańską kreatywność</title>
+		<link>/amerykanska-motoryzacja-spotyka-kubanska-kreatywnosc/</link>
+		<comments>/amerykanska-motoryzacja-spotyka-kubanska-kreatywnosc/?#comments</comments>
+		<pubDate>Sun, 06 Dec 2015 14:33:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kuba]]></category>
+		<category><![CDATA[Hawana]]></category>
+		<category><![CDATA[rewolucja kubańska]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=11422</guid>
+		<description><![CDATA[Jak tu nie mówić o kontrastach, kiedy szerokim hawańskim bulwarem Malecón pędzą obok siebie barwne amerykańskie krążowniki szos z lat 40. i 50. XX wieku, błyszczące nowoczesne toyoty, kie i chińskie geely, a pomiędzy nimi przemyka kubańska klasa średnia &#8211;&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/amerykanska-motoryzacja-spotyka-kubanska-kreatywnosc/feed/</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+		</item>
+	</channel>
+</rss>

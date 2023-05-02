@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anuradhapura &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/anuradhapura/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>U stóp starożytnych stup o skomplikowanych nazwach</title>
+		<link>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/</link>
+		<comments>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/?#comments</comments>
+		<pubDate>Wed, 29 Aug 2012 10:07:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[Anuradhapura]]></category>
+		<category><![CDATA[buddyzm]]></category>
+		<category><![CDATA[religia]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[stupa]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=6785</guid>
+		<description><![CDATA[Anuradhapura. Zapamiętanie tej nazwy zajmuje mi dobre kilka godzin. A to przecież jedno z najczęściej powtarzanych słów tamtego dnia. Tak nazywała się jedna z dawnych wspaniałych stolic Sri Lanki. Dzisiaj – ogromny obszar pełen zabytkowych świątyń, stup (zwanych tutaj dagobami),&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Ludzie z olśniewającego kraju</title>
+		<link>/ludzie-z-olsniewajacego-kraju/</link>
+		<comments>/ludzie-z-olsniewajacego-kraju/?#comments</comments>
+		<pubDate>Mon, 30 May 2011 20:32:19 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[Anuradhapura]]></category>
+		<category><![CDATA[Habarana]]></category>
+		<category><![CDATA[Kandy]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=4402</guid>
+		<description><![CDATA[Sri Lanka w sanskrycie oznacza olśniewający kraj. Może to dlatego mam wrażenie, że Lankijczycy to naród ciągle uśmiechnięty &#8211; kto by się w takim przypadku nie uśmiechał? Przyjazne spojrzenie można spotkać na Sri Lance na każdym kroku. Ludzie są otwarci,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/ludzie-z-olsniewajacego-kraju/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+	</channel>
+</rss>

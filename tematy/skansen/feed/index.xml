@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>skansen &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/skansen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Den Gamle By &#8211; miejski wehikuł czasu</title>
+		<link>/den-gamle-by-miejski-wehikul-czasu/</link>
+		<comments>/den-gamle-by-miejski-wehikul-czasu/?#comments</comments>
+		<pubDate>Sun, 26 Aug 2018 11:13:25 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dania]]></category>
+		<category><![CDATA[skansen]]></category>
+
+		<guid isPermaLink="false">/?p=14831</guid>
+		<description><![CDATA[Przestronne pomieszczenie na pierwszy rzut oka wygląda tak, jakby aptekarz zaledwie przed chwilą wyszedł do przyaptecznego ogrodu, by zebrać świeże zioła potrzebne mu do przyrządzenia uzdrawiającej mikstury. Dopiero po chwili oko zauważa, że szafki, pojemniki i przyrządy pokrywa cienka warstwa&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/den-gamle-by-miejski-wehikul-czasu/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+		</item>
+		<item>
+		<title>Mazowiecka wieś w zimowej szacie</title>
+		<link>/mazowiecka-wies-w-zimowej-szacie/</link>
+		<comments>/mazowiecka-wies-w-zimowej-szacie/?#comments</comments>
+		<pubDate>Mon, 09 Jan 2017 17:19:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polska]]></category>
+		<category><![CDATA[Boże Narodzenie]]></category>
+		<category><![CDATA[mazowsze]]></category>
+		<category><![CDATA[skansen]]></category>
+
+		<guid isPermaLink="false">/?p=12780</guid>
+		<description><![CDATA[W jednym kącie pomieszczenia widać udekorowaną choinkę, w drugim — snopek wysuszonych kłosów zbóż. Nakryty białym obrusem stół stoi na środku izby. Pomiędzy dwoma świecznikami widać sianko, na którym leży opłatek. W sześciu fajansowych głębokich talerzach czekają już uszka z&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/mazowiecka-wies-w-zimowej-szacie/feed/</wfw:commentRss>
+		<slash:comments>53</slash:comments>
+		</item>
+		<item>
+		<title>Średniowieczne Turku</title>
+		<link>/sredniowieczne-turku/</link>
+		<comments>/sredniowieczne-turku/?#comments</comments>
+		<pubDate>Mon, 07 Mar 2011 17:29:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Finlandia]]></category>
+		<category><![CDATA[katedra]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[skansen]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[Turku]]></category>
+		<category><![CDATA[zamek]]></category>
+
+		<guid isPermaLink="false">/?p=3592</guid>
+		<description><![CDATA[Jak rozpoznać średniowieczne miasto? W przybliżeniu: leży nad rzeką, ma zamek, katedrę i rynek. Jedynym takim miastem w Finlandii jest Turku, którego szwedzka nazwa brzmi Åbo. To przyjemne fińskie miasteczko leżące jakieś 170 kilometrów na zachód od Helsinek u ujścia&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/sredniowieczne-turku/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

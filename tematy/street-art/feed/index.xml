@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>street art &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/street-art/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>O nocach w więzieniu, koszarach i przestrzeni artystycznej</title>
+		<link>/o-nocach-w-wiezieniu-koszarach-i-przestrzeni-artystycznej/</link>
+		<comments>/o-nocach-w-wiezieniu-koszarach-i-przestrzeni-artystycznej/?#comments</comments>
+		<pubDate>Sun, 16 Jul 2017 15:43:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowenia]]></category>
+		<category><![CDATA[Lublana]]></category>
+		<category><![CDATA[nocleg]]></category>
+		<category><![CDATA[street art]]></category>
+
+		<guid isPermaLink="false">/?p=13897</guid>
+		<description><![CDATA[Gdyby nie miękkie podeszwy butów, odgłos kroków niósłby się echem po długim, pustym korytarzu na piętrze więziennego budynku. Mijamy kolejne cele. Odliczamy: numer 101&#8230; 102&#8230; 103&#8230; 104&#8230; 105&#8230; 106. Stajemy przed blaszanymi drzwiami oznakowanymi numerem 107. W tej celi przyjdzie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/o-nocach-w-wiezieniu-koszarach-i-przestrzeni-artystycznej/feed/</wfw:commentRss>
+		<slash:comments>42</slash:comments>
+		</item>
+		<item>
+		<title>Bruksela stolicą&#8230; komiksu!</title>
+		<link>/bruksela-stolica-komiksu/</link>
+		<comments>/bruksela-stolica-komiksu/?#comments</comments>
+		<pubDate>Fri, 13 Apr 2012 16:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Belgia]]></category>
+		<category><![CDATA[Bruksela]]></category>
+		<category><![CDATA[komiks]]></category>
+		<category><![CDATA[street art]]></category>
+
+		<guid isPermaLink="false">/?p=6318</guid>
+		<description><![CDATA[Zaczęło się w 1993 r. To wtedy na murach brukselskich kamienic zaczęły powstawać pierwsze rysunki. A może jednak początku szukać należy jeszcze wcześniej? Bo tuż po wojnie narodził się Tintin, a po nim kolejni komiksowi bohaterzy. Bruksela szybko stałą się&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/bruksela-stolica-komiksu/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

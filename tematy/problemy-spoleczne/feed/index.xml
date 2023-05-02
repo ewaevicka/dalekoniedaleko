@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>problemy społeczne &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/problemy-spoleczne/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Pattaya nocą. Raj dla seksturystów</title>
+		<link>/pattaya-noca-raj-dla-seksturystow/</link>
+		<comments>/pattaya-noca-raj-dla-seksturystow/?#comments</comments>
+		<pubDate>Thu, 23 Feb 2012 07:26:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[problemy społeczne]]></category>
+		<category><![CDATA[seksturystyka]]></category>
+
+		<guid isPermaLink="false">/?p=6091</guid>
+		<description><![CDATA[W klubie panuje półmrok, z głośników sączy się dość żwawa muzyka. Pijemy drinki rozglądając się dookoła. Nagle zapalają się wszystkie światła, a do nas podchodzi kelnerka, ponaglając nas do zapłaty. Dziewczyny, które jeszcze przed chwilą tańczyły na środku klubu, nagle&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pattaya-noca-raj-dla-seksturystow/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+		</item>
+		<item>
+		<title>Znikające jezioro Boeng Kak</title>
+		<link>/znikajace-jezioro-boeng-kak/</link>
+		<comments>/znikajace-jezioro-boeng-kak/?#comments</comments>
+		<pubDate>Tue, 29 Mar 2011 22:29:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kambodża]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[Phnom Penh]]></category>
+		<category><![CDATA[problemy społeczne]]></category>
+
+		<guid isPermaLink="false">/?p=4166</guid>
+		<description><![CDATA[O jeziorze Boeng Kak krążyły kiedyś opowieści, że jest toksyczne, a kąpiel w nim może przyprawić o najprzeróżniejsze choroby. Może to dlatego hostele położone nad nim należą do najtańszych w Phnom Penh, a okolica jest backpackerskim zagłębiem. Z tych względów&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/znikajace-jezioro-boeng-kak/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Wolność w mieście Christiania</title>
+		<link>/wolnosc-w-miescie-christiania/</link>
+		<comments>/wolnosc-w-miescie-christiania/?#comments</comments>
+		<pubDate>Sun, 28 Nov 2010 15:19:49 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dania]]></category>
+		<category><![CDATA[Kopenhaga]]></category>
+		<category><![CDATA[problemy społeczne]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=2862</guid>
+		<description><![CDATA[Wolność nie oznacza możliwości robienia czegokolwiek. Nie można na przykład biegać. Jeśli ktoś biegnie, może to oznaczać, że jest złodziejem uciekającym przed policjantem albo też samym policjantem. Mieszkańcy Christianii przecież nie muszą się spieszyć. Bo po co? Szczęśliwi czasu nie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wolnosc-w-miescie-christiania/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+	</channel>
+</rss>

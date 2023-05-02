@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>śladami sławnych osób &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/sladami-slawnych-osob/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Tropem Wolanda i jego świty, czyli spacer po Moskwie z Mistrzem i Małgorzatą w ręku</title>
+		<link>/tropem-wolanda-i-jego-swity-czyli-spacer-po-moskwie-z-mistrzem-i-malgorzata-w-reku/</link>
+		<comments>/tropem-wolanda-i-jego-swity-czyli-spacer-po-moskwie-z-mistrzem-i-malgorzata-w-reku/?#comments</comments>
+		<pubDate>Wed, 05 Sep 2018 04:32:28 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Rosja]]></category>
+		<category><![CDATA[Moskwa]]></category>
+		<category><![CDATA[Petersburg]]></category>
+		<category><![CDATA[śladami sławnych osób]]></category>
+
+		<guid isPermaLink="false">/?p=14905</guid>
+		<description><![CDATA[Kiedy zza chmur przebijało się właśnie gorące wiosenne słońce, na Patriarszych Prudach zjawiły się dwie obywatelki. Pierwsza z nich, mniej więcej trzydziestoletnia była ubrana w szarą sukienkę, a jej szyję zdobił zwiewny szal. Druga &#8211; nieco starsza, niewysoka &#8211; szła&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tropem-wolanda-i-jego-swity-czyli-spacer-po-moskwie-z-mistrzem-i-malgorzata-w-reku/feed/</wfw:commentRss>
+		<slash:comments>40</slash:comments>
+		</item>
+		<item>
+		<title>Zanzibar Freddiego Mercury&#8217;ego &#8211; śladami, których nie ma</title>
+		<link>/zanzibar-freddiego-mercuryego-sladami-ktorych-nie-ma/</link>
+		<comments>/zanzibar-freddiego-mercuryego-sladami-ktorych-nie-ma/?#comments</comments>
+		<pubDate>Sat, 13 Aug 2016 18:45:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tanzania]]></category>
+		<category><![CDATA[śladami sławnych osób]]></category>
+		<category><![CDATA[Stone Town]]></category>
+		<category><![CDATA[Zanzibar]]></category>
+
+		<guid isPermaLink="false">/?p=12104</guid>
+		<description><![CDATA[Bawił się na białych, piaszczystych plażach a pierwsze kroki stawiał w Ogrodach Forodhani &#8211; mówi pierwsza strona karty dań. Przejdź się ulicami, po których wędrował i zajrzyj na targ, gdzie jego rodzina robiła zakupy &#8211; zachęca ulotka agencji turystycznej. Jednak&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zanzibar-freddiego-mercuryego-sladami-ktorych-nie-ma/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+		<item>
+		<title>Morze, daiquiri, natchnienie i miłość &#8211; ślady Ernesta Hemingwaya na Kubie</title>
+		<link>/morze-daiquiri-natchnienie-i-milosc-slady-ernesta-hemingwaya-na-kubie/</link>
+		<comments>/morze-daiquiri-natchnienie-i-milosc-slady-ernesta-hemingwaya-na-kubie/?#comments</comments>
+		<pubDate>Sun, 22 Nov 2015 15:07:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kuba]]></category>
+		<category><![CDATA[Hawana]]></category>
+		<category><![CDATA[Hemingway]]></category>
+		<category><![CDATA[śladami sławnych osób]]></category>
+
+		<guid isPermaLink="false">/?p=11337</guid>
+		<description><![CDATA[W całym domu zalega cisza. Przez otwarte okiennice do środka wpadają delikatne podmuchy wiatru, na tyle jednak słabe, by nie tworzyć przeciągu, który z hukiem zamknąłby okna lub drzwi. Na stoliku stoją puste butelki po wodzie mineralnej, whiskey i rumie.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/morze-daiquiri-natchnienie-i-milosc-slady-ernesta-hemingwaya-na-kubie/feed/</wfw:commentRss>
+		<slash:comments>42</slash:comments>
+		</item>
+	</channel>
+</rss>

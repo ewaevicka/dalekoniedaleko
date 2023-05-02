@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Meteory &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/meteory/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Meteory &#8211; błądząc wśród skał zawieszonych w powietrzu</title>
+		<link>/meteory-bladzac-wsrod-skal-zawieszonych-w-powietrzu/</link>
+		<comments>/meteory-bladzac-wsrod-skal-zawieszonych-w-powietrzu/?#comments</comments>
+		<pubDate>Tue, 08 Sep 2015 09:28:55 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[klasztor]]></category>
+		<category><![CDATA[Meteory]]></category>
+		<category><![CDATA[skały]]></category>
+
+		<guid isPermaLink="false">/?p=11158</guid>
+		<description><![CDATA[Krajobraz rozciągający się przed moimi oczami wydaje się jakby nie z tego świata. Przyglądam się wyrzeźbionym i wymuskanym klifom, strzelającym ku niebu słupom skalnym wyrastającym niczym ogromne kamienne drzewa z porośniętej bujnym lasem ziemi. Tuż przed sobą mam jedną z&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/meteory-bladzac-wsrod-skal-zawieszonych-w-powietrzu/feed/</wfw:commentRss>
+		<slash:comments>61</slash:comments>
+		</item>
+	</channel>
+</rss>

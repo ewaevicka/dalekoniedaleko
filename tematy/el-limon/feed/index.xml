@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>El Limón &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/el-limon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Salto El Limón</title>
+		<link>/salto-el-limon/</link>
+		<comments>/salto-el-limon/?#comments</comments>
+		<pubDate>Sat, 18 Dec 2010 01:23:58 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[El Limón]]></category>
+		<category><![CDATA[Las Terrenas]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[przyroda]]></category>
+		<category><![CDATA[Samaná]]></category>
+		<category><![CDATA[wodospad]]></category>
+
+		<guid isPermaLink="false">/?p=2963</guid>
+		<description><![CDATA[Jeśli chodzi o wielkość, daleko mu chociażby do Niagary. Ale wodospad El Limón jest położony tak pięknie, że wynagradza to nie tylko niezbyt dużą wysokość w porównaniu do słynnych wodospadów, ale też trudy dotarcia do niego. Bo godzinna przejażdżka konno,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/salto-el-limon/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+		</item>
+	</channel>
+</rss>

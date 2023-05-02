@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Formentor &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/formentor/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Cap de Formentor &#8211; koniuszek Majorki</title>
+		<link>/cap-de-formentor-koniuszek-majorki/</link>
+		<comments>/cap-de-formentor-koniuszek-majorki/?#comments</comments>
+		<pubDate>Sun, 13 Jul 2014 09:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Baleary]]></category>
+		<category><![CDATA[Formentor]]></category>
+		<category><![CDATA[Majorka]]></category>
+		<category><![CDATA[przylądek]]></category>
+
+		<guid isPermaLink="false">/?p=8209</guid>
+		<description><![CDATA[Zatrzymujemy się w punkcie widokowym u nasady przylądka i wysiadamy z auta. Wieje. Niektóre podmuchy są tak mocne, że aż zapierają dech w piersiach. Dookoła poszarpane skały porośnięte drzewami. Kiedy spoglądamy w dół, dziesiątki metrów poniżej szaleje woda rozbryzgując się&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cap-de-formentor-koniuszek-majorki/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+	</channel>
+</rss>

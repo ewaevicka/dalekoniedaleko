@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Polecane &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/polecane/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Konkurs kenijski &#8211; wydanie drugie</title>
+		<link>/konkurs-kenijski-wydanie-drugie/</link>
+		<comments>/konkurs-kenijski-wydanie-drugie/?#comments</comments>
+		<pubDate>Sat, 01 Jun 2019 21:20:44 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polecane]]></category>
+		<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[konkurs]]></category>
+
+		<guid isPermaLink="false">/?p=15597</guid>
+		<description><![CDATA[Wyobraź sobie zachód słońca nad bezkresną sawanną, poprzetykana gdzieniegdzie parasolowatymi akacjami. Czerwona kula słońca chowa się za horyzontem, podczas gdy przyglądasz się rodzinie słoni, powoli przechadzającej się wśród wysokich, lekko wyschniętych traw. Wyobraź sobie szum fal uderzających o brzeg kilkukilometrowej&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/konkurs-kenijski-wydanie-drugie/feed/</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+		</item>
+		<item>
+		<title>W świetle tysięcy lampionów, wśród omszałych ruin</title>
+		<link>/w-swietle-tysiecy-lampionow-wsrod-omszalych-ruin/</link>
+		<comments>/w-swietle-tysiecy-lampionow-wsrod-omszalych-ruin/?#comments</comments>
+		<pubDate>Mon, 25 Feb 2019 19:54:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polecane]]></category>
+		<category><![CDATA[Wietnam]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[starówka]]></category>
+
+		<guid isPermaLink="false">/?p=15513</guid>
+		<description><![CDATA[Zmrok zapada tutaj błyskawicznie. W jednej chwili słońce chowa się za horyzontem, w następnej niebo jest już ciemnogranatowe. Ten króciutki moment, gdy nie widać już światła słonecznego, ale nad miastem nie rozpostarła się jeszcze czarna noc, jest najpiękniejszy. Niebo ma&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-swietle-tysiecy-lampionow-wsrod-omszalych-ruin/feed/</wfw:commentRss>
+		<slash:comments>39</slash:comments>
+		</item>
+		<item>
+		<title>Herbata z widokiem na niedokończony minaret</title>
+		<link>/herbata-z-widokiem-an-niedokonczony-minaret/</link>
+		<comments>/herbata-z-widokiem-an-niedokonczony-minaret/?#comments</comments>
+		<pubDate>Fri, 01 Feb 2019 17:15:21 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polecane]]></category>
+		<category><![CDATA[Uzbekistan]]></category>
+		<category><![CDATA[Chiwa]]></category>
+		<category><![CDATA[Jedwabny Szlak]]></category>
+		<category><![CDATA[starówka]]></category>
+
+		<guid isPermaLink="false">/?p=15466</guid>
+		<description><![CDATA[Z przestronnego tarasu na dachu restauracji rozpościera się tak ładny widok, że dziwię się, czemu w porze obiadowej nie jest on pełen. Oprócz mnie i Kami, zajmujących jeden stolik w rogu, po sąsiedzku siedzi troje Hiszpanów, a w międzyczasie pojawia&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/herbata-z-widokiem-an-niedokonczony-minaret/feed/</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+		</item>
+	</channel>
+</rss>

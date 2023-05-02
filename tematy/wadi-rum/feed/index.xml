@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wadi Rum &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/wadi-rum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>W gościnie u Beduinów, ludzi pustyni</title>
+		<link>/w-goscinie-u-beduinow-ludzi-pustyni/</link>
+		<comments>/w-goscinie-u-beduinow-ludzi-pustyni/?#comments</comments>
+		<pubDate>Thu, 18 Jun 2015 10:15:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Jordania]]></category>
+		<category><![CDATA[Beduini]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[Petra]]></category>
+		<category><![CDATA[pustynia]]></category>
+		<category><![CDATA[Wadi Rum]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=10705</guid>
+		<description><![CDATA[Nawwaf jest dumny z bycia Beduinem, co wielokrotnie podkreśla w niejednej rozmowie. Choć ma niewielkie mieszkanie w okolicach Petry, to sam mówi, że dużo lepiej śpi mu się na pustyni pod gołym niebem. Pustynia jest jego domem i tam dopiero&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-goscinie-u-beduinow-ludzi-pustyni/feed/</wfw:commentRss>
+		<slash:comments>34</slash:comments>
+		</item>
+		<item>
+		<title>Wśród skał i piasków Wadi Rum</title>
+		<link>/wsrod-skal-i-piaskow-wadi-rum/</link>
+		<comments>/wsrod-skal-i-piaskow-wadi-rum/?#comments</comments>
+		<pubDate>Tue, 17 Jun 2014 06:56:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Jordania]]></category>
+		<category><![CDATA[dolina]]></category>
+		<category><![CDATA[pustynia]]></category>
+		<category><![CDATA[wadi]]></category>
+		<category><![CDATA[Wadi Rum]]></category>
+
+		<guid isPermaLink="false">/?p=8168</guid>
+		<description><![CDATA[Chcę jechać na pustynię, a chętnych brak! Wycieczkę, która w sezonie zrobiłabym w niewielkiej, kilkuosobowej grupce, tym razem odbywam sama, z przewodnikiem (oczywiście dopłacając za ekskluzywność, a jakże!) Ale będąc w Jordanii po prostu nie można pominąć wizyty w dolinie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wsrod-skal-i-piaskow-wadi-rum/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+	</channel>
+</rss>

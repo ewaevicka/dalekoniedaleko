@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>prawosławie &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/prawoslawie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Klasztor skalny Aładża</title>
+		<link>/klasztor-skalny-aladza/</link>
+		<comments>/klasztor-skalny-aladza/?#comments</comments>
+		<pubDate>Sun, 14 Aug 2011 12:28:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Bułgaria]]></category>
+		<category><![CDATA[Aładża]]></category>
+		<category><![CDATA[katakumby]]></category>
+		<category><![CDATA[klasztor]]></category>
+		<category><![CDATA[prawosławie]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[Złote Piaski]]></category>
+
+		<guid isPermaLink="false">/?p=4748</guid>
+		<description><![CDATA[Większość turystów przyjeżdżających do bułgarskich Złotych Piasków pewnie nawet nie zdaje sobie sprawy, że tuż obok znajduje się bardzo ciekawe miejsce. Zresztą komu chciałoby się iść jakieś dwa kilometry pod górkę, żeby zobaczyć pozostałości dawnego klasztoru w skale? Można jeszcze&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/klasztor-skalny-aladza/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+		<item>
+		<title>Pod złotymi kopułami</title>
+		<link>/pod-zlotymi-kopulami/</link>
+		<comments>/pod-zlotymi-kopulami/?#comments</comments>
+		<pubDate>Tue, 30 Nov 2010 06:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Ukraina]]></category>
+		<category><![CDATA[chrześcijaństwo]]></category>
+		<category><![CDATA[Kijów]]></category>
+		<category><![CDATA[prawosławie]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=258</guid>
+		<description><![CDATA[Kijów zrobił na mnie bardzo pozytywne wrażenie, ale też zaskoczył nieco. Bo w tym mieście przeplatają się dwa całkowicie różne charaktery budowli. Z jednej strony mamy wielkie, monumentalne socrealistyczne dzieła. Takie szare, betonowe, przytłaczające nieco. Z drugiej &#8211; strzelające w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pod-zlotymi-kopulami/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

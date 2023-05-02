@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>seksturystyka &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/seksturystyka/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Pattaya nocą. Raj dla seksturystów</title>
+		<link>/pattaya-noca-raj-dla-seksturystow/</link>
+		<comments>/pattaya-noca-raj-dla-seksturystow/?#comments</comments>
+		<pubDate>Thu, 23 Feb 2012 07:26:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[problemy społeczne]]></category>
+		<category><![CDATA[seksturystyka]]></category>
+
+		<guid isPermaLink="false">/?p=6091</guid>
+		<description><![CDATA[W klubie panuje półmrok, z głośników sączy się dość żwawa muzyka. Pijemy drinki rozglądając się dookoła. Nagle zapalają się wszystkie światła, a do nas podchodzi kelnerka, ponaglając nas do zapłaty. Dziewczyny, które jeszcze przed chwilą tańczyły na środku klubu, nagle&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pattaya-noca-raj-dla-seksturystow/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+		</item>
+		<item>
+		<title>Boca Chica: wszystko jest na sprzedaż</title>
+		<link>/boca-chica-wszystko-jest-na-sprzedaz/</link>
+		<comments>/boca-chica-wszystko-jest-na-sprzedaz/?#comments</comments>
+		<pubDate>Mon, 27 Dec 2010 15:56:23 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[prostytucja]]></category>
+		<category><![CDATA[seksturystyka]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=3010</guid>
+		<description><![CDATA[W niedzielny wieczór odwiedzamy miejsce będące swego rodzaju dominikańską dzielnicą czerwonych latarni. W ciągu dnia mamy tu kilka niezłych restauracji, w których można całkiem dobrze zjeść, kilka sklepów, gdzie można zaopatrzyć się w sprawunki spożywcze, parę barów. Ale w nocy&#8230;&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/boca-chica-wszystko-jest-na-sprzedaz/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

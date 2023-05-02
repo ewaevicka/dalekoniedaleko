@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Singapur &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/azja/singapur/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Universal Studios &#8211; singapurski park rozrywki, gdzie można poczuć się jak dziecko</title>
+		<link>/universal-studios-singapurski-park-rozrywki-gdzie-mozna-poczuc-sie-jak-dziecko/</link>
+		<comments>/universal-studios-singapurski-park-rozrywki-gdzie-mozna-poczuc-sie-jak-dziecko/?#comments</comments>
+		<pubDate>Wed, 26 Dec 2018 07:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Singapur]]></category>
+		<category><![CDATA[park rozrywki]]></category>
+
+		<guid isPermaLink="false">/?p=15284</guid>
+		<description><![CDATA[Gardło drapie mnie lekko od krzyku. Gdy staję na ziemi, zauważam, że trzęsą mi się nogi. Wiatr wycisnął mi łzę z oka. Mimo to, czuję rozpierającą radość, tak że chciałabym śmiać się na głos. Ponieważ jestem sama, uznaję, że głupio&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/universal-studios-singapurski-park-rozrywki-gdzie-mozna-poczuc-sie-jak-dziecko/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Singapurze</title>
+		<link>/garsc-informacji-praktycznych-o-singapurze/</link>
+		<comments>/garsc-informacji-praktycznych-o-singapurze/?#comments</comments>
+		<pubDate>Wed, 05 Dec 2018 23:07:27 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Singapur]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+
+		<guid isPermaLink="false">/?p=15300</guid>
+		<description><![CDATA[Singapur jest niewielkim państewkiem o powierzchni mniejszej od Kijowa, które znajduje się na wyspie u koniuszka Półwyspu Malajskiego, w sąsiedztwie Malezji. Przez krótki okres w swojej historii było ono nawet zjednoczone z Malezją, ale różnice, między innymi kulturowe, sprawiły, że&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-singapurze/feed/</wfw:commentRss>
+		<slash:comments>39</slash:comments>
+		</item>
+	</channel>
+</rss>

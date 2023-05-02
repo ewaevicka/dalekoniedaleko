@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Festa des Vermar &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/festa-des-vermar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Festa des Vermar &#8211; radosne winobranie na Majorce</title>
+		<link>/festa-des-vermar-radosne-winobranie-na-majorce/</link>
+		<comments>/festa-des-vermar-radosne-winobranie-na-majorce/?#comments</comments>
+		<pubDate>Sun, 28 Sep 2014 13:31:17 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Baleary]]></category>
+		<category><![CDATA[Festa des Vermar]]></category>
+		<category><![CDATA[Majorka]]></category>
+		<category><![CDATA[parada]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=9094</guid>
+		<description><![CDATA[Z końcem września na Majorce nadchodzi czas winobrania. A to jak nasze żniwa. Święto, do którego całe miasteczko Binissalem przygotowuje się od miesięcy. Są koncerty, zabawy, bitwa na nadgniłe winogrona. Radosne celebrowanie, w czasie którego przelewają się hektolitry wina –&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/festa-des-vermar-radosne-winobranie-na-majorce/feed/</wfw:commentRss>
+		<slash:comments>27</slash:comments>
+		</item>
+		<item>
+		<title>Wielka bitwa na nadgniłe winogrona</title>
+		<link>/wielka-bitwa-na-nadgnile-winogrona/</link>
+		<comments>/wielka-bitwa-na-nadgnile-winogrona/?#comments</comments>
+		<pubDate>Sun, 23 Sep 2012 11:04:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Baleary]]></category>
+		<category><![CDATA[Binissalem]]></category>
+		<category><![CDATA[Festa des Vermar]]></category>
+		<category><![CDATA[Majorka]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[wino]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=6895</guid>
+		<description><![CDATA[To jest dopiero bitwa! Wojna totalna. Nie ma dwóch armii walczących przeciwko sobie. Tutaj każdy walczy z każdym. Szaleństwo. Bronią masowego rażenia są lekko nadgniłe winogrona, którymi obrzucają się walczący. Ale na koniec nie ma przegranych, a z pola bitwy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wielka-bitwa-na-nadgnile-winogrona/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+	</channel>
+</rss>

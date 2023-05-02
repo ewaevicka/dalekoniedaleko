@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Santa Cruz &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/santa-cruz/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Sewilla</title>
+		<link>/sewilla/</link>
+		<comments>/sewilla/?#comments</comments>
+		<pubDate>Wed, 23 Jun 2010 21:47:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Andaluzja]]></category>
+		<category><![CDATA[katedra]]></category>
+		<category><![CDATA[pamiątki]]></category>
+		<category><![CDATA[Santa Cruz]]></category>
+		<category><![CDATA[Sewilla]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=2211</guid>
+		<description><![CDATA[Stolica Andaluzji ma coś wspólnego z Kairem &#8211; jest w niej niesamowicie gorąco. Dzisiaj było ponad 40 stopni w cieniu. To pewnie dlatego w ciągu dnia miasto zamiera. Po ulicach szwendają się tylko niewielkie grupki spoconych i zmęczonych upałem turystów.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/sewilla/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+	</channel>
+</rss>

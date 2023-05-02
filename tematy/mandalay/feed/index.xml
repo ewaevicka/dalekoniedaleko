@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mandalay &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/mandalay/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Marionetki z Mandalay. Pociąganie za sznurki to sztuka</title>
+		<link>/marionetki-z-mandalay-pociaganie-za-sznurki-to-sztuka/</link>
+		<comments>/marionetki-z-mandalay-pociaganie-za-sznurki-to-sztuka/?#comments</comments>
+		<pubDate>Thu, 01 Nov 2012 08:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Mandalay]]></category>
+		<category><![CDATA[przedstawienie]]></category>
+		<category><![CDATA[sztuka]]></category>
+		<category><![CDATA[teatr]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=6981</guid>
+		<description><![CDATA[Laleczka podskakuje w rytm dość skrzekliwej muzyki. Rusza rękoma, nogami, obraca głowę w lewo i w prawo. Przyglądam się uważnie, dość intensywnie zastanawiając się, jak to możliwe, że przy takich gwałtownych ruchach te sznureczki przyczepione do różnych części ciała marionetki&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/marionetki-z-mandalay-pociaganie-za-sznurki-to-sztuka/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Dach nad głową: Birma</title>
+		<link>/dach-nad-glowa-birma/</link>
+		<comments>/dach-nad-glowa-birma/?#comments</comments>
+		<pubDate>Fri, 09 Dec 2011 12:45:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Bagan]]></category>
+		<category><![CDATA[guesthouse]]></category>
+		<category><![CDATA[hostel]]></category>
+		<category><![CDATA[hotel]]></category>
+		<category><![CDATA[Inle]]></category>
+		<category><![CDATA[Kalaw]]></category>
+		<category><![CDATA[Kinpun]]></category>
+		<category><![CDATA[Mandalay]]></category>
+		<category><![CDATA[nocleg]]></category>
+		<category><![CDATA[Nyaung Shwe]]></category>
+		<category><![CDATA[Nyaung U]]></category>
+		<category><![CDATA[Rangun]]></category>
+		<category><![CDATA[Yangon]]></category>
+
+		<guid isPermaLink="false">/?p=5507</guid>
+		<description><![CDATA[Myślałam, że będzie jak w innych krajach Azji Południowo-Wschodniej. Przyjeżdżam do hostelu, oglądam pokój, jak się podoba to zostaję, jak nie &#8211; to szukam gdzieś indziej. Być może jeszcze niedawno tak było, ale już nie jest. Nauczone brakiem miejsc w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dach-nad-glowa-birma/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Okolice Mandalay</title>
+		<link>/okolice-mandalay/</link>
+		<comments>/okolice-mandalay/?#comments</comments>
+		<pubDate>Fri, 18 Nov 2011 12:11:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Amarapura]]></category>
+		<category><![CDATA[Inwa]]></category>
+		<category><![CDATA[klasztor]]></category>
+		<category><![CDATA[Mandalay]]></category>
+		<category><![CDATA[Mingun]]></category>
+		<category><![CDATA[most]]></category>
+		<category><![CDATA[Sagaing]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[teatr]]></category>
+		<category><![CDATA[U Bein]]></category>
+		<category><![CDATA[wodospad]]></category>
+
+		<guid isPermaLink="false">/?p=5414</guid>
+		<description><![CDATA[Ograniczony czas podróży wymaga podejmowania decyzji. My poświęcamy ostatnią stolicę birmańskiego królestwa na rzecz jej okolic. Dwa dni, które tu spędzamy, wypełnione są wręcz po brzegi, a każdego wieczoru, jak docieramy wieczorem do hostelu, to wręcz opadamy z sił. Nic&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/okolice-mandalay/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

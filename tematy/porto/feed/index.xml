@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Porto &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/porto/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Porto &#8211; tam, gdzie życie płynie wolniej</title>
+		<link>/porto-tam-gdzie-zycie-plynie-wolniej/</link>
+		<comments>/porto-tam-gdzie-zycie-plynie-wolniej/?#comments</comments>
+		<pubDate>Thu, 10 Mar 2011 22:24:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[chrześcijaństwo]]></category>
+		<category><![CDATA[dworzec]]></category>
+		<category><![CDATA[katedra]]></category>
+		<category><![CDATA[Porto]]></category>
+		<category><![CDATA[stacja kolejowa]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[Vila Nova de Gaia]]></category>
+
+		<guid isPermaLink="false">/?p=3631</guid>
+		<description><![CDATA[O Portugalii mówi się, że Braga się modli, Coimbra studiuje, Porto pracuje, a Lizbona tańczy. Nie jestem jednak przekonana, że to do końca prawda. Od osób pochodzących z Porto słyszałam opinie o stolicy Portugalii, że tam to dopiero jest stres,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/porto-tam-gdzie-zycie-plynie-wolniej/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+		</item>
+		<item>
+		<title>Vila Nova de Gaia</title>
+		<link>/vila-nova-de-gaia/</link>
+		<comments>/vila-nova-de-gaia/?#comments</comments>
+		<pubDate>Thu, 06 Jan 2011 12:45:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[alkohol]]></category>
+		<category><![CDATA[most]]></category>
+		<category><![CDATA[napoje]]></category>
+		<category><![CDATA[piwnice win]]></category>
+		<category><![CDATA[Porto]]></category>
+		<category><![CDATA[Vila Nova de Gaia]]></category>
+		<category><![CDATA[wino]]></category>
+
+		<guid isPermaLink="false">/?p=3044</guid>
+		<description><![CDATA[Będąc w Porto trzeba koniecznie, ale to koniecznie wybrać się na drugą stronę rzeki Douro. Vila Nova de Gaia, która się tam znajduje, jest miejscem, gdzie zlokalizowane są piwnice win największych i najsłynniejszych producentów porto. Widać to zresztą z samego&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/vila-nova-de-gaia/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

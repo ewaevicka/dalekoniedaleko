@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kandy &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/kandy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Ludzie z olśniewającego kraju</title>
+		<link>/ludzie-z-olsniewajacego-kraju/</link>
+		<comments>/ludzie-z-olsniewajacego-kraju/?#comments</comments>
+		<pubDate>Mon, 30 May 2011 20:32:19 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[Anuradhapura]]></category>
+		<category><![CDATA[Habarana]]></category>
+		<category><![CDATA[Kandy]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=4402</guid>
+		<description><![CDATA[Sri Lanka w sanskrycie oznacza olśniewający kraj. Może to dlatego mam wrażenie, że Lankijczycy to naród ciągle uśmiechnięty &#8211; kto by się w takim przypadku nie uśmiechał? Przyjazne spojrzenie można spotkać na Sri Lance na każdym kroku. Ludzie są otwarci,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/ludzie-z-olsniewajacego-kraju/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>Świątynia Zęba w Kandy</title>
+		<link>/swiatynia-zeba-w-kandy/</link>
+		<comments>/swiatynia-zeba-w-kandy/?#comments</comments>
+		<pubDate>Fri, 04 Feb 2011 20:02:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[buddyzm]]></category>
+		<category><![CDATA[Kandy]]></category>
+		<category><![CDATA[legenda]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=3252</guid>
+		<description><![CDATA[Jak w wielu miastach na Sri Lance, w Kandy stoi świątynia buddyjska. Ta jednak jest wyjątkowa. To właśnie tutaj przechowuje się najświętszą relikwię, jaka znajduje się na Cejlonie &#8211; ząb samego Buddy. Dalada Maligawa, bo tak nazywa się ta świątynia&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/swiatynia-zeba-w-kandy/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Tańce kandyjskie</title>
+		<link>/tance-kandyjskie/</link>
+		<comments>/tance-kandyjskie/?#comments</comments>
+		<pubDate>Fri, 03 Dec 2010 07:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[Kandy]]></category>
+		<category><![CDATA[legenda]]></category>
+		<category><![CDATA[przedstawienie]]></category>
+		<category><![CDATA[taniec]]></category>
+		<category><![CDATA[wierzenia]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=2897</guid>
+		<description><![CDATA[Sri Lanka, miasto Kandy. Wchodzę do słabo oświetlonej sali i już od progu czuję się, jakbym przeniosła się piętnaście lat wstecz i znalazła w jakimś małomiasteczkowym domu kultury. Do ręki dostaję świstek szarego papieru, na którym łamaną polszczyzną opisano w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tance-kandyjskie/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

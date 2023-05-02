@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Agadir &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/agadir/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Agadir</title>
+		<link>/agadir/</link>
+		<comments>/agadir/?#comments</comments>
+		<pubDate>Fri, 22 Jul 2011 08:19:28 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Maroko]]></category>
+		<category><![CDATA[Agadir]]></category>
+		<category><![CDATA[kazba]]></category>
+		<category><![CDATA[medyna]]></category>
+		<category><![CDATA[park narodowy]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[Souss-Massa]]></category>
+
+		<guid isPermaLink="false">/?p=4634</guid>
+		<description><![CDATA[Jeśli ktoś jedzie na hotelowe wakacje do Maroka, to jestem przekonana, że w większości przypadków wyląduje w Agadirze. Po pierwsze, miejscowość leży nad oceanem i szczyci się dziesięcioma kilometrami szerokich plaż. Po drugie, jest tam międzynarodowe lotnisko (więc nawet jak&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/agadir/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+		</item>
+	</channel>
+</rss>

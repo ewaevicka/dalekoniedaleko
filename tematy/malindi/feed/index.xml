@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Malindi &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/malindi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>O tym, jak zachciało mi się zobaczyć Piekielną Kuchnię</title>
+		<link>/o-tym-jak-zachcialo-mi-sie-zobaczyc-piekielna-kuchnie/</link>
+		<comments>/o-tym-jak-zachcialo-mi-sie-zobaczyc-piekielna-kuchnie/?#comments</comments>
+		<pubDate>Sun, 29 Sep 2013 10:07:33 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[Hell's Kitchen]]></category>
+		<category><![CDATA[Malindi]]></category>
+		<category><![CDATA[wąwóz]]></category>
+
+		<guid isPermaLink="false">/?p=7440</guid>
+		<description><![CDATA[Mój absolutnie-nie-terenowy samochód sunie po wyboistej, kamienistej drodze z zawrotną prędkością dwudziestu kilometrów na godzinę, w porywach do trzydziestu. Dookoła nie ma nic poza jakimiś krzaczorami, w których kryją się potwory, kozy i somalijscy piraci czyhający na zagubionych białych turystów,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/o-tym-jak-zachcialo-mi-sie-zobaczyc-piekielna-kuchnie/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>elektronika &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/elektronika/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Vasco Traveler Premium 5&#8243; &#8211; asystent w podróży</title>
+		<link>/vasco-traveler-premium-5-asystent-w-podrozy/</link>
+		<comments>/vasco-traveler-premium-5-asystent-w-podrozy/?#comments</comments>
+		<pubDate>Mon, 05 Nov 2018 15:53:44 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Recenzje i testy]]></category>
+		<category><![CDATA[elektronika]]></category>
+		<category><![CDATA[test sprzętu]]></category>
+
+		<guid isPermaLink="false">/?p=15056</guid>
+		<description><![CDATA[Po całym dniu podróży przez zachodnią część Gór Skalistych dojeżdżamy do położonego nieopodal kanionu Johnston kempingu. Ukryte w lesie pole namiotowe leży na uboczu autostrady numer 1, zwanej Transkanadyjską, ale wystarczająco daleko w dziczy, by zasięg komórkowy był słabiutki. Jesteśmy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/vasco-traveler-premium-5-asystent-w-podrozy/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		</item>
+		<item>
+		<title>PocketBook Aqua 2 &#8211; setki książek na podróż</title>
+		<link>/pocketbook-aqua-2-setki-ksiazek-na-podroz/</link>
+		<comments>/pocketbook-aqua-2-setki-ksiazek-na-podroz/?#comments</comments>
+		<pubDate>Tue, 15 May 2018 15:20:28 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Recenzje i testy]]></category>
+		<category><![CDATA[elektronika]]></category>
+
+		<guid isPermaLink="false">/?p=14605</guid>
+		<description><![CDATA[Planowany czas podróży nocnym pociągiem z Kazania do Petersburga wynosi dwadzieścia dwie godziny. Zajmuję swoje łóżko, zamawiam herbatę w dużej szklance umieszczonej w metalowym uchwycie, jaki pamiętam z dzieciństwa, wyciągam z plecaka grubą książkę i biorę się za czytanie, żeby&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pocketbook-aqua-2-setki-ksiazek-na-podroz/feed/</wfw:commentRss>
+		<slash:comments>53</slash:comments>
+		</item>
+		<item>
+		<title>Telefon w podróży: LG Swift Plus P500</title>
+		<link>/telefon-w-podrozy-lg-swift-plus-p500/</link>
+		<comments>/telefon-w-podrozy-lg-swift-plus-p500/?#comments</comments>
+		<pubDate>Fri, 18 Mar 2011 22:23:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Recenzje i testy]]></category>
+		<category><![CDATA[elektronika]]></category>
+
+		<guid isPermaLink="false">/?p=3870</guid>
+		<description><![CDATA[Kiedy dostałam propozycję przetestowania telefonu LG pierwsze co zrobiłam zanim jeszcze go w ogóle dotknęłam, to zastanowiłam się, czego oczekuję od tego typu sprzętu w podróży. Przede wszystkim musi dzwonić i wysyłać smsy &#8211; wiadomo :) A poza tym telefon,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/telefon-w-podrozy-lg-swift-plus-p500/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>morze &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/morze/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Migawki znad Morza Martwego</title>
+		<link>/migawki-znad-morza-martwego/</link>
+		<comments>/migawki-znad-morza-martwego/?#comments</comments>
+		<pubDate>Thu, 13 Feb 2014 07:06:47 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Jordania]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[morze]]></category>
+		<category><![CDATA[Morze Martwe]]></category>
+		<category><![CDATA[plaża]]></category>
+
+		<guid isPermaLink="false">/?p=7882</guid>
+		<description><![CDATA[Sól, sól, sól. Wszędzie pełno soli. Wielkie kryształy, kulki, kawały i kawałki. Plaża – aż dziw bierze, że ktoś w ogóle nazywa to plażą – to po części gruby piasek, po części sól. Woda słona. I gorzka. Zanurzam palec, oblizuję&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/migawki-znad-morza-martwego/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		</item>
+		<item>
+		<title>Wakacyjna atmosfera Aleksandrii</title>
+		<link>/wakacyjna-atmosfera-aleksandrii/</link>
+		<comments>/wakacyjna-atmosfera-aleksandrii/?#comments</comments>
+		<pubDate>Sat, 05 Jun 2010 19:07:30 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Egipt]]></category>
+		<category><![CDATA[biblioteka]]></category>
+		<category><![CDATA[morze]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[pociąg]]></category>
+
+		<guid isPermaLink="false">/?p=2114</guid>
+		<description><![CDATA[Wysiadamy z pociągu i nie możemy uwierzyć w to, co mamy dookoła. Zimno tu! Jeszcze paręnaście godzin temu byliśmy w rozgrzanym niczym piekarnik Abu Simbel, gdzie priorytetem było poszukiwanie cienia, a tu nagle chłodek, morska bryza i powietrze, które nie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wakacyjna-atmosfera-aleksandrii/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		</item>
+	</channel>
+</rss>

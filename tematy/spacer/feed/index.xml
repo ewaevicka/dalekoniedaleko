@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>spacer &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/spacer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Z wizytą w Kazaniu</title>
+		<link>/z-wizyta-w-kazaniu/</link>
+		<comments>/z-wizyta-w-kazaniu/?#comments</comments>
+		<pubDate>Fri, 22 Jun 2018 15:28:30 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Rosja]]></category>
+		<category><![CDATA[Kreml]]></category>
+		<category><![CDATA[meczet]]></category>
+		<category><![CDATA[spacer]]></category>
+
+		<guid isPermaLink="false">/?p=14640</guid>
+		<description><![CDATA[Słońce schowało się za horyzontem już kilkanaście minut temu, a wraz z tym czuć wyraźne ochłodzenie. Na placu przed meczetem kręci się zaledwie kilka osób &#8211; miła odmiana od dość gęstego tłumu z przedpołudnia. Czekamy z Kamilą na zapalenie świateł&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/z-wizyta-w-kazaniu/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+		</item>
+		<item>
+		<title>Powłóczyć się po jesiennym Paryżu chłonąc atmosferę miasta</title>
+		<link>/powloczyc-sie-po-jesiennym-paryzu-chlonac-atmosfere-miasta/</link>
+		<comments>/powloczyc-sie-po-jesiennym-paryzu-chlonac-atmosfere-miasta/?#comments</comments>
+		<pubDate>Tue, 13 Oct 2015 19:31:22 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Francja]]></category>
+		<category><![CDATA[Montmartre]]></category>
+		<category><![CDATA[park]]></category>
+		<category><![CDATA[Paryż]]></category>
+		<category><![CDATA[Sacre Coeur]]></category>
+		<category><![CDATA[spacer]]></category>
+		<category><![CDATA[Wieża Eiffla]]></category>
+
+		<guid isPermaLink="false">/?p=11230</guid>
+		<description><![CDATA[Osoby, u których stwierdzono syndrom paryski, dotykają takie zaburzenia jak urojenia i halucynacje, uczucie bycia prześladowanym bez powodu, lęk, mdłości, nadmierne pocenie się oraz przyspieszenie akcji serca. Jego przyczyną jest rozczarowanie Paryżem w porównaniu z idealistycznymi wyobrażeniami, a dotyka on&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/powloczyc-sie-po-jesiennym-paryzu-chlonac-atmosfere-miasta/feed/</wfw:commentRss>
+		<slash:comments>82</slash:comments>
+		</item>
+		<item>
+		<title>Południe w Brnie wybija o godzinie 11:00</title>
+		<link>/poludnie-w-brnie-wybija-o-godzinie-1100/</link>
+		<comments>/poludnie-w-brnie-wybija-o-godzinie-1100/?#comments</comments>
+		<pubDate>Tue, 02 Dec 2014 16:05:47 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Czechy]]></category>
+		<category><![CDATA[Brno]]></category>
+		<category><![CDATA[legenda]]></category>
+		<category><![CDATA[miasto]]></category>
+		<category><![CDATA[spacer]]></category>
+
+		<guid isPermaLink="false">/?p=9618</guid>
+		<description><![CDATA[Dziwne to miasto. U wejścia do starego ratusza wisi smok wyglądający jak krokodyl. Ściany jednego z kościołów ozdabia ni mniej ni więcej tylko gołodupiec. Na głównym placu miasta stoi wielki wibrator. A południe wypada tutaj o godzinie 11:00. Co jest&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/poludnie-w-brnie-wybija-o-godzinie-1100/feed/</wfw:commentRss>
+		<slash:comments>46</slash:comments>
+		</item>
+	</channel>
+</rss>

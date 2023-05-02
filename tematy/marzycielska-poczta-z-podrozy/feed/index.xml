@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>marzycielska poczta z podróży &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/marzycielska-poczta-z-podrozy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Wyślij pocztówkę! Trzecia edycja Marzycielskiej Poczty z Podróży</title>
+		<link>/wyslij-pocztowke-trzecia-edycja-marzycielskiej-poczty-z-podrozy/</link>
+		<comments>/wyslij-pocztowke-trzecia-edycja-marzycielskiej-poczty-z-podrozy/?#comments</comments>
+		<pubDate>Sat, 14 Feb 2015 08:12:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[marzycielska poczta z podróży]]></category>
+
+		<guid isPermaLink="false">/?p=10170</guid>
+		<description><![CDATA[To już trzeci rok odkąd polscy blogerzy piszący o podróżach wpadli na pomysł, by w okolicach Walentynek zachęcić czytelników do wysyłania listów i pocztówek, które mogą wywołać uśmiech na buziach chorych dzieci. Dzieci, które są nierzadko ciekawe świata, ale niekoniecznie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wyslij-pocztowke-trzecia-edycja-marzycielskiej-poczty-z-podrozy/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+		<item>
+		<title>Znów ślemy kartki do dzieciaków &#8211; Marzycielskiej Poczty z Podróży edycja druga!</title>
+		<link>/znow-slemy-kartki-do-dzieciakow-marzycielskiej-poczty-z-podrozy-edycja-druga/</link>
+		<comments>/znow-slemy-kartki-do-dzieciakow-marzycielskiej-poczty-z-podrozy-edycja-druga/?#comments</comments>
+		<pubDate>Fri, 14 Feb 2014 08:34:53 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[marzycielska poczta z podróży]]></category>
+
+		<guid isPermaLink="false">/?p=7872</guid>
+		<description><![CDATA[Pamiętacie, jak rok temu zachęcałam do wysyłania pocztówek (nie tylko z podróży) do chorych dzieciaków? Pisałam wtedy kartki do znajomych i rodziny z Kenii, napisałam też kilka do dzieci. Jakiś czas później, gdy pocztówki dotarły, przeczytałam taki wpis: Maks jak&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/znow-slemy-kartki-do-dzieciakow-marzycielskiej-poczty-z-podrozy-edycja-druga/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Marzycielska poczta z podróży &#8211; wysyłamy pocztówki!</title>
+		<link>/marzycielska-poczta-z-podrozy-wysylamy-pocztowki/</link>
+		<comments>/marzycielska-poczta-z-podrozy-wysylamy-pocztowki/?#comments</comments>
+		<pubDate>Thu, 14 Feb 2013 09:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[marzycielska poczta z podróży]]></category>
+
+		<guid isPermaLink="false">/?p=7225</guid>
+		<description><![CDATA[Kto z was jeszcze wysyła pocztówki? Ja przyznaję, że z podróży staram się zawsze do najbliższych skrobnąć parę słów na kartoniku, nalepić znaczek i posłać w świat. I co z tego, że taka kartka dochodzi najczęściej już po moim powrocie?&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/marzycielska-poczta-z-podrozy-wysylamy-pocztowki/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

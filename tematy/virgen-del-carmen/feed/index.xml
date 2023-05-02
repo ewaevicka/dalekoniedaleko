@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Virgen del Carmen &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/virgen-del-carmen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Viva la Virgen del Carmen!</title>
+		<link>/viva-la-virgen-del-carmen/</link>
+		<comments>/viva-la-virgen-del-carmen/?#comments</comments>
+		<pubDate>Sun, 18 Jul 2010 16:53:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Andaluzja]]></category>
+		<category><![CDATA[chrześcijaństwo]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[Virgen del Carmen]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=2289</guid>
+		<description><![CDATA[Siedzę sobie któregoś dnia i przeglądam mój segregator informacyjny z jednego z hiszpańskich hoteli. I czytam, że 16 lipca w Isla Cristina odbywa się procesja poświęcona Matce Boskiej patronce rybaków czyli Virgen del Carmen. Nie zastanawiam się długo &#8211; szybki&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/viva-la-virgen-del-carmen/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

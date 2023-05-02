@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chiang Mai &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/chiang-mai/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Kobiety Padaung &#8211; zakładniczki mosiężnych obręczy</title>
+		<link>/kobiety-padaung-zakladniczki-mosieznych-obreczy/</link>
+		<comments>/kobiety-padaung-zakladniczki-mosieznych-obreczy/?#comments</comments>
+		<pubDate>Tue, 26 Aug 2014 13:07:40 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[Chiang Mai]]></category>
+		<category><![CDATA[ludzie]]></category>
+
+		<guid isPermaLink="false">/?p=8804</guid>
+		<description><![CDATA[Pochodzą z północnej Birmy, ale uciekły z kraju przed wojskowym reżimem do Tajlandii. W nowym kraju znalazły schronienie, lecz także na swój sposób zostały uwięzione. Wszystko przez jedyne w swoim rodzaju ozdoby, które noszą – miedziane zwoje optycznie wysmuklające im&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kobiety-padaung-zakladniczki-mosieznych-obreczy/feed/</wfw:commentRss>
+		<slash:comments>27</slash:comments>
+		</item>
+		<item>
+		<title>Dziś jest pełnia, każde życzenie się spełnia!</title>
+		<link>/dzis-jest-pelnia-kazde-zyczenie-sie-spelnia/</link>
+		<comments>/dzis-jest-pelnia-kazde-zyczenie-sie-spelnia/?#comments</comments>
+		<pubDate>Wed, 28 Nov 2012 18:15:46 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[Chiang Mai]]></category>
+		<category><![CDATA[rzeka]]></category>
+		<category><![CDATA[święto]]></category>
+
+		<guid isPermaLink="false">/?p=7062</guid>
+		<description><![CDATA[Jest 2009 rok. To mój pierwszy wypad do Azji. Jedziemy we czwórkę, ale już na początku, w Bangkoku, rozdzielamy się. Ja z Agą jedziemy do Kambodży, pozostała dwójka – na północ Tajlandii. Tydzień później znowu się spotykamy. Są opowieści, zdjęcia.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dzis-jest-pelnia-kazde-zyczenie-sie-spelnia/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

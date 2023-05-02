@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>małe miasteczko &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/male-miasteczko/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Wokół masywu Lovćen</title>
+		<link>/wokol-masywu-lovcen/</link>
+		<comments>/wokol-masywu-lovcen/?#comments</comments>
+		<pubDate>Thu, 18 Jan 2018 22:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Czarnogóra]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[jaskinia]]></category>
+		<category><![CDATA[małe miasteczko]]></category>
+		<category><![CDATA[punkt widokowy]]></category>
+
+		<guid isPermaLink="false">/?p=14309</guid>
+		<description><![CDATA[Nowa droga z Budvy pnie się pod górę. Jeszcze nie została ukończona, jeszcze gdzieniegdzie widać pracujące maszyny. Ciężki sprzęt wierci w zboczu góry tunel, by skrócić i uczynić bardziej komfortową podróż znad wybrzeża Morza Adriatyckiego do dawnej stolicy Czarnogóry. My&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wokol-masywu-lovcen/feed/</wfw:commentRss>
+		<slash:comments>47</slash:comments>
+		</item>
+		<item>
+		<title>Miasto królowych, wiśniówką i czekoladą płynące</title>
+		<link>/miasto-krolowych-wisniowka-i-czekolada-plynace/</link>
+		<comments>/miasto-krolowych-wisniowka-i-czekolada-plynace/?#comments</comments>
+		<pubDate>Wed, 21 Mar 2012 09:32:41 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[małe miasteczko]]></category>
+		<category><![CDATA[urocze uliczki]]></category>
+
+		<guid isPermaLink="false">/?p=6213</guid>
+		<description><![CDATA[Domki z bielonymi ścianami wykończonymi żółtymi, błękitnymi lub czerwonymi obwódkami. Z dachami pokrytymi rdzawymi dachówkami porośniętymi mchem. Wąskie, brukowane uliczki wijące się w górę, w kierunku ruin cytadeli. Dużo zieleni &#8211; drzew, krzewów i kwiatów w doniczkach. Całość otoczona dość&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/miasto-krolowych-wisniowka-i-czekolada-plynace/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+		<item>
+		<title>Nad jeziorem Maggiore</title>
+		<link>/nad-jeziorem-maggiore/</link>
+		<comments>/nad-jeziorem-maggiore/?#comments</comments>
+		<pubDate>Fri, 09 Apr 2010 18:09:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Włochy]]></category>
+		<category><![CDATA[Alpy]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[Hemingway]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[małe miasteczko]]></category>
+		<category><![CDATA[Mediolan]]></category>
+
+		<guid isPermaLink="false">/?p=1829</guid>
+		<description><![CDATA[W pierwszej chwili nie dowierzam własnym oczom. Na pierwszym planie, wzdłuż promenady, królują strzeliste palmy i krzewy obsypane bladoróżowym kwieciem. Z kolei po drugiej stronie jeziora od błękitnego nieba odcinają się ostre, skaliste, a w dodatku ośnieżone alpejskie szczyty. Pierwszy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/nad-jeziorem-maggiore/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

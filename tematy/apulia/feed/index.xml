@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apulia &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/apulia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Wśród osobliwych kamiennych domków z Alberobello</title>
+		<link>/wsrod-osobliwych-kamiennych-domkow-z-alberobello/</link>
+		<comments>/wsrod-osobliwych-kamiennych-domkow-z-alberobello/?#comments</comments>
+		<pubDate>Thu, 04 Oct 2018 16:10:22 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Włochy]]></category>
+		<category><![CDATA[Apulia]]></category>
+		<category><![CDATA[architektura]]></category>
+
+		<guid isPermaLink="false">/?p=14880</guid>
+		<description><![CDATA[&#8211; Buenvenuto! Prego, entra! &#8211; słyszę z wnętrza niskiego, białego domku, przed którym zatrzymałam się, by zrobić zdjęcie. Tak przynajmniej mi się wydaje, ale przecież nie znam włoskiego. Uznaję to jednak za zaproszenie i rozchylam sznurkową zasłonkę, wiszącą w drzwiach.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wsrod-osobliwych-kamiennych-domkow-z-alberobello/feed/</wfw:commentRss>
+		<slash:comments>50</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Apulii</title>
+		<link>/garsc-informacji-praktycznych-o-apulii/</link>
+		<comments>/garsc-informacji-praktycznych-o-apulii/?#comments</comments>
+		<pubDate>Thu, 23 Aug 2018 08:26:27 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Włochy]]></category>
+		<category><![CDATA[Apulia]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+
+		<guid isPermaLink="false">/?p=14799</guid>
+		<description><![CDATA[Wsiadając do samolotu lecącego do Bari wiem tylko tyle, że któregoś dnia z kolei będę oglądać charakterystyczne domki w Alberobello, które chciałam zobaczyć już od jakiegoś czasu. Spanie, transport i plan na zwiedzanie tym razem organizuje moja przyjaciółka Evi, autorka&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-apulii/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+	</channel>
+</rss>

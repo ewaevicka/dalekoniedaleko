@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>detale &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/detale/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Wilno w detalach</title>
+		<link>/wilno-w-detalach/</link>
+		<comments>/wilno-w-detalach/?#comments</comments>
+		<pubDate>Wed, 27 Jul 2011 09:17:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Litwa]]></category>
+		<category><![CDATA[detale]]></category>
+		<category><![CDATA[starówka]]></category>
+		<category><![CDATA[teatr]]></category>
+		<category><![CDATA[Wilno]]></category>
+
+		<guid isPermaLink="false">/?p=4649</guid>
+		<description><![CDATA[Wilno jest pełne skarbów. Nie jakichś drogich, złotych czy brylantowych, ukrytych w skrzyniach, ale takich zwyczajnych, a zarazem niezwyczajnych detali. Spacerując po mieście wystarczy się trochę uważniej porozglądać i natychmiast można dostrzec coś ciekawego, niecodziennego, czasem absurdalnego. Drobiazgi przyczepione do&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wilno-w-detalach/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		</item>
+	</channel>
+</rss>

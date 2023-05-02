@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pawie &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/pawie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Gdzie się podziały pawie pióra?</title>
+		<link>/gdzie-sie-podzialy-pawie-piora/</link>
+		<comments>/gdzie-sie-podzialy-pawie-piora/?#comments</comments>
+		<pubDate>Tue, 09 Sep 2014 19:46:55 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[Kos]]></category>
+		<category><![CDATA[las]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[pawie]]></category>
+		<category><![CDATA[przyroda]]></category>
+		<category><![CDATA[ptaki]]></category>
+
+		<guid isPermaLink="false">/?p=8920</guid>
+		<description><![CDATA[Pawie są przepiękne. Majestatyczne. Królewskie. Wolno przechadzają się pomiędzy drzewami, od czasu do czasu dziobiąc w ziemi. Samice są brązowawe, z zieloną szyją. Samce swoimi intensywnymi barwami bardziej przyciągają wzrok. Mamy tu nie tylko zieleń, ale przede wszystkim chabrowy niebieski.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/gdzie-sie-podzialy-pawie-piora/feed/</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+		</item>
+	</channel>
+</rss>

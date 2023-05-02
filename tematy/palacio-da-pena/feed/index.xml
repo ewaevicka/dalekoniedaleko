@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Palacio da Pena &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/palacio-da-pena/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Baśniowy Palácio Nacional da Pena</title>
+		<link>/basniowy-palacio-nacional-da-pena/</link>
+		<comments>/basniowy-palacio-nacional-da-pena/?#comments</comments>
+		<pubDate>Tue, 16 Oct 2012 11:32:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Palacio da Pena]]></category>
+		<category><![CDATA[pałac]]></category>
+		<category><![CDATA[Sintra]]></category>
+
+		<guid isPermaLink="false">/?p=6957</guid>
+		<description><![CDATA[Kto z nas nie lubi się od czasu do czasu znowu poczuć jak małe dziecko? Przenieść się w krainę baśni i fantazji, gdzie dzielny książę wraz ze swoją armią broni zamku przed strasznym smokiem, a w nagrodę dostaje słodkiego całusa&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/basniowy-palacio-nacional-da-pena/feed/</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+		</item>
+	</channel>
+</rss>

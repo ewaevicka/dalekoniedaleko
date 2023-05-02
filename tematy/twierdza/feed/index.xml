@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>twierdza &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/twierdza/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Spacer po niebieskiej As-Sawirze</title>
+		<link>/spacer-po-niebieskiej-as-sawirze/</link>
+		<comments>/spacer-po-niebieskiej-as-sawirze/?#comments</comments>
+		<pubDate>Tue, 03 Jan 2012 17:43:33 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Maroko]]></category>
+		<category><![CDATA[As-Sawira]]></category>
+		<category><![CDATA[Essaouira]]></category>
+		<category><![CDATA[medyna]]></category>
+		<category><![CDATA[port]]></category>
+		<category><![CDATA[twierdza]]></category>
+
+		<guid isPermaLink="false">/?p=5703</guid>
+		<description><![CDATA[Stoję na murach miasta i spoglądam na Atlantyk. Wzburzone fale rozbijają się o przybrzeżne skały, a chłodny, słony wiatr owiewa mi twarz. Czasem powieje tak mocno, że aż trudno złapać oddech. As-Sawira nazywana jest wietrznym miastem właśnie ze względu na&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/spacer-po-niebieskiej-as-sawirze/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+		<item>
+		<title>Karlskrona, miasto marynarki wojennej</title>
+		<link>/karlskrona-miasto-marynarki-wojennej/</link>
+		<comments>/karlskrona-miasto-marynarki-wojennej/?#comments</comments>
+		<pubDate>Sun, 17 Apr 2011 21:08:28 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Szwecja]]></category>
+		<category><![CDATA[Karlskrona]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[stocznia]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[twierdza]]></category>
+		<category><![CDATA[wyspa]]></category>
+
+		<guid isPermaLink="false">/?p=4303</guid>
+		<description><![CDATA[Wokół morza, statków i wojny kręci się w tym mieście wszystko, choć Szwecja ogólnie chce być neutralna. Jednak nie zawsze tak było. W XVII w. kraj ten toczył wojny m.in. z Danią i to jej udało się szwedzkiemu królowi odebrać&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/karlskrona-miasto-marynarki-wojennej/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		</item>
+		<item>
+		<title>Sigirija czyli Lwia Skała</title>
+		<link>/sigirija-czyli-lwia-skala/</link>
+		<comments>/sigirija-czyli-lwia-skala/?#comments</comments>
+		<pubDate>Fri, 19 Nov 2010 15:15:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[Lwia Skała]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[przyroda]]></category>
+		<category><![CDATA[Sigirija]]></category>
+		<category><![CDATA[twierdza]]></category>
+
+		<guid isPermaLink="false">/?p=2836</guid>
+		<description><![CDATA[Wysoka, lita skała wyrasta w środku dżungli. Samotny ostaniec o wysokości około 200 metrów jest obecnie celem wędrówek. I to wędrówek niespotykanych, bo wspinać się trzeba po kamiennych bądź metalowych schodach. Te metalowe przymocowane są do skały – wyglądają jak&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/sigirija-czyli-lwia-skala/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+		</item>
+	</channel>
+</rss>

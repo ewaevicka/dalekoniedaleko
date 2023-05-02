@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Malta &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/europa/malta/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Jak wciąga błękitna głębia</title>
+		<link>/jak-wciaga-blekitna-glebia/</link>
+		<comments>/jak-wciaga-blekitna-glebia/?#comments</comments>
+		<pubDate>Sun, 05 Aug 2018 13:34:16 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Malta]]></category>
+		<category><![CDATA[nurkowanie]]></category>
+
+		<guid isPermaLink="false">/?p=14695</guid>
+		<description><![CDATA[Pierwszy wdech może wydawać się nienaturalny, ale to, co po nim następuje, jest za każdym razem jednym z najpiękniejszych doświadczeń mojego życia. Zanurzając ciało w głębokiej, błękitnej wodzie, wkraczam do zupełnie innego świata. Z każdą sekundą robię się coraz spokojniejsza,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/jak-wciaga-blekitna-glebia/feed/</wfw:commentRss>
+		<slash:comments>29</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>podróżowanie &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/podrozowanie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Kurczak zamiast karpia &#8211; Boże Narodzenie z dala od domu</title>
+		<link>/kurczak-zamiast-karpia-boze-narodzenie-z-dala-od-domu/</link>
+		<comments>/kurczak-zamiast-karpia-boze-narodzenie-z-dala-od-domu/?#comments</comments>
+		<pubDate>Tue, 23 Dec 2014 08:13:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[Boże Narodzenie]]></category>
+		<category><![CDATA[osobiste]]></category>
+		<category><![CDATA[podróżowanie]]></category>
+		<category><![CDATA[święto]]></category>
+
+		<guid isPermaLink="false">/?p=9821</guid>
+		<description><![CDATA[Zamiast choinki są przystrojone lampkami palmy. Zamiast karpia &#8211; tuńczyk, łosoś a nawet kurczak. Zamiast kolęd &#8211; piosenki z radia. Zamiast śniegu &#8211; mięciutki piasek pod stopami na plaży. Zamiast rodziny &#8211; znajomi. To będą moje trzecie w życiu święta&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kurczak-zamiast-karpia-boze-narodzenie-z-dala-od-domu/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+		</item>
+		<item>
+		<title>Książka w podróży &#8211; akcja i konkurs</title>
+		<link>/ksiazka-w-podrozy-akcja-i-konkurs/</link>
+		<comments>/ksiazka-w-podrozy-akcja-i-konkurs/?#comments</comments>
+		<pubDate>Sat, 20 Dec 2014 15:52:46 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[konkurs]]></category>
+		<category><![CDATA[podróżowanie]]></category>
+
+		<guid isPermaLink="false">/?p=9814</guid>
+		<description><![CDATA[Uwielbiam czytać w podróży. Książka najlepiej umila mi godziny spędzone w samolocie, autobusie czy pociągu i dzięki niej czas płynie szybciej. Jasne, fajnie jest pogadać ze współpasażerami, ale czasem mam ochotę dla zdrowia psychicznego po prostu się wyłączyć i odpocząć,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/ksiazka-w-podrozy-akcja-i-konkurs/feed/</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+		</item>
+		<item>
+		<title>Jak się pakować, żeby zwariować?</title>
+		<link>/jak-sie-pakowac-zeby-zwariowac/</link>
+		<comments>/jak-sie-pakowac-zeby-zwariowac/?#comments</comments>
+		<pubDate>Fri, 05 Dec 2014 13:36:05 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[osobiste]]></category>
+		<category><![CDATA[pakowanie]]></category>
+		<category><![CDATA[podróżowanie]]></category>
+
+		<guid isPermaLink="false">/?p=9656</guid>
+		<description><![CDATA[Dobre rady zawsze w cenie. Chciałam napisać, jak pakować się mądrze, z głową i bez stresu. Jak niczego nie zapomnieć, zoptymalizować i zaplanować. Dopiąć na ostatni guzik. Ale nie wyszło. Bo ja zawsze pakuję się chaotycznie, szybko i jakoś zazwyczaj&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/jak-sie-pakowac-zeby-zwariowac/feed/</wfw:commentRss>
+		<slash:comments>80</slash:comments>
+		</item>
+		<item>
+		<title>Mój pierwszy raz, czyli to była podróż solo</title>
+		<link>/moj-pierwszy-raz-czyli-to-byla-podroz-solo/</link>
+		<comments>/moj-pierwszy-raz-czyli-to-byla-podroz-solo/?#comments</comments>
+		<pubDate>Sun, 16 Nov 2014 08:33:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[osobiste]]></category>
+		<category><![CDATA[podróżowanie]]></category>
+
+		<guid isPermaLink="false">/?p=9532</guid>
+		<description><![CDATA[Obie wyznajemy zasadę: nie mów do mnie z rana. Dzięki temu po przebudzeniu jedna drugiej nie drażni. Nie opowiadamy, co nam się w nocy śniło, nie robimy planów na cały dzień, nie rozważamy, co dziś zjemy. Pobudka, prysznic, pakowanie. Mimo&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/moj-pierwszy-raz-czyli-to-byla-podroz-solo/feed/</wfw:commentRss>
+		<slash:comments>44</slash:comments>
+		</item>
+	</channel>
+</rss>

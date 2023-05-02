@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>granica &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/granica/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Dawid Garedża. O przestrzeni, poszukiwaniu fresków i nielegalnym przekraczaniu granic</title>
+		<link>/dawid-garedza-o-przestrzeni-poszukiwaniu-freskow-i-nielegalnym-przekraczaniu-granic/</link>
+		<comments>/dawid-garedza-o-przestrzeni-poszukiwaniu-freskow-i-nielegalnym-przekraczaniu-granic/?#comments</comments>
+		<pubDate>Fri, 26 Dec 2014 06:05:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Gruzja]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[granica]]></category>
+		<category><![CDATA[klasztor]]></category>
+
+		<guid isPermaLink="false">/?p=9854</guid>
+		<description><![CDATA[&#8211; Czy to Eladi i jego koleżanka? &#8211; pyta Danna, wskazując na dwie postaci w oddali zbliżające się w naszym kierunku. &#8211; Nie sądzę &#8211; powątpiewam, dostrzegając towarzyszącego im psa. &#8211; To chyba&#8230; nie, to na pewno żołnierze! &#8211; dodaję.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dawid-garedza-o-przestrzeni-poszukiwaniu-freskow-i-nielegalnym-przekraczaniu-granic/feed/</wfw:commentRss>
+		<slash:comments>40</slash:comments>
+		</item>
+	</channel>
+</rss>

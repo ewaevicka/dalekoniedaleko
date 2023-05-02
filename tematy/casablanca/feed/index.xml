@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Casablanca &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/casablanca/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>W Casablance jest meczet na wodzie</title>
+		<link>/w-casablance-jest-meczet-na-wodzie/</link>
+		<comments>/w-casablance-jest-meczet-na-wodzie/?#comments</comments>
+		<pubDate>Mon, 04 Feb 2013 14:58:39 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Maroko]]></category>
+		<category><![CDATA[Casablanca]]></category>
+		<category><![CDATA[meczet]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=7204</guid>
+		<description><![CDATA[Chciałbym, by Casablanca została obdarowana dużą, piękną budowlą, z której mogłaby być dumna po wsze czasy&#8230; Chcę wybudować meczet na wodzie, bo tron Boga znajduje się na wodzie. W ten sposób wierni, którzy przybędą tam, by się modlić i chwalić&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-casablance-jest-meczet-na-wodzie/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+		</item>
+	</channel>
+</rss>

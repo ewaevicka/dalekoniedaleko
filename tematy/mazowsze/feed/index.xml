@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mazowsze &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/mazowsze/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Mazowiecka wieś w zimowej szacie</title>
+		<link>/mazowiecka-wies-w-zimowej-szacie/</link>
+		<comments>/mazowiecka-wies-w-zimowej-szacie/?#comments</comments>
+		<pubDate>Mon, 09 Jan 2017 17:19:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polska]]></category>
+		<category><![CDATA[Boże Narodzenie]]></category>
+		<category><![CDATA[mazowsze]]></category>
+		<category><![CDATA[skansen]]></category>
+
+		<guid isPermaLink="false">/?p=12780</guid>
+		<description><![CDATA[W jednym kącie pomieszczenia widać udekorowaną choinkę, w drugim — snopek wysuszonych kłosów zbóż. Nakryty białym obrusem stół stoi na środku izby. Pomiędzy dwoma świecznikami widać sianko, na którym leży opłatek. W sześciu fajansowych głębokich talerzach czekają już uszka z&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/mazowiecka-wies-w-zimowej-szacie/feed/</wfw:commentRss>
+		<slash:comments>53</slash:comments>
+		</item>
+	</channel>
+</rss>

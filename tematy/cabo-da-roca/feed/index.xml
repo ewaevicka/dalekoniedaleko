@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cabo da Roca &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/cabo-da-roca/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Cabo da Roca &#8211; przylądek na końcu świata</title>
+		<link>/cabo-da-roca-przyladek-na-koncu-swiata/</link>
+		<comments>/cabo-da-roca-przyladek-na-koncu-swiata/?#comments</comments>
+		<pubDate>Wed, 08 Feb 2012 17:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Cabo da Roca]]></category>
+		<category><![CDATA[przylądek]]></category>
+		<category><![CDATA[Sintra]]></category>
+
+		<guid isPermaLink="false">/?p=5957</guid>
+		<description><![CDATA[Tutaj&#8230; gdzie kończy się ziemia, a zaczyna morze&#8230; &#8211; tak pisał o Przylądku Roca portugalski poeta Luis de Camões. Tutaj potrafi tak wiać, że czasem ciężko oddychać. Tutaj między nami, a zachodzącym słońcem nie ma nic więcej. Tutaj znajduje się&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cabo-da-roca-przyladek-na-koncu-swiata/feed/</wfw:commentRss>
+		<slash:comments>41</slash:comments>
+		</item>
+		<item>
+		<title>Zachód słońca na zachodzie</title>
+		<link>/zachod-slonca-na-zachodzie/</link>
+		<comments>/zachod-slonca-na-zachodzie/?#comments</comments>
+		<pubDate>Tue, 05 Jan 2010 17:44:53 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Cabo da Roca]]></category>
+		<category><![CDATA[pałac]]></category>
+		<category><![CDATA[Sintra]]></category>
+		<category><![CDATA[zachód słońca]]></category>
+
+		<guid isPermaLink="false">/?p=929</guid>
+		<description><![CDATA[Kiedy w 2006 r. byłam na Cabo da Roca, słońce paliło z nieba, kwiaty kwitły jak szalone, a wiatr urywał głowę. Wtedy ktoś powiedział mi, że podobno Cabo da Roca najpiękniej wygląda podczas zachodu słońca. Teraz już widziałam i sama&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zachod-slonca-na-zachodzie/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

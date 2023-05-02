@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bezpieczeństwo &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/bezpieczenstwo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Nie taki Sudan Południowy straszny, jak go malują</title>
+		<link>/nie-taki-sudan-poludniowy-straszny-jak-go-maluja/</link>
+		<comments>/nie-taki-sudan-poludniowy-straszny-jak-go-maluja/?#comments</comments>
+		<pubDate>Thu, 27 Jun 2013 08:14:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sudan Południowy]]></category>
+		<category><![CDATA[bezpieczeństwo]]></category>
+		<category><![CDATA[Dżuba]]></category>
+
+		<guid isPermaLink="false">/?p=7380</guid>
+		<description><![CDATA[Napadną cię, pobiją i okradną. Zgwałcą, zastrzelą z kałacha, pokroją na kawałki i zakopią. Jest niebezpiecznie, wojna, terror, a po ulicach chodzą uzbrojeni ludzie. A ci ludzie to już w ogóle! Agresywni, niesympatyczni i w dodatku czarni jak smoła! Gdybym&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/nie-taki-sudan-poludniowy-straszny-jak-go-maluja/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		</item>
+		<item>
+		<title>Nie zatrzymuj się!</title>
+		<link>/nie-zatrzymuj-sie/</link>
+		<comments>/nie-zatrzymuj-sie/?#comments</comments>
+		<pubDate>Mon, 07 Jan 2013 14:25:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[bezpieczeństwo]]></category>
+		<category><![CDATA[policja]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=7156</guid>
+		<description><![CDATA[Nieważne, jak źle to wygląda, jedź dalej. Nic nie pomożesz, a tylko sobie narobisz kłopotów. Nie mieszaj się w to, po prostu jedź &#8211; dźwięczy mi w głowie, kiedy powoli i ostrożnie przejeżdżam pomiędzy powyginanym rowerem a człowiekiem, który jeszcze&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/nie-zatrzymuj-sie/feed/</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+		</item>
+	</channel>
+</rss>

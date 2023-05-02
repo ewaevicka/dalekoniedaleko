@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Australia &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/australia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Spotkanie z misiem, który nie jest misiem</title>
+		<link>/spotkanie-z-misiem-ktory-nie-jest-misiem/</link>
+		<comments>/spotkanie-z-misiem-ktory-nie-jest-misiem/?#comments</comments>
+		<pubDate>Sun, 20 Jan 2019 16:15:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Brisbane]]></category>
+		<category><![CDATA[zwierzęta]]></category>
+
+		<guid isPermaLink="false">/?p=15436</guid>
+		<description><![CDATA[Kto by tak czasem nie chciał? Spać, budzić się na śniadanie, potem znowu spać, jeszcze trochę snu, obiad, popołudniowa drzemka, kolacja, sen&#8230; Prawie nic się nie ruszać i w dodatku nie tyć! Zanim jednak komukolwiek wpadnie do głowy, by przestawić&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/spotkanie-z-misiem-ktory-nie-jest-misiem/feed/</wfw:commentRss>
+		<slash:comments>62</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Australii</title>
+		<link>/garsc-informacji-praktycznych-o-australii/</link>
+		<comments>/garsc-informacji-praktycznych-o-australii/?#comments</comments>
+		<pubDate>Tue, 15 Jan 2019 08:53:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Brisbane]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[Melbourne]]></category>
+		<category><![CDATA[Outback]]></category>
+		<category><![CDATA[Sydney]]></category>
+
+		<guid isPermaLink="false">/?p=15304</guid>
+		<description><![CDATA[Ogromny, fascynujący ląd po drugiej stronie globu, czy też &#8211; jak to lubię określać &#8211; do góry nogami, a jednym słowem: Australia, to marzenie podróżnicze wielu osób. Kusi przygodą w czerwonym, suchym i gorącym wnętrzu, wspaniałymi plażami na wybrzeżu i&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-australii/feed/</wfw:commentRss>
+		<slash:comments>84</slash:comments>
+		</item>
+		<item>
+		<title>Rozgrzane do czerwoności serce Australii</title>
+		<link>/rozgrzane-do-czerwonosci-serce-australii/</link>
+		<comments>/rozgrzane-do-czerwonosci-serce-australii/?#comments</comments>
+		<pubDate>Fri, 04 Jan 2019 10:30:10 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Australia]]></category>
+		<category><![CDATA[kanion]]></category>
+		<category><![CDATA[Outback]]></category>
+		<category><![CDATA[park narodowy]]></category>
+		<category><![CDATA[skały]]></category>
+		<category><![CDATA[wąwóz]]></category>
+
+		<guid isPermaLink="false">/?p=15338</guid>
+		<description><![CDATA[Od kilkudziesięciu minut wpatruję się w monotonny krajobraz, przewijający się przed przednią szyba niczym taśma nudnego filmu przyrodniczego. Rdzawoczerwona ziemia upstrzona jest kępkami ostrej jak brzytwa trawy z rodzaju Triodia, zwanej tu popularnie spinifeksem oraz pojedynczymi karłowatymi eukaliptusami, zaskakująco soczyście&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/rozgrzane-do-czerwonosci-serce-australii/feed/</wfw:commentRss>
+		<slash:comments>72</slash:comments>
+		</item>
+	</channel>
+</rss>

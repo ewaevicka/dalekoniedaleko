@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lublana &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/lublana/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>O nocach w więzieniu, koszarach i przestrzeni artystycznej</title>
+		<link>/o-nocach-w-wiezieniu-koszarach-i-przestrzeni-artystycznej/</link>
+		<comments>/o-nocach-w-wiezieniu-koszarach-i-przestrzeni-artystycznej/?#comments</comments>
+		<pubDate>Sun, 16 Jul 2017 15:43:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowenia]]></category>
+		<category><![CDATA[Lublana]]></category>
+		<category><![CDATA[nocleg]]></category>
+		<category><![CDATA[street art]]></category>
+
+		<guid isPermaLink="false">/?p=13897</guid>
+		<description><![CDATA[Gdyby nie miękkie podeszwy butów, odgłos kroków niósłby się echem po długim, pustym korytarzu na piętrze więziennego budynku. Mijamy kolejne cele. Odliczamy: numer 101&#8230; 102&#8230; 103&#8230; 104&#8230; 105&#8230; 106. Stajemy przed blaszanymi drzwiami oznakowanymi numerem 107. W tej celi przyjdzie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/o-nocach-w-wiezieniu-koszarach-i-przestrzeni-artystycznej/feed/</wfw:commentRss>
+		<slash:comments>42</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Słowenii</title>
+		<link>/garsc-informacji-praktycznych-o-slowenii/</link>
+		<comments>/garsc-informacji-praktycznych-o-slowenii/?#comments</comments>
+		<pubDate>Fri, 12 May 2017 17:53:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowenia]]></category>
+		<category><![CDATA[Bled]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[jaskinia Postojna]]></category>
+		<category><![CDATA[Lublana]]></category>
+		<category><![CDATA[Szkocjańskie jaskinie]]></category>
+
+		<guid isPermaLink="false">/?p=13691</guid>
+		<description><![CDATA[Słowenia wyszła przypadkiem. Kiedy zastanawiałam się, co robić w czasie majówki, moja przyjaciółka Evi powiedziała mi, że jedzie do Słowenii. Pomyślałam, że czemu nie, przecież tam jeszcze nie byłam. Jednak ponieważ nie był to ani mój pomysł, ani kraj, o&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-slowenii/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+	</channel>
+</rss>

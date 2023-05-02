@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>U Bein &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/u-bein/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Pocztówki z mostu U Bein o zachodzie słońca</title>
+		<link>/pocztowki-z-mostu-u-bein-o-zachodzie-slonca/</link>
+		<comments>/pocztowki-z-mostu-u-bein-o-zachodzie-slonca/?#comments</comments>
+		<pubDate>Sun, 02 Dec 2012 18:03:38 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Amarapura]]></category>
+		<category><![CDATA[most]]></category>
+		<category><![CDATA[U Bein]]></category>
+		<category><![CDATA[zachód słońca]]></category>
+
+		<guid isPermaLink="false">/?p=7070</guid>
+		<description><![CDATA[Są takie miejsca na świecie – sławne, pełne turystów z aparatami, wręcz oklepane. Chociaż do Amarapury zjeżdża zdecydowanie mniej odwiedzających niż na przykład pod wieżę Eiffla, to zachód słońca na moście U Bein uznawany jest za jeden z żelaznych punktów&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pocztowki-z-mostu-u-bein-o-zachodzie-slonca/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Okolice Mandalay</title>
+		<link>/okolice-mandalay/</link>
+		<comments>/okolice-mandalay/?#comments</comments>
+		<pubDate>Fri, 18 Nov 2011 12:11:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Amarapura]]></category>
+		<category><![CDATA[Inwa]]></category>
+		<category><![CDATA[klasztor]]></category>
+		<category><![CDATA[Mandalay]]></category>
+		<category><![CDATA[Mingun]]></category>
+		<category><![CDATA[most]]></category>
+		<category><![CDATA[Sagaing]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[teatr]]></category>
+		<category><![CDATA[U Bein]]></category>
+		<category><![CDATA[wodospad]]></category>
+
+		<guid isPermaLink="false">/?p=5414</guid>
+		<description><![CDATA[Ograniczony czas podróży wymaga podejmowania decyzji. My poświęcamy ostatnią stolicę birmańskiego królestwa na rzecz jej okolic. Dwa dni, które tu spędzamy, wypełnione są wręcz po brzegi, a każdego wieczoru, jak docieramy wieczorem do hostelu, to wręcz opadamy z sił. Nic&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/okolice-mandalay/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

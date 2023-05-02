@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Emona &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/emona/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Przylądek Emine</title>
+		<link>/przyladek-emine/</link>
+		<comments>/przyladek-emine/?#comments</comments>
+		<pubDate>Sun, 17 Jul 2011 17:02:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Bułgaria]]></category>
+		<category><![CDATA[Emona]]></category>
+		<category><![CDATA[latarnia morska]]></category>
+		<category><![CDATA[przylądek]]></category>
+
+		<guid isPermaLink="false">/?p=4607</guid>
+		<description><![CDATA[Punkt, w którym łańcuch górski Stara Płanina zanurza się w Morzu Czarnym to podobno miejsce, gdzie najczęściej występują sztormy na bułgarskim wybrzeżu. I najbardziej wietrzny przylądek w tym kraju. Widać mam szczęście, bo trafiam tam w prawie bezwietrzną pogodę, gdy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/przyladek-emine/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+		</item>
+	</channel>
+</rss>

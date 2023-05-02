@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rio Tinto &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/rio-tinto/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Minas de Rio Tinto. Wino z Marsa?</title>
+		<link>/minas-de-rio-tinto-wino-z-marsa/</link>
+		<comments>/minas-de-rio-tinto-wino-z-marsa/?#comments</comments>
+		<pubDate>Tue, 10 Jul 2012 15:17:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Andaluzja]]></category>
+		<category><![CDATA[Minas de Rio Tinto]]></category>
+		<category><![CDATA[przemysł]]></category>
+		<category><![CDATA[Rio Tinto]]></category>
+		<category><![CDATA[rzeka]]></category>
+
+		<guid isPermaLink="false">/?p=6557</guid>
+		<description><![CDATA[Stop! Stop! &#8211; Koen po raz kolejny zjeżdża na pobocze, bo zobaczyłam jakiś widoczek godny sfotografowania. Na szczęście dobrze się rozumiemy, on prowadzi auto, ja robię zdjęcia, kiedy chcę. Wysiadaj, zobacz. Chyba znaleźliśmy Rio Tinto &#8211; mówię i pokazuję w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/minas-de-rio-tinto-wino-z-marsa/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Tour de Huelva</title>
+		<link>/tour-de-huelva/</link>
+		<comments>/tour-de-huelva/?#comments</comments>
+		<pubDate>Sun, 03 Oct 2010 01:07:44 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Andaluzja]]></category>
+		<category><![CDATA[Huelva]]></category>
+		<category><![CDATA[klasztor]]></category>
+		<category><![CDATA[Kolumb]]></category>
+		<category><![CDATA[kopalnia]]></category>
+		<category><![CDATA[La Rabida]]></category>
+		<category><![CDATA[Minas de Rio Tinto]]></category>
+		<category><![CDATA[Niebla]]></category>
+		<category><![CDATA[Rio Tinto]]></category>
+		<category><![CDATA[rolnictwo]]></category>
+		<category><![CDATA[rzeka]]></category>
+		<category><![CDATA[zamek]]></category>
+
+		<guid isPermaLink="false">/?p=2413</guid>
+		<description><![CDATA[Kiedy spotka się dwoje nie do końca normalnych ludzi to nie jest niespodzianką, że spokojny i dobrze zaplanowany wyjazd krajoznawczy kończy się dużo później i zupełnie gdzie indziej, niż program wycieczki przewiduje. Rundkę po andaluzyjskiej prowincji Huelva planowaliśmy z Koenem&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tour-de-huelva/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

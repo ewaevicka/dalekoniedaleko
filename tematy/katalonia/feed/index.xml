@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Katalonia &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/katalonia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Świąteczne skupienie</title>
+		<link>/swiateczne-skupienie/</link>
+		<comments>/swiateczne-skupienie/?#comments</comments>
+		<pubDate>Wed, 21 Dec 2011 16:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Boże Narodzenie]]></category>
+		<category><![CDATA[caganer]]></category>
+		<category><![CDATA[chrześcijaństwo]]></category>
+		<category><![CDATA[Katalonia]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=5644</guid>
+		<description><![CDATA[Z czym kojarzą wam się święta Bożego Narodzenia? Choinka, bombki, prezenty, święty Mikołaj, kolacja wigilijna ze smażonym karpiem w roli głównej, pusty talerz dla wędrowca, sianko pod obrusem, pierwsza gwiazdka, śnieg, kolędowanie, szopka, a w niej maleńki, nowo narodzony Jezusek,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/swiateczne-skupienie/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Pa amb tomàquet</title>
+		<link>/pa-amb-tomaquet/</link>
+		<comments>/pa-amb-tomaquet/?#comments</comments>
+		<pubDate>Sun, 11 Dec 2011 14:34:17 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Katalonia]]></category>
+		<category><![CDATA[kuchnia hiszpańska]]></category>
+		<category><![CDATA[kulinaria]]></category>
+
+		<guid isPermaLink="false">/?p=5554</guid>
+		<description><![CDATA[Biały chleb kroimy na kromki. Bierzemy bardzo dojrzałego, miękkiego pomidora i przekrawamy go na pół pamiętając o tym, by przekroić go w poprzek, a nie wzdłuż. Jedną z połówek pomidora wcieramy w kromkę chleba. Teraz wystarczy już tylko skropić chleb&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pa-amb-tomaquet/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+		</item>
+	</channel>
+</rss>

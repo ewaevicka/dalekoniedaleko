@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>religia &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/religia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Lalibela &#8211; kościoły, które w skale wykuwały anioły</title>
+		<link>/lalibela-koscioly-ktore-w-skale-wykuwaly-anioly/</link>
+		<comments>/lalibela-koscioly-ktore-w-skale-wykuwaly-anioly/?#comments</comments>
+		<pubDate>Wed, 25 Apr 2018 16:59:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Etiopia]]></category>
+		<category><![CDATA[kościół]]></category>
+		<category><![CDATA[religia]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=14547</guid>
+		<description><![CDATA[Gdy dziecko przyszło na świat, otoczył je rój pszczół, co matka uznała za znak, że w przyszłości zostanie on władcą kraju. Chłopiec nie miał jednak łatwego życia, gdyż tron formalnie przypadał jego starszemu bratu, Kedusowi Habre. Ten, w obawie o&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/lalibela-koscioly-ktore-w-skale-wykuwaly-anioly/feed/</wfw:commentRss>
+		<slash:comments>42</slash:comments>
+		</item>
+		<item>
+		<title>Miedź, słoneczniki i niepozorna figurka Matki Boskiej</title>
+		<link>/miedz-sloneczniki-i-niepozorna-figurka-matki-boskiej/</link>
+		<comments>/miedz-sloneczniki-i-niepozorna-figurka-matki-boskiej/?#comments</comments>
+		<pubDate>Tue, 22 Mar 2016 13:53:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kuba]]></category>
+		<category><![CDATA[chrześcijaństwo]]></category>
+		<category><![CDATA[kościół]]></category>
+		<category><![CDATA[religia]]></category>
+		<category><![CDATA[Santiago de Cuba]]></category>
+
+		<guid isPermaLink="false">/?p=11771</guid>
+		<description><![CDATA[Autobus zatrzymuje się na poboczu krętej drogi, nieopodal niewielkiego straganu. Na wystawie pełno mniejszych lub większych figurek Matki Boskiej z pobliskiego sanktuarium. Można się też zaopatrzyć w świeczki za jedno peso wymienialne i słoneczniki, ulubione kwiaty pielgrzymów udających się do&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/miedz-sloneczniki-i-niepozorna-figurka-matki-boskiej/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+		<item>
+		<title>U stóp starożytnych stup o skomplikowanych nazwach</title>
+		<link>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/</link>
+		<comments>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/?#comments</comments>
+		<pubDate>Wed, 29 Aug 2012 10:07:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[Anuradhapura]]></category>
+		<category><![CDATA[buddyzm]]></category>
+		<category><![CDATA[religia]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[stupa]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=6785</guid>
+		<description><![CDATA[Anuradhapura. Zapamiętanie tej nazwy zajmuje mi dobre kilka godzin. A to przecież jedno z najczęściej powtarzanych słów tamtego dnia. Tak nazywała się jedna z dawnych wspaniałych stolic Sri Lanki. Dzisiaj – ogromny obszar pełen zabytkowych świątyń, stup (zwanych tutaj dagobami),&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

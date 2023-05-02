@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kawa &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/kawa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Czarne, płynne złoto Etiopii</title>
+		<link>/czarne-plynne-zloto-etiopii/</link>
+		<comments>/czarne-plynne-zloto-etiopii/?#comments</comments>
+		<pubDate>Thu, 09 Aug 2018 06:52:30 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Etiopia]]></category>
+		<category><![CDATA[kawa]]></category>
+		<category><![CDATA[napoje]]></category>
+		<category><![CDATA[używki]]></category>
+
+		<guid isPermaLink="false">/?p=14720</guid>
+		<description><![CDATA[Ceremonia zaczyna się od przepłukania zielonych ziarenek chłodną wodą. Następnie gospodyni przesypuje je do niewielkiego, płaskiego rondelka albo na okrągły kawałek blachy przypominający patelnię bez rączki, które umieszcza nad paleniskiem, gdzie żarzą się już małe węgielki. Jedną ręką co jakiś&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/czarne-plynne-zloto-etiopii/feed/</wfw:commentRss>
+		<slash:comments>56</slash:comments>
+		</item>
+		<item>
+		<title>Kawa po portugalsku</title>
+		<link>/kawa-po-portugalsku/</link>
+		<comments>/kawa-po-portugalsku/?#comments</comments>
+		<pubDate>Mon, 11 Jan 2010 19:55:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[kawa]]></category>
+		<category><![CDATA[napoje]]></category>
+
+		<guid isPermaLink="false">/?p=978</guid>
+		<description><![CDATA[Jak już w tematach kawiarnianych jesteśmy to zapraszam na szybki przegląd tego, co można w takiej kawiarni portugalskiej zamówić. Chociaż nie, bo nie będę Wam dziś pisać  tostach z szynką i serem (tosta mista) i pastéis de nata. Będzie o&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kawa-po-portugalsku/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		</item>
+		<item>
+		<title>Kawiarniane życie</title>
+		<link>/kawiarniane-zycie/</link>
+		<comments>/kawiarniane-zycie/?#comments</comments>
+		<pubDate>Sun, 10 Jan 2010 11:29:55 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[kawa]]></category>
+		<category><![CDATA[Lizbona]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=957</guid>
+		<description><![CDATA[Niesamowite jest w Portugalii to, ile starszych osób można codziennie spotkać w knajpkach i kawiarniach. Babcie nie siedzą w fotelu bujanym dziergając na drutach. Dziadkowie nie spędzają połowy dnia na kanapie czytając gazetę. Oni wychodzą i spotykają się w restauracyjkach.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kawiarniane-zycie/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

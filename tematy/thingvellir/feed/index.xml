@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thingvellir &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/thingvellir/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Pływając w lodowatej wodzie między kontynentami</title>
+		<link>/plywajac-w-lodowatej-wodzie-miedzy-kontynentami/</link>
+		<comments>/plywajac-w-lodowatej-wodzie-miedzy-kontynentami/?#comments</comments>
+		<pubDate>Thu, 21 May 2015 09:05:32 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Islandia]]></category>
+		<category><![CDATA[pod wodą]]></category>
+		<category><![CDATA[Silfra]]></category>
+		<category><![CDATA[snorkeling]]></category>
+		<category><![CDATA[snorkeling na Islandii]]></category>
+		<category><![CDATA[Thingvellir]]></category>
+
+		<guid isPermaLink="false">/?p=10790</guid>
+		<description><![CDATA[W suchym skafandrze czuję się jak kosmonauta, szykujący się do podboju innych planet, a nie jak człowiek, który za chwilę ma dać nura do lodowatej wody. W głowie kołaczą się dwie myśli: po co ja się tam pcham? na przemian&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/plywajac-w-lodowatej-wodzie-miedzy-kontynentami/feed/</wfw:commentRss>
+		<slash:comments>68</slash:comments>
+		</item>
+		<item>
+		<title>Golden Circle &#8211; złoty krąg nieustannych zachwytów</title>
+		<link>/golden-circle-zloty-krag-nieustannych-zachwytow/</link>
+		<comments>/golden-circle-zloty-krag-nieustannych-zachwytow/?#comments</comments>
+		<pubDate>Mon, 18 May 2015 12:26:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Islandia]]></category>
+		<category><![CDATA[gejzer]]></category>
+		<category><![CDATA[park narodowy]]></category>
+		<category><![CDATA[Thingvellir]]></category>
+		<category><![CDATA[wodospad]]></category>
+
+		<guid isPermaLink="false">/?p=10753</guid>
+		<description><![CDATA[Kiedy już myślisz, że nic więcej cię nie zaskoczy, nic bardziej nie oczaruje – w tym właśnie momencie Islandia postanawia udowodnić ci, jak bardzo się mylisz. Kiedy wydaje ci się, że największe wrażenia masz już za sobą, to masz rację&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/golden-circle-zloty-krag-nieustannych-zachwytow/feed/</wfw:commentRss>
+		<slash:comments>58</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dunaj &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/dunaj/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Wzgórze Gellérta</title>
+		<link>/wzgorze-gellerta/</link>
+		<comments>/wzgorze-gellerta/?#comments</comments>
+		<pubDate>Sat, 15 Oct 2011 10:31:29 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Węgry]]></category>
+		<category><![CDATA[Buda]]></category>
+		<category><![CDATA[Budapeszt]]></category>
+		<category><![CDATA[Dunaj]]></category>
+		<category><![CDATA[jaskinia]]></category>
+		<category><![CDATA[Peszt]]></category>
+		<category><![CDATA[pomnik]]></category>
+
+		<guid isPermaLink="false">/?p=5013</guid>
+		<description><![CDATA[Niby zwykła górka nad rzeką, a jednak mieszkańcy okolicy zawsze mieli o niej złe zdanie. A to czarownice miały tutaj odprawiać swoje straszne rytuały w czasie sabatu, a to rzezimieszki mieli czyhać na samotnych przechodniów, a to wreszcie po tych&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wzgorze-gellerta/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Zamek w Wyszegradzie</title>
+		<link>/zamek-w-wyszegradzie/</link>
+		<comments>/zamek-w-wyszegradzie/?#comments</comments>
+		<pubDate>Fri, 04 Mar 2011 21:08:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Węgry]]></category>
+		<category><![CDATA[Dunaj]]></category>
+		<category><![CDATA[rzeka]]></category>
+		<category><![CDATA[zamek]]></category>
+
+		<guid isPermaLink="false">/?p=3486</guid>
+		<description><![CDATA[Nazwa węgierskiego miasta Visegrád leżącego ok. 35 kilometrów na północ od Budapesztu oznacza dosłownie &#8220;zamek na wzgórzu&#8221;. To w tym mieście spotykali się przedstawiciele Grupy Wyszehradzkiej, czyli przywódcy Polski, Czechosłowacji (a później Czech i Słowacji) i oczywiście Węgier. Grupa Wyszehradzka&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zamek-w-wyszegradzie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

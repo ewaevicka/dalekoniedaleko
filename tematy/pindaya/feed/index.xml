@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pindaya &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/pindaya/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Parasolki, parasolki&#8230; papierowe cudeńka</title>
+		<link>/parasolki-parasolki-papierowe-cudenka/</link>
+		<comments>/parasolki-parasolki-papierowe-cudenka/?#comments</comments>
+		<pubDate>Fri, 09 May 2014 07:29:12 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[pamiątki]]></category>
+		<category><![CDATA[Pindaya]]></category>
+
+		<guid isPermaLink="false">/?p=8126</guid>
+		<description><![CDATA[Z jednej strony trochę żałuję, że nie przywiozłam sobie takiej parasolki jako pamiątki z Birmy. Z drugiej strony – jest to pamiątka bardzo droga i niestety niepraktyczna – wiadomo, że szkoda byłoby jej używać na co dzień, musiałaby więc służyć&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/parasolki-parasolki-papierowe-cudenka/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+		<item>
+		<title>Przystanek w Kalaw</title>
+		<link>/przystanek-w-kalaw/</link>
+		<comments>/przystanek-w-kalaw/?#comments</comments>
+		<pubDate>Tue, 22 Nov 2011 13:45:26 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[bazar]]></category>
+		<category><![CDATA[jaskinia]]></category>
+		<category><![CDATA[Kalaw]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[Pindaya]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[targ]]></category>
+		<category><![CDATA[transport]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=5437</guid>
+		<description><![CDATA[Zdezelowany autobus podskakujący na nierównej, wąskiej drodze znowu się zatrzymuje. Nie wiem już, czy zbiera siły do kolejnego podjazdu pod ostrą górkę, czy raczej jest to przerwa na zrzucenie kilku pakunków z dachu. Kalaw &#8211; ktoś krzyczy, ale nie jestem&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/przystanek-w-kalaw/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

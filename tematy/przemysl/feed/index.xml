@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>przemysł &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/przemysl/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Opowieść o zanzibarskich algach</title>
+		<link>/opowiesc-o-zanzibarskich-algach/</link>
+		<comments>/opowiesc-o-zanzibarskich-algach/?#comments</comments>
+		<pubDate>Fri, 23 Sep 2016 18:15:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tanzania]]></category>
+		<category><![CDATA[plantacja]]></category>
+		<category><![CDATA[przemysł]]></category>
+		<category><![CDATA[Zanzibar]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=12218</guid>
+		<description><![CDATA[Wyciągnąwszy z płytkiej wody kawałek wodorostu Mustafa podaje mi go z uśmiechem. &#8211; Jedz! &#8211; zachęca, a ja nie jestem pewna, czy mówi poważnie, czy może stroi sobie ze mnie żarty. &#8211; To? No nie wiem&#8230; Ty zjedz pierwszy &#8211;&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/opowiesc-o-zanzibarskich-algach/feed/</wfw:commentRss>
+		<slash:comments>70</slash:comments>
+		</item>
+		<item>
+		<title>Bułgaria różami pachnąca</title>
+		<link>/bulgaria-rozami-pachnaca/</link>
+		<comments>/bulgaria-rozami-pachnaca/?#comments</comments>
+		<pubDate>Wed, 18 Jul 2012 08:38:12 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Bułgaria]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[pamiątki]]></category>
+		<category><![CDATA[przemysł]]></category>
+
+		<guid isPermaLink="false">/?p=6631</guid>
+		<description><![CDATA[Zapach jest tak intensywny, że aż kręci w nosie. Zamykam oczy, biorę kolejny długi wdech. Podoba mi się. Słodycz przede wszystkim. Róża pachnie wspaniale, chociaż z wyglądu – nic specjalnego. Ot, bladoróżowy kwiatek. Widziałam ładniejsze. Ale te ładniejsze nie pachniały&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/bulgaria-rozami-pachnaca/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Minas de Rio Tinto. Wino z Marsa?</title>
+		<link>/minas-de-rio-tinto-wino-z-marsa/</link>
+		<comments>/minas-de-rio-tinto-wino-z-marsa/?#comments</comments>
+		<pubDate>Tue, 10 Jul 2012 15:17:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Andaluzja]]></category>
+		<category><![CDATA[Minas de Rio Tinto]]></category>
+		<category><![CDATA[przemysł]]></category>
+		<category><![CDATA[Rio Tinto]]></category>
+		<category><![CDATA[rzeka]]></category>
+
+		<guid isPermaLink="false">/?p=6557</guid>
+		<description><![CDATA[Stop! Stop! &#8211; Koen po raz kolejny zjeżdża na pobocze, bo zobaczyłam jakiś widoczek godny sfotografowania. Na szczęście dobrze się rozumiemy, on prowadzi auto, ja robię zdjęcia, kiedy chcę. Wysiadaj, zobacz. Chyba znaleźliśmy Rio Tinto &#8211; mówię i pokazuję w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/minas-de-rio-tinto-wino-z-marsa/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

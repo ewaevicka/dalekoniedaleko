@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Valldemossa &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/valldemossa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Valldemossa pełna uroczych zakątków</title>
+		<link>/valldemossa-pelna-uroczych-zakatkow/</link>
+		<comments>/valldemossa-pelna-uroczych-zakatkow/?#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 14:38:28 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Baleary]]></category>
+		<category><![CDATA[Majorka]]></category>
+		<category><![CDATA[Valldemossa]]></category>
+
+		<guid isPermaLink="false">/?p=7478</guid>
+		<description><![CDATA[Słońce promieniami delikatnie ogrzewa twarz, ale biorąc głębszy wdech nadal czuć lekki chłodek w powietrzu. Ludzie, których widzę na ulicy, poubierani są jeszcze w lekkie kurtki, a ich szyje najczęściej opatulone są szalikiem lub chustką. Nie ma ich zresztą zbyt&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/valldemossa-pelna-uroczych-zakatkow/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

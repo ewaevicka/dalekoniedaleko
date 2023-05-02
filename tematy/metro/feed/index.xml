@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>metro &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/metro/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Mińsk &#8211; zaprojektowany, by imponować</title>
+		<link>/minsk-zaprojektowany-by-imponowac/</link>
+		<comments>/minsk-zaprojektowany-by-imponowac/?#comments</comments>
+		<pubDate>Tue, 25 Apr 2017 17:34:29 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Białoruś]]></category>
+		<category><![CDATA[architektura]]></category>
+		<category><![CDATA[metro]]></category>
+		<category><![CDATA[Mińsk]]></category>
+
+		<guid isPermaLink="false">/?p=13642</guid>
+		<description><![CDATA[Mówi się, że gdy odbudowywano niemal doszczętnie zniszczony po wojnie Mińsk, zaplanowano go tak, by wywoływał podziw, pokazując potęgę państwa i aparatu władzy, jednocześnie podkreślając słabość i nieistotność jednostki. Coś jednak poszło nie tak, albo to ze mną jest coś&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/minsk-zaprojektowany-by-imponowac/feed/</wfw:commentRss>
+		<slash:comments>49</slash:comments>
+		</item>
+		<item>
+		<title>Stacja Arsenalna &#8211; wycieczka ruchomymi schodami</title>
+		<link>/stacja-arsenalna-wycieczka-ruchomymi-schodami/</link>
+		<comments>/stacja-arsenalna-wycieczka-ruchomymi-schodami/?#comments</comments>
+		<pubDate>Wed, 16 May 2012 22:15:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Ukraina]]></category>
+		<category><![CDATA[Kijów]]></category>
+		<category><![CDATA[metro]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=6453</guid>
+		<description><![CDATA[Jadę i jadę&#8230; i jadę. I cieszę się, że schody są ruchome, a nie tradycyjne, po których trzeba by się było wspinać. W końcu dojeżdżam, a tu okazuje się, że to dopiero połowa. Przede mną kolejne schody. Jadę dalej. Przejeżdżam&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/stacja-arsenalna-wycieczka-ruchomymi-schodami/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fiordy &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/fiordy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Szlakiem zachwytów od Geiranger do Trollstigen</title>
+		<link>/szlakiem-zachwytow-od-geiranger-do-trollstigen/</link>
+		<comments>/szlakiem-zachwytow-od-geiranger-do-trollstigen/?#comments</comments>
+		<pubDate>Mon, 15 Oct 2018 15:40:21 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Norwegia]]></category>
+		<category><![CDATA[fiordy]]></category>
+		<category><![CDATA[rejs]]></category>
+		<category><![CDATA[roadtrip]]></category>
+
+		<guid isPermaLink="false">/?p=15068</guid>
+		<description><![CDATA[W ciemnogranatowej tafli wody odbijają się pokryte soczystozieloną roślinnością ściany skalne, znajdujące się po obu stronach stateczka, którym płynę. W oddali widzę srebrzystą wstęgę wodospadu, jednego z kilku w okolicy, a na szczytach gór błyszczą białe plamy śniegu, leżącego tam&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/szlakiem-zachwytow-od-geiranger-do-trollstigen/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+		</item>
+		<item>
+		<title>Fiordy z ręki nie jedzą, ale i tak są piękne!</title>
+		<link>/fiordy-z-reki-nie-jedza-ale-i-tak-sa-piekne/</link>
+		<comments>/fiordy-z-reki-nie-jedza-ale-i-tak-sa-piekne/?#comments</comments>
+		<pubDate>Wed, 08 Feb 2017 17:17:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Norwegia]]></category>
+		<category><![CDATA[fiordy]]></category>
+		<category><![CDATA[Tromso]]></category>
+
+		<guid isPermaLink="false">/?p=12964</guid>
+		<description><![CDATA[Budzę się wczesnym rankiem i widzę, że na ekranie telefonu wyświetla się ikonka nowej wiadomości. Otwieram. Ze względu na złe warunki pogodowe musimy odwołać wycieczkę na fiordy, gdyż przebywanie na wybrzeżu przy sztormowym wietrze byłoby zbyt niebezpieczne. Wzruszam ramionami i&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/fiordy-z-reki-nie-jedza-ale-i-tak-sa-piekne/feed/</wfw:commentRss>
+		<slash:comments>65</slash:comments>
+		</item>
+	</channel>
+</rss>

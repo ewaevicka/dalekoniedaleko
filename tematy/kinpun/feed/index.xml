@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kinpun &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/kinpun/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Dach nad głową: Birma</title>
+		<link>/dach-nad-glowa-birma/</link>
+		<comments>/dach-nad-glowa-birma/?#comments</comments>
+		<pubDate>Fri, 09 Dec 2011 12:45:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Bagan]]></category>
+		<category><![CDATA[guesthouse]]></category>
+		<category><![CDATA[hostel]]></category>
+		<category><![CDATA[hotel]]></category>
+		<category><![CDATA[Inle]]></category>
+		<category><![CDATA[Kalaw]]></category>
+		<category><![CDATA[Kinpun]]></category>
+		<category><![CDATA[Mandalay]]></category>
+		<category><![CDATA[nocleg]]></category>
+		<category><![CDATA[Nyaung Shwe]]></category>
+		<category><![CDATA[Nyaung U]]></category>
+		<category><![CDATA[Rangun]]></category>
+		<category><![CDATA[Yangon]]></category>
+
+		<guid isPermaLink="false">/?p=5507</guid>
+		<description><![CDATA[Myślałam, że będzie jak w innych krajach Azji Południowo-Wschodniej. Przyjeżdżam do hostelu, oglądam pokój, jak się podoba to zostaję, jak nie &#8211; to szukam gdzieś indziej. Być może jeszcze niedawno tak było, ale już nie jest. Nauczone brakiem miejsc w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dach-nad-glowa-birma/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Do Złotej Skały i z powrotem</title>
+		<link>/do-zlotej-skaly-i-z-powrotem/</link>
+		<comments>/do-zlotej-skaly-i-z-powrotem/?#comments</comments>
+		<pubDate>Mon, 14 Nov 2011 14:19:06 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[buddyzm]]></category>
+		<category><![CDATA[Kinpun]]></category>
+		<category><![CDATA[Kyaiktiyo]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[Złota Skała]]></category>
+
+		<guid isPermaLink="false">/?p=5402</guid>
+		<description><![CDATA[Dotarcie do Kyaiktiyo czyli Złotej Skały wymaga poświęceń. Najpierw poświęca się pośladki, fundując im niemalże czterdziestopięciominutowy masaż. Narzędziem wykonującym masaż jest drewniana ławka zamocowana na wielkiej ciężarówce wiozącej nas z Kinpun do Yatetatung. Stamtąd poświęca się łydki wykorzystując je do&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/do-zlotej-skaly-i-z-powrotem/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wiedeń &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/wieden/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Hundertwasserhaus &#8211; dom szalonego artysty</title>
+		<link>/hundertwasserhaus-dom-szalonego-artysty/</link>
+		<comments>/hundertwasserhaus-dom-szalonego-artysty/?#comments</comments>
+		<pubDate>Sun, 22 Feb 2015 15:48:59 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Austria]]></category>
+		<category><![CDATA[architektura]]></category>
+		<category><![CDATA[Wiedeń]]></category>
+
+		<guid isPermaLink="false">/?p=10217</guid>
+		<description><![CDATA[To lubię! Żywe kolory, kolory i jeszcze raz kolory. Mozaiki, kafelki, kształty zmieniające się jak w kalejdoskopie. Miękko falujące linie, zaokrąglenia, wybrzuszenia i zagłębienia. Chaos, nieporządek i niepoukładanie. Taki dokładnie jest Hundertwasserhaus, budynek mieszkalny stojący w Wiedniu na rogu Kegelgasse&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/hundertwasserhaus-dom-szalonego-artysty/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+		<item>
+		<title>Prater. Bo kto nie lubi jeździć na karuzeli?</title>
+		<link>/prater-bo-kto-nie-lubi-jezdzic-na-karuzeli/</link>
+		<comments>/prater-bo-kto-nie-lubi-jezdzic-na-karuzeli/?#comments</comments>
+		<pubDate>Tue, 07 Oct 2014 11:15:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Austria]]></category>
+		<category><![CDATA[park rozrywki]]></category>
+		<category><![CDATA[Prater]]></category>
+		<category><![CDATA[Wiedeń]]></category>
+
+		<guid isPermaLink="false">/?p=9122</guid>
+		<description><![CDATA[Ten drążek zabezpieczający wygląda solidnie. I jeszcze pasy. Raczej ciężko wypaść z krzesełka &#8211; mówię na głos do siedzącej obok Sylwii. A tak naprawdę bardziej do siebie. Choć udaję odważną, to jednak czekający mnie za chwile przejazd na karuzeli wywołuje&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/prater-bo-kto-nie-lubi-jezdzic-na-karuzeli/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+		</item>
+	</channel>
+</rss>

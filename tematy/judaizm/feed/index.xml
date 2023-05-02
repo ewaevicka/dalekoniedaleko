@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>judaizm &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/judaizm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Cmentarz żydowski w Otwocku</title>
+		<link>/cmentarz-zydowski-w-otwocku/</link>
+		<comments>/cmentarz-zydowski-w-otwocku/?#comments</comments>
+		<pubDate>Sun, 16 May 2010 16:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polska]]></category>
+		<category><![CDATA[cmentarz]]></category>
+		<category><![CDATA[judaizm]]></category>
+		<category><![CDATA[Otwock]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=2044</guid>
+		<description><![CDATA[Po obfotografowaniu opuszczonego szpitala psychiatrycznego Zofiówka w Otwocku ruszyliśmy na drugą część pleneru &#8211; na cmentarz żydowski w Otwocku. Leży on na skraju lasu i jest dość zaniedbany. Dość, bo dawniej podobno było tu jeszcze gorzej. Mimo wszystko poprzewracane i&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cmentarz-zydowski-w-otwocku/feed/</wfw:commentRss>
+		<slash:comments>40</slash:comments>
+		</item>
+	</channel>
+</rss>

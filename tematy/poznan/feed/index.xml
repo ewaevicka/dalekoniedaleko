@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Poznań &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/poznan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Rogale świętomarcińskie &#8211; od rzymskiego legionisty po poznański smakołyk</title>
+		<link>/rogale-swietomarcinskie-od-rzymskiego-legionisty-po-poznanski-smakolyk/</link>
+		<comments>/rogale-swietomarcinskie-od-rzymskiego-legionisty-po-poznanski-smakolyk/?#comments</comments>
+		<pubDate>Tue, 13 Nov 2018 18:14:06 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polska]]></category>
+		<category><![CDATA[kulinaria]]></category>
+		<category><![CDATA[Poznań]]></category>
+		<category><![CDATA[święto]]></category>
+
+		<guid isPermaLink="false">/?p=15175</guid>
+		<description><![CDATA[Na kawałek ciasta półfrancuskiego w kształcie wydłużonego trójkąta nakładam masę z białego maku. Krótszy bok zawijam raz, a następnie nacinam go w połowie, odsuwając od siebie nieco dwie części. Teraz mogę zwijać dalej, z jednej strony uważając, by masa makowa&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/rogale-swietomarcinskie-od-rzymskiego-legionisty-po-poznanski-smakolyk/feed/</wfw:commentRss>
+		<slash:comments>81</slash:comments>
+		</item>
+	</channel>
+</rss>

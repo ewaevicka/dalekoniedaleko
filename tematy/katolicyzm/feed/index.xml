@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>katolicyzm &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/katolicyzm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Fatima i okolice</title>
+		<link>/fatima-i-okolice/</link>
+		<comments>/fatima-i-okolice/?#comments</comments>
+		<pubDate>Sat, 26 Mar 2011 15:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Aljustrel]]></category>
+		<category><![CDATA[cmentarz]]></category>
+		<category><![CDATA[Fatima]]></category>
+		<category><![CDATA[katolicyzm]]></category>
+		<category><![CDATA[pamiątki]]></category>
+		<category><![CDATA[sanktuarium]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=4173</guid>
+		<description><![CDATA[Zdania co do tego miejsca są podzielone. Znam osoby, które przekonują, że odczuwają tam jakąś siłę, energię, boską moc. Inni wracają z Fatimy rozczarowani, bo jedyna siła, jaką dostrzegają, to moc pieniądza. Rzeczywiście miejsce jest bardzo skomercjalizowane, ale dla wielu&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/fatima-i-okolice/feed/</wfw:commentRss>
+		<slash:comments>63</slash:comments>
+		</item>
+	</channel>
+</rss>

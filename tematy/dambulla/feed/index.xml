@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dambulla &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/dambulla/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Dambulla</title>
+		<link>/dambulla/</link>
+		<comments>/dambulla/?#comments</comments>
+		<pubDate>Sat, 20 Nov 2010 14:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[buddyzm]]></category>
+		<category><![CDATA[Dambulla]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=2841</guid>
+		<description><![CDATA[Świątynie wykute w skale są jednym z najważniejszych miejsc kultu buddyjskiego na Sri Lance. Żeby je obejrzeć, trzeba wdrapać się 160 metrów wzwyż. Do tego otoczonego czcią miejsca pielgrzymują miliony wiernych – i to aż od I wieku n.e., kiedy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dambulla/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

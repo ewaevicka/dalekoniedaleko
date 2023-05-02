@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>samolot &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/samolot/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Pocztówka z widokiem na samoloty</title>
+		<link>/pocztowka-z-widokiem-na-samoloty/</link>
+		<comments>/pocztowka-z-widokiem-na-samoloty/?#comments</comments>
+		<pubDate>Sun, 26 Jul 2015 17:40:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[Korfu]]></category>
+		<category><![CDATA[kościół]]></category>
+		<category><![CDATA[samolot]]></category>
+		<category><![CDATA[wyspa]]></category>
+
+		<guid isPermaLink="false">/?p=10997</guid>
+		<description><![CDATA[Przez krótki moment mam wrażenie, że pękają mi bębenki w uszach. Świdrujące wycie odrzutowych silników jest nie do zniesienia. Trwa to jednak tylko krótką chwilę. Samolot przelatuje tuż nad głową. Obracam się, podążając wzrokiem za jego sylwetką, teraz dotykającą kołami&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pocztowka-z-widokiem-na-samoloty/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+		<item>
+		<title>Kenijski odlot, czyli trochę inna perspektywa</title>
+		<link>/kenijski-odlot-czyli-troche-inna-perspektywa/</link>
+		<comments>/kenijski-odlot-czyli-troche-inna-perspektywa/?#comments</comments>
+		<pubDate>Sat, 08 Dec 2012 11:50:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[Amboseli]]></category>
+		<category><![CDATA[latanie]]></category>
+		<category><![CDATA[Masai Mara]]></category>
+		<category><![CDATA[park narodowy]]></category>
+		<category><![CDATA[samolot]]></category>
+		<category><![CDATA[Tsavo]]></category>
+
+		<guid isPermaLink="false">/?p=7088</guid>
+		<description><![CDATA[Na lądowisku (bo na miano lotniska to miejsce chyba nie zasługuje) w Ukundzie panuje chaos, który ogarniają tylko miejscowi. Nikt nie zwraca na mnie uwagi, kiedy podchodzę do kontroli bezpieczeństwa i kładę plecak na taśmie. Dwójka panów wyglądających na ochronę&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kenijski-odlot-czyli-troche-inna-perspektywa/feed/</wfw:commentRss>
+		<slash:comments>42</slash:comments>
+		</item>
+		<item>
+		<title>W połowie drogi na Księżyc, czyli o lataniu słów kilka</title>
+		<link>/w-polowie-drogi-na-ksiezyc-czyli-o-lataniu-slow-kilka/</link>
+		<comments>/w-polowie-drogi-na-ksiezyc-czyli-o-lataniu-slow-kilka/?#comments</comments>
+		<pubDate>Thu, 15 Dec 2011 23:17:25 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[Finnair]]></category>
+		<category><![CDATA[latanie]]></category>
+		<category><![CDATA[linie lotnicze]]></category>
+		<category><![CDATA[LOT]]></category>
+		<category><![CDATA[samolot]]></category>
+
+		<guid isPermaLink="false">/?p=5592</guid>
+		<description><![CDATA[Gdybym wszystkie kilometry pokonane drogą powietrzną odbyła na trasie Ziemia-Księżyc, byłabym już na półmetku. Tak przynajmniej twierdzi serwis my.flightmemory.com, który obliczył, że przeleciałam już ponad 180 000 kilometrów, a na pokładach samolotów spędziłam ponad 266 godzin, czyli 11 dni. Czy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-polowie-drogi-na-ksiezyc-czyli-o-lataniu-slow-kilka/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+		</item>
+	</channel>
+</rss>

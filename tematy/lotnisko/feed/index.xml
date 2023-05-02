@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lotnisko &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/lotnisko/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Absurdystan</title>
+		<link>/absurdystan/</link>
+		<comments>/absurdystan/?#comments</comments>
+		<pubDate>Fri, 08 Jul 2011 13:32:15 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Bułgaria]]></category>
+		<category><![CDATA[lotnisko]]></category>
+		<category><![CDATA[Warna]]></category>
+		<category><![CDATA[Złote Piaski]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=4572</guid>
+		<description><![CDATA[Znam kilkoro Bułgarów, według których ich kraj nie powinien nazywać się Bułgaria, lecz Absurdystan (Абсурдистан). I powiem szczerze, że coś w tym jest. Wiadomo, w każdym kraju zdarzają się mniejsze lub większe absurdy (Polska dobrym tego przykładem ;), ale to,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/absurdystan/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Punta Cana</title>
+		<link>/punta-cana/</link>
+		<comments>/punta-cana/?#comments</comments>
+		<pubDate>Thu, 16 Dec 2010 14:02:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[El Cortecito]]></category>
+		<category><![CDATA[lotnisko]]></category>
+		<category><![CDATA[Punta Cana]]></category>
+
+		<guid isPermaLink="false">/?p=2955</guid>
+		<description><![CDATA[Takiego lotniska, jak to w Punta Cana, to moje oczy jeszcze nie widziały. Przyzwyczajona do wielkich, stalowych hal w Europie, ewentualnie elegancko stylizowanych murowanych budynków przykładowo w krajach Arabskich, nie mogę uwierzyć, co ukazuje się moim oczom po wyjściu z&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/punta-cana/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Na szczycie Gibraltaru</title>
+		<link>/w-poszukiwaniu-gibraltaru/</link>
+		<comments>/w-poszukiwaniu-gibraltaru/?#comments</comments>
+		<pubDate>Sat, 11 Sep 2010 20:36:54 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Wielka Brytania]]></category>
+		<category><![CDATA[Gibraltar]]></category>
+		<category><![CDATA[jaskinia]]></category>
+		<category><![CDATA[lotnisko]]></category>
+		<category><![CDATA[małpy]]></category>
+		<category><![CDATA[natura]]></category>
+
+		<guid isPermaLink="false">/?p=2363</guid>
+		<description><![CDATA[Teleportacja jest możliwa. Takie odnoszę wrażenie, gdy wraz z belgijskim znajomym Koenem przekraczamy granicę hiszpańsko-gibraltarską. W jednej chwili znajdujemy się w słonecznej Andaluzji, w następnej przenosimy się do małego, brytyjskiego miasteczka. Angielskie domki, symetria i porządek, a nawet tradycyjna czerwona&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-poszukiwaniu-gibraltaru/feed/</wfw:commentRss>
+		<slash:comments>46</slash:comments>
+		</item>
+	</channel>
+</rss>

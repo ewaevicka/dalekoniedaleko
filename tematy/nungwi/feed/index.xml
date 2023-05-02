@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nungwi &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/nungwi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Garść informacji praktycznych o Zanzibarze</title>
+		<link>/garsc-informacji-praktycznych-o-zanzibarze/</link>
+		<comments>/garsc-informacji-praktycznych-o-zanzibarze/?#comments</comments>
+		<pubDate>Fri, 20 Oct 2017 11:20:49 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tanzania]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[jambiani]]></category>
+		<category><![CDATA[Nungwi]]></category>
+		<category><![CDATA[Stone Town]]></category>
+		<category><![CDATA[Zanzibar]]></category>
+
+		<guid isPermaLink="false">/?p=12245</guid>
+		<description><![CDATA[Mieszkając przez pół roku na Zanzibarze mam możliwość poznać tę wyspę od podszewki. Niejednokrotnie przejeżdżam wyspę wzdłuż i wszerz, jeżdżąc w ramach pracy do hoteli położonych na różnych plażach Zanzibaru. Przynajmniej raz w tygodniu zaglądam do Stone Town. Poznaję kulturę,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-zanzibarze/feed/</wfw:commentRss>
+		<slash:comments>379</slash:comments>
+		</item>
+		<item>
+		<title>Podwodny świat wokół Zanzibaru</title>
+		<link>/podwodny-swiat-wokol-zanzibaru/</link>
+		<comments>/podwodny-swiat-wokol-zanzibaru/?#comments</comments>
+		<pubDate>Wed, 16 Nov 2016 09:27:58 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tanzania]]></category>
+		<category><![CDATA[Nungwi]]></category>
+		<category><![CDATA[nurkowanie]]></category>
+		<category><![CDATA[snorkeling]]></category>
+		<category><![CDATA[Zanzibar]]></category>
+
+		<guid isPermaLink="false">/?p=12398</guid>
+		<description><![CDATA[Drewniana łódź kołysze się na falach, kiedy ja wraz z moim nurkowym partnerem szykujemy się, by wskoczyć do wody. Divemaster Suleiman pyta na koniec briefingu, co chcielibyśmy zobaczyć pod wodą. &#8211; Rekina &#8211; wykrzykujemy zgodnie. Nie wiem, skąd przychodzi mi&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/podwodny-swiat-wokol-zanzibaru/feed/</wfw:commentRss>
+		<slash:comments>60</slash:comments>
+		</item>
+		<item>
+		<title>Pewnego dnia w Nungwi</title>
+		<link>/pewnego-dnia-w-nungwi/</link>
+		<comments>/pewnego-dnia-w-nungwi/?#comments</comments>
+		<pubDate>Sat, 23 Jul 2016 17:21:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tanzania]]></category>
+		<category><![CDATA[Nungwi]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[Zanzibar]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=12027</guid>
+		<description><![CDATA[Miał być wspaniały zachód słońca, spektakl światła na bezchmurnym niebie. Po to właśnie zatrzymuję się na dwie noce na zachodnim wybrzeżu Zanzibaru, w Nungwi. Chcę poznać trochę lepiej okolicę tej osady wysuniętej najbardziej na północ wyspy. Chcę odpocząć, nacieszyć się&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pewnego-dnia-w-nungwi/feed/</wfw:commentRss>
+		<slash:comments>58</slash:comments>
+		</item>
+	</channel>
+</rss>

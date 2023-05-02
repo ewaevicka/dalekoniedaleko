@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hemingway &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/hemingway/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Malindi kenijskie, arabskie, portugalskie, brytyjskie, włoskie&#8230;</title>
+		<link>/malindi-kenijskie-arabskie-portugalskie-brytyjskie-wloskie/</link>
+		<comments>/malindi-kenijskie-arabskie-portugalskie-brytyjskie-wloskie/?#comments</comments>
+		<pubDate>Sun, 06 Mar 2016 14:10:21 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[Hemingway]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[wybrzeże Kenii]]></category>
+		<category><![CDATA[zabytki kolonialne]]></category>
+
+		<guid isPermaLink="false">/?p=11708</guid>
+		<description><![CDATA[&#8211; Ciao bella! Gdzie idziesz? Może chcesz wybrać się na przejażdżkę łódką? Mam dla ciebie ładnego chłopaka, tanio! Chodź, zobacz moje pamiątki, tylko popatrz, tanio! Bella! &#8211; wystarczy, że zrobię krok na plażę poza teren hotelu, a już obstępuje mnie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/malindi-kenijskie-arabskie-portugalskie-brytyjskie-wloskie/feed/</wfw:commentRss>
+		<slash:comments>29</slash:comments>
+		</item>
+		<item>
+		<title>Morze, daiquiri, natchnienie i miłość &#8211; ślady Ernesta Hemingwaya na Kubie</title>
+		<link>/morze-daiquiri-natchnienie-i-milosc-slady-ernesta-hemingwaya-na-kubie/</link>
+		<comments>/morze-daiquiri-natchnienie-i-milosc-slady-ernesta-hemingwaya-na-kubie/?#comments</comments>
+		<pubDate>Sun, 22 Nov 2015 15:07:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kuba]]></category>
+		<category><![CDATA[Hawana]]></category>
+		<category><![CDATA[Hemingway]]></category>
+		<category><![CDATA[śladami sławnych osób]]></category>
+
+		<guid isPermaLink="false">/?p=11337</guid>
+		<description><![CDATA[W całym domu zalega cisza. Przez otwarte okiennice do środka wpadają delikatne podmuchy wiatru, na tyle jednak słabe, by nie tworzyć przeciągu, który z hukiem zamknąłby okna lub drzwi. Na stoliku stoją puste butelki po wodzie mineralnej, whiskey i rumie.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/morze-daiquiri-natchnienie-i-milosc-slady-ernesta-hemingwaya-na-kubie/feed/</wfw:commentRss>
+		<slash:comments>42</slash:comments>
+		</item>
+		<item>
+		<title>Nad jeziorem Maggiore</title>
+		<link>/nad-jeziorem-maggiore/</link>
+		<comments>/nad-jeziorem-maggiore/?#comments</comments>
+		<pubDate>Fri, 09 Apr 2010 18:09:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Włochy]]></category>
+		<category><![CDATA[Alpy]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[Hemingway]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[małe miasteczko]]></category>
+		<category><![CDATA[Mediolan]]></category>
+
+		<guid isPermaLink="false">/?p=1829</guid>
+		<description><![CDATA[W pierwszej chwili nie dowierzam własnym oczom. Na pierwszym planie, wzdłuż promenady, królują strzeliste palmy i krzewy obsypane bladoróżowym kwieciem. Z kolei po drugiej stronie jeziora od błękitnego nieba odcinają się ostre, skaliste, a w dodatku ośnieżone alpejskie szczyty. Pierwszy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/nad-jeziorem-maggiore/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

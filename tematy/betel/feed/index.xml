@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>betel &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/betel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Betel. Zamiast gumy do żucia.</title>
+		<link>/betel-zamiast-gumy-do-zucia/</link>
+		<comments>/betel-zamiast-gumy-do-zucia/?#comments</comments>
+		<pubDate>Wed, 05 Jun 2013 17:51:15 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[betel]]></category>
+		<category><![CDATA[używki]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=7360</guid>
+		<description><![CDATA[Pamiętam te zdjęcia, tych ludzi z poczerniałymi zębami, ukazującymi je w szerokim uśmiechu. Widziałam je jeszcze przed przyjazdem do Birmy. Wiem, skąd się bierze ten wygląd jamy ustnej jak – nie przymierzając – u zombie tuż po królewskiej uczcie. Wiem&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/betel-zamiast-gumy-do-zucia/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kos &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/kos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Tu każdy znajdzie coś dla siebie. Pomysły na wakacje na Kos</title>
+		<link>/tu-kazdy-znajdzie-cos-dla-siebie-pomysly-na-wakacje-na-kos/</link>
+		<comments>/tu-kazdy-znajdzie-cos-dla-siebie-pomysly-na-wakacje-na-kos/?#comments</comments>
+		<pubDate>Sun, 24 May 2015 17:05:38 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[gorące źródła]]></category>
+		<category><![CDATA[Kos]]></category>
+		<category><![CDATA[las]]></category>
+		<category><![CDATA[nurkowanie]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[ptaki]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=10645</guid>
+		<description><![CDATA[Kos to stosunkowo niewielka grecka wysepka na Morzu Śródziemnym. Z powierzchnią 290 kilometrów kwadratowych jest mniejsza od całego Poznania! Mimo niewielkich rozmiarów wyspa oferuje sporo różnorodnych atrakcji, dzięki czemu przyciąga turystów ceniących sobie letni wypoczynek w tym miejscu. Spodoba się&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tu-kazdy-znajdzie-cos-dla-siebie-pomysly-na-wakacje-na-kos/feed/</wfw:commentRss>
+		<slash:comments>35</slash:comments>
+		</item>
+		<item>
+		<title>Kto pozostał przy życiu, ten uciekł &#8211; opuszczona wioska Palio Pyli</title>
+		<link>/kto-pozostal-przy-zyciu-ten-uciekl-opuszczona-wioska-palio-pyli/</link>
+		<comments>/kto-pozostal-przy-zyciu-ten-uciekl-opuszczona-wioska-palio-pyli/?#comments</comments>
+		<pubDate>Tue, 30 Dec 2014 14:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[Kos]]></category>
+		<category><![CDATA[opuszczone]]></category>
+		<category><![CDATA[ruiny]]></category>
+
+		<guid isPermaLink="false">/?p=9909</guid>
+		<description><![CDATA[W nocy zmarła sąsiadka. Tego było za wiele dla młodego małżeństwa z trójką dzieci. Długo zwlekali, ale w końcu postanowili zabrać swój niewielki dobytek i uciec z tej przeklętej, choć rodzinnej wsi. Najbardziej bali się o życie swoich pociech. Zaraza&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kto-pozostal-przy-zyciu-ten-uciekl-opuszczona-wioska-palio-pyli/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		</item>
+		<item>
+		<title>Wieczór w termach Embros, gorących źródłach na dziko</title>
+		<link>/wieczor-w-termach-embros-goracych-zrodlach-na-dziko/</link>
+		<comments>/wieczor-w-termach-embros-goracych-zrodlach-na-dziko/?#comments</comments>
+		<pubDate>Wed, 12 Nov 2014 10:24:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[gorące źródła]]></category>
+		<category><![CDATA[Kos]]></category>
+		<category><![CDATA[wyspa]]></category>
+		<category><![CDATA[zachód słońca]]></category>
+
+		<guid isPermaLink="false">/?p=9522</guid>
+		<description><![CDATA[Najprzyjemniej jest tu pod wieczór, tuż przed zachodem słońca. Nie jest już tak gorąco, jak w środku dnia i z ochotą można się zanurzyć w ciepłej wodzie. Intensywny zapach siarki na początku drażni nos, ale szybko można się do niego&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wieczor-w-termach-embros-goracych-zrodlach-na-dziko/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+		</item>
+		<item>
+		<title>Gdzie się podziały pawie pióra?</title>
+		<link>/gdzie-sie-podzialy-pawie-piora/</link>
+		<comments>/gdzie-sie-podzialy-pawie-piora/?#comments</comments>
+		<pubDate>Tue, 09 Sep 2014 19:46:55 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[Kos]]></category>
+		<category><![CDATA[las]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[pawie]]></category>
+		<category><![CDATA[przyroda]]></category>
+		<category><![CDATA[ptaki]]></category>
+
+		<guid isPermaLink="false">/?p=8920</guid>
+		<description><![CDATA[Pawie są przepiękne. Majestatyczne. Królewskie. Wolno przechadzają się pomiędzy drzewami, od czasu do czasu dziobiąc w ziemi. Samice są brązowawe, z zieloną szyją. Samce swoimi intensywnymi barwami bardziej przyciągają wzrok. Mamy tu nie tylko zieleń, ale przede wszystkim chabrowy niebieski.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/gdzie-sie-podzialy-pawie-piora/feed/</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+		</item>
+		<item>
+		<title>Dlaczego wulkan dostał piątkę czyli spacer w oparach siarki</title>
+		<link>/dlaczego-wulkan-dostal-piatke-czyli-spacer-w-oparach-siarki/</link>
+		<comments>/dlaczego-wulkan-dostal-piatke-czyli-spacer-w-oparach-siarki/?#comments</comments>
+		<pubDate>Fri, 15 Aug 2014 19:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[Dodekanez]]></category>
+		<category><![CDATA[Kos]]></category>
+		<category><![CDATA[mitologia]]></category>
+		<category><![CDATA[wulkan]]></category>
+
+		<guid isPermaLink="false">/?p=8482</guid>
+		<description><![CDATA[Wulkan wcale nie budzi grozy. I to pomimo krajobrazu zdominowanego przez żółty kolor osadzającej się na skałach siarki. Pomimo dziur w ziemi, z których wydobywa się bogata w minerały gorąca para wodna. Pomimo zatykającego nos smrodu zgniłych jaj. Nie. Wszystko&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dlaczego-wulkan-dostal-piatke-czyli-spacer-w-oparach-siarki/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+	</channel>
+</rss>

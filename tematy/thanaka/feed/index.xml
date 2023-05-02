@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>thanaka &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/thanaka/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Thanaka &#8211; makijaż w birmańskim stylu</title>
+		<link>/thanaka-makijaz-w-birmanskim-stylu/</link>
+		<comments>/thanaka-makijaz-w-birmanskim-stylu/?#comments</comments>
+		<pubDate>Sat, 14 Jul 2012 10:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[thanaka]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=6620</guid>
+		<description><![CDATA[Starsza kobieta delikatnie rozsmarowuje mi palcem szaro-żółtawą, wilgotną pastę na twarzy. Trochę na czoło, dwa kółka na policzkach. Teraz poczekaj &#8211; mówi. Bardzo ładnie! &#8211; dodaje. Czekam. Cieniutka warstwa pasty powoli wysycha na mojej skórze, lekko ją ściągając. Uczucie jest&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/thanaka-makijaz-w-birmanskim-stylu/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

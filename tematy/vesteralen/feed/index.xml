@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vesteralen &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/vesteralen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Rendez-vous z kaszalotem</title>
+		<link>/rendez-vous-z-kaszalotem/</link>
+		<comments>/rendez-vous-z-kaszalotem/?#comments</comments>
+		<pubDate>Thu, 30 Aug 2018 13:15:15 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Norwegia]]></category>
+		<category><![CDATA[rejs]]></category>
+		<category><![CDATA[safari]]></category>
+		<category><![CDATA[vesteralen]]></category>
+
+		<guid isPermaLink="false">/?p=14856</guid>
+		<description><![CDATA[Glenn urodził się jako jedynak gdzieś w ciepłych tropikalnych wodach oceanicznych, prawdopodobnie w okolicach Azorów, mierząc mniej więcej cztery metry długości. Przez lata beztrosko pływał w pobliżu niej, aż wreszcie, kiedy skończył piętnaście lat, przyszedł czas, by wypłynąć spod matczynych&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/rendez-vous-z-kaszalotem/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+		</item>
+		<item>
+		<title>Wakacje w świetle słońca o północy</title>
+		<link>/wakacje-w-swietle-slonca-o-polnocy/</link>
+		<comments>/wakacje-w-swietle-slonca-o-polnocy/?#comments</comments>
+		<pubDate>Sun, 12 Aug 2018 12:23:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Norwegia]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[vesteralen]]></category>
+
+		<guid isPermaLink="false">/?p=14744</guid>
+		<description><![CDATA[Fale krystalicznie czystej wody delikatnie obmywają moje stopy, gdy spaceruję po mięciutkim, białym piasku wzdłuż półksiężycowatej plaży słuchając krzyku mew krążących po błękitnym niebie. Ciepłe promienie słońca przyjemnie rozgrzewają nagą skórę ramion, a lekka bryza rozwiewa włosy. Przez okulary przeciwsłoneczne&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wakacje-w-swietle-slonca-o-polnocy/feed/</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Norwegii samochodem</title>
+		<link>/garsc-informacji-praktycznych-o-norwegii-samochodem/</link>
+		<comments>/garsc-informacji-praktycznych-o-norwegii-samochodem/?#comments</comments>
+		<pubDate>Fri, 03 Aug 2018 13:29:36 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Norwegia]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[Lofoty]]></category>
+		<category><![CDATA[roadtrip]]></category>
+		<category><![CDATA[vesteralen]]></category>
+
+		<guid isPermaLink="false">/?p=14667</guid>
+		<description><![CDATA[Pomysł wyjazdu samochodem do Norwegii zrodził się zupełnym przypadkiem, kiedy na blogowym fanpage na Facebooku wrzuciłam filmik pokazujący piękno Norwegii. Monika, autorka bloiga Amused Observer skomentowała, że chciałaby pojechać tam samochodem, ma własne auto i tylko brakuje towarzysza. Odpowiedziałam, że&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-norwegii-samochodem/feed/</wfw:commentRss>
+		<slash:comments>70</slash:comments>
+		</item>
+	</channel>
+</rss>

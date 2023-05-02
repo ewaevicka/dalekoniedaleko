@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chorwacja &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/europa/chorwacja/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Dubrownik nigdy się nie znudzi!</title>
+		<link>/dubrownik-nigdy-sie-nie-znudzi/</link>
+		<comments>/dubrownik-nigdy-sie-nie-znudzi/?#comments</comments>
+		<pubDate>Sun, 22 Oct 2017 13:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Chorwacja]]></category>
+		<category><![CDATA[punkt widokowy]]></category>
+		<category><![CDATA[starówka]]></category>
+
+		<guid isPermaLink="false">/?p=14060</guid>
+		<description><![CDATA[Jedyne, co pamiętam z Dubrownika, to strome kamienne schody. Byłam tam piętnaście lat temu, ale wspomnienia wyblakły. Dlatego z radością jadę z Czarnogóry na krótki, jednodniowy wypad do miasta zwanego Perłą Adriatyku. Dubrownik nie rozczarowuje. Mamy zaledwie dwie godziny na&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dubrownik-nigdy-sie-nie-znudzi/feed/</wfw:commentRss>
+		<slash:comments>63</slash:comments>
+		</item>
+		<item>
+		<title>W krainie turkusowych jezior i niezliczonych wodospadów</title>
+		<link>/w-krainie-turkusowych-jezior-i-niezliczonych-wodospadow/</link>
+		<comments>/w-krainie-turkusowych-jezior-i-niezliczonych-wodospadow/?#comments</comments>
+		<pubDate>Thu, 18 May 2017 17:25:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Chorwacja]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[wodospad]]></category>
+
+		<guid isPermaLink="false">/?p=13766</guid>
+		<description><![CDATA[Od dźwięków wody nie sposób uciec. Czasem jest to zwykły, cichy szmer płynącego strumienia, innym razem głośny huk wodospadu. Nawet gdy ścieżka nie prowadzi nad wodą, ten szmer jest stale obecny gdzieś tam w tle, przebija się pośród drzew przy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-krainie-turkusowych-jezior-i-niezliczonych-wodospadow/feed/</wfw:commentRss>
+		<slash:comments>77</slash:comments>
+		</item>
+	</channel>
+</rss>

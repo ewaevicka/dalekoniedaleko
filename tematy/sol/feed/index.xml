@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sól &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/sol/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Białe złoto z Różowego Jeziora</title>
+		<link>/biale-zloto-z-rozowego-jeziora/</link>
+		<comments>/biale-zloto-z-rozowego-jeziora/?#comments</comments>
+		<pubDate>Sun, 19 Nov 2017 10:26:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Senegal]]></category>
+		<category><![CDATA[Dakar]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[sól]]></category>
+
+		<guid isPermaLink="false">/?p=14193</guid>
+		<description><![CDATA[W słonej rdzawoczerwonej wodzie ciało zachowuje się niczym korek. Unoszę się na powierzchni z nogami i rękami do góry, obserwując jak w oddali niewielkie, nieco kanciaste łodzie wypływają na środek jeziora. Małe, czarne sylwetki pracują od świtu. Jedna po drugiej,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/biale-zloto-z-rozowego-jeziora/feed/</wfw:commentRss>
+		<slash:comments>51</slash:comments>
+		</item>
+	</channel>
+</rss>

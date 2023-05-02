@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zona Colonial &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/zona-colonial/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Zona Colonial &#8211; ludzie, duchy i doznania</title>
+		<link>/zona-colonial-ludzie-duchy-i-doznania/</link>
+		<comments>/zona-colonial-ludzie-duchy-i-doznania/?#comments</comments>
+		<pubDate>Wed, 14 Nov 2012 16:18:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[Kolumb]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[Santo Domingo]]></category>
+		<category><![CDATA[Zona Colonial]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=7025</guid>
+		<description><![CDATA[Idąc po Calle de las Damas nie mam wrażenia, że obok mnie przechadzają się duchy historii. A to przecież najstarsza brukowana ulica Ameryki. To tutaj w 1502 r. synowa Krzysztofa Kolumba i jej przyjaciółki wychodziły na przechadzkę. Damy nie mogły&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zona-colonial-ludzie-duchy-i-doznania/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Santo Domingo</title>
+		<link>/santo-domingo/</link>
+		<comments>/santo-domingo/?#comments</comments>
+		<pubDate>Fri, 24 Dec 2010 22:14:25 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[katedra]]></category>
+		<category><![CDATA[Kolumb]]></category>
+		<category><![CDATA[Santo Domingo]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[Zona Colonial]]></category>
+
+		<guid isPermaLink="false">/?p=3000</guid>
+		<description><![CDATA[Po wczorajszym wieczornym spacerze po Zona Colonial nawet mi się to miasto spodobało. Dzisiaj, gdybym jeszcze miała jakiś cień wątpliwości, rozwiałyby się momentalnie. Stara część miasta rządzi. Bardzo przyjemny klimacik, budynki jeszcze z czasów Kolumba, do tego palmy i ciepełko.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/santo-domingo/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+		<item>
+		<title>Feliz Navidad!</title>
+		<link>/feliz-navidad/</link>
+		<comments>/feliz-navidad/?#comments</comments>
+		<pubDate>Fri, 24 Dec 2010 05:57:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[Boże Narodzenie]]></category>
+		<category><![CDATA[Santo Domingo]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[Zona Colonial]]></category>
+
+		<guid isPermaLink="false">/?p=2992</guid>
+		<description><![CDATA[Jesteśmy w Santo Domingo. Drugi rzut oka sprawia, że miasto wydaje się być bardziej przyjazne, niż na samym początku. Wieczorem wychodzimy z Carlosem, miejscowym couchsurferem, na spacer po Zona Colonial. Ta część miasta bardzo ładnie prezentuje się po zmroku, a&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/feliz-navidad/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

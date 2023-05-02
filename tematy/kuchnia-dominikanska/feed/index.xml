@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kuchnia dominikańska &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/kuchnia-dominikanska/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Mleczne słodkości</title>
+		<link>/mleczne-slodkosci/</link>
+		<comments>/mleczne-slodkosci/?#comments</comments>
+		<pubDate>Sat, 05 Mar 2011 23:03:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[kuchnia dominikańska]]></category>
+		<category><![CDATA[kulinaria]]></category>
+		<category><![CDATA[Santo Domingo]]></category>
+		<category><![CDATA[słodkości]]></category>
+
+		<guid isPermaLink="false">/?p=3489</guid>
+		<description><![CDATA[Słodycze na Dominikanie to esencja słodkości. Zazwyczaj robione z mleka z dużą ilością cukru i czasem różnych dodatków. Proste w przygotowaniu i natychmiast zaspokajające potrzebę wszamania czegoś słodkiego. Nie da się ich zjeść zbyt dużo, ale spokojnie można zapakować na&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/mleczne-slodkosci/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Pyszne danie na Dominikanie</title>
+		<link>/pyszne-danie-na-dominikanie/</link>
+		<comments>/pyszne-danie-na-dominikanie/?#comments</comments>
+		<pubDate>Wed, 02 Feb 2011 20:26:38 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[kuchnia dominikańska]]></category>
+		<category><![CDATA[kulinaria]]></category>
+
+		<guid isPermaLink="false">/?p=3243</guid>
+		<description><![CDATA[Kuchnia dominikańska mnie zachwyca! Najprostsze rozwiązania, ciekawe smaki ale nie za ostre, wszędobylskie zielone banany. Weźmy chociażby tradycyjne danie zwane flagą, czyli la bandera. Ryż z sosem fasolowym, duszone mięsko (tradycyjnie koza, ale popularny jest też kurczak) i sałatka z&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pyszne-danie-na-dominikanie/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+		<item>
+		<title>Juan Dolio</title>
+		<link>/juan-dolio/</link>
+		<comments>/juan-dolio/?#comments</comments>
+		<pubDate>Sun, 26 Dec 2010 01:35:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[Boże Narodzenie]]></category>
+		<category><![CDATA[Juan Dolio]]></category>
+		<category><![CDATA[kuchnia dominikańska]]></category>
+		<category><![CDATA[kulinaria]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[Santo Domingo]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=3003</guid>
+		<description><![CDATA[Końcówka podróży po Dominikanie to czas odpoczynku i relaksu. Trochę kraju już zobaczyłyśmy i nawet miejscowi dziwią się, że byłyśmy w tylu miejscach w ciągu niespełna dwóch tygodni. Przyszła ochota trochę wypocząć. Mogłyśmy wracać już do Punta Cana, ale jak&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/juan-dolio/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

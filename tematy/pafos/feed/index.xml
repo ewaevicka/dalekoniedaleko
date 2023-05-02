@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pafos &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/pafos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Mozaiki &#8211; skarb Pafos</title>
+		<link>/mozaiki-skarb-pafos/</link>
+		<comments>/mozaiki-skarb-pafos/?#comments</comments>
+		<pubDate>Fri, 13 Mar 2015 18:10:49 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Cypr]]></category>
+		<category><![CDATA[mozaiki]]></category>
+		<category><![CDATA[Pafos]]></category>
+		<category><![CDATA[ruiny]]></category>
+
+		<guid isPermaLink="false">/?p=10287</guid>
+		<description><![CDATA[Jest 1962 rok na Cyprze. Dzień jak co dzień, nie wyróżniający się niczym szczególnym. Rolnik z Pafos orze kawałek swojego poletka. Robi tak już od lat i nie spodziewa się, że za chwilę dokona zupełnie przypadkiem znaczącego odkrycia archeologicznego! Ale&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/mozaiki-skarb-pafos/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		</item>
+		<item>
+		<title>Pafos poza sezonem</title>
+		<link>/pafos-poza-sezonem/</link>
+		<comments>/pafos-poza-sezonem/?#comments</comments>
+		<pubDate>Fri, 25 Apr 2014 16:47:12 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Cypr]]></category>
+		<category><![CDATA[Kato Pafos]]></category>
+		<category><![CDATA[Pafos]]></category>
+
+		<guid isPermaLink="false">/?p=8087</guid>
+		<description><![CDATA[Nadmorska promenada świeci pustkami. Rzadko spotykamy kogoś innego niż wędkarze co jakiś czas wyciągający z wody mniejsze lub większe ryby. Przyjechali tu najczęściej na skuterkach, przywieźli wędki i plastikowe wiadra. Poza nimi można jeszcze od czasu do czasu zobaczyć nielicznych&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pafos-poza-sezonem/feed/</wfw:commentRss>
+		<slash:comments>27</slash:comments>
+		</item>
+		<item>
+		<title>Na Cyprze rządzą koty!</title>
+		<link>/na-cyprze-rzadza-koty/</link>
+		<comments>/na-cyprze-rzadza-koty/?#comments</comments>
+		<pubDate>Sun, 12 Jan 2014 15:18:29 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Cypr]]></category>
+		<category><![CDATA[Kato Pafos]]></category>
+		<category><![CDATA[Lefkozja]]></category>
+		<category><![CDATA[Nikozja]]></category>
+		<category><![CDATA[Pafos]]></category>
+		<category><![CDATA[zwierzęta]]></category>
+
+		<guid isPermaLink="false">/?p=7666</guid>
+		<description><![CDATA[Ja to tego Cypru wcale nie nazywałabym Wyspą Afrodyty. Nazwałabym go Kocią Wyspą. Kotów ci tutaj dostatek. Ponoć w IV wieku panowała na Cyprze straszliwa susza w czasie której węże namnożyły się niczym króliki, w związku z czym na wyspę&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/na-cyprze-rzadza-koty/feed/</wfw:commentRss>
+		<slash:comments>44</slash:comments>
+		</item>
+	</channel>
+</rss>

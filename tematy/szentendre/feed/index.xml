@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Szentendre &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/szentendre/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Szentendre: w królestwie marcepanu</title>
+		<link>/szentendre-w-krolestwie-marcepanu/</link>
+		<comments>/szentendre-w-krolestwie-marcepanu/?#comments</comments>
+		<pubDate>Wed, 03 Nov 2010 09:47:47 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Węgry]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[słodkości]]></category>
+		<category><![CDATA[Szentendre]]></category>
+
+		<guid isPermaLink="false">/?p=2738</guid>
+		<description><![CDATA[Marcepan to migdały. A jak migdały &#8211; to uwielbiam :) Jedyne na świecie muzeum marcepanu znajduje się w węgierskim miasteczku Szentendre, położonym niedaleko Budapesztu. Region ten znany jest z produkcji migdałów, a dzięki temu w okolicy powstała tradycja wyrabiania tego&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/szentendre-w-krolestwie-marcepanu/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+	</channel>
+</rss>

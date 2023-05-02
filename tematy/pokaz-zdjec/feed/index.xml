@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pokaz zdjęć &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/pokaz-zdjec/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Nieznana Dominikana &#8211; pokaz zdjęć w Warszawie</title>
+		<link>/nieznana-dominikana-pokaz-zdjec-w-warszawie/</link>
+		<comments>/nieznana-dominikana-pokaz-zdjec-w-warszawie/?#comments</comments>
+		<pubDate>Wed, 13 Apr 2011 11:58:16 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[pokaz zdjęć]]></category>
+		<category><![CDATA[slajdowisko]]></category>
+		<category><![CDATA[spotkanie]]></category>
+
+		<guid isPermaLink="false">/?p=4284</guid>
+		<description><![CDATA[Moi mili, mam ogromną przyjemność zaprosić Was na pokaz slajdów z przepięknej Dominikany. Będzie o podróżowaniu guagua, tańczeniu w rytmie merengue, wspinaniu się na El Mogote, spacerach śladami Krzysztofa Kolumba i wspaniałych, przyjaznych Dominikańczykach. Czyli to, czego można doświadczyć po&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/nieznana-dominikana-pokaz-zdjec-w-warszawie/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+		<item>
+		<title>Budda, szmaragd i kokosy &#8211; pokaz zdjęć w Warszawie</title>
+		<link>/budda-szmaragd-i-kokosy/</link>
+		<comments>/budda-szmaragd-i-kokosy/?#comments</comments>
+		<pubDate>Fri, 19 Feb 2010 19:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[pokaz zdjęć]]></category>
+		<category><![CDATA[slajdowisko]]></category>
+		<category><![CDATA[spotkanie]]></category>
+
+		<guid isPermaLink="false">/?p=1389</guid>
+		<description><![CDATA[Jak to mówią, do odważnych świat należy. To był pomysł Agi, żeby zrobić pokaz slajdów z Kambodży i Tajlandii. Pomyślałam &#8211; czemu nie? Paweł i Konrad z Filtry Cafe się zgodzili, ustaliliśmy szczegóły i niniejszym&#8230; Co? Zapraszam serdecznie na pokaz&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/budda-szmaragd-i-kokosy/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

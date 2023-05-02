@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>więzienie &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/wiezienie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Eastern State Penitentiary</title>
+		<link>/eastern-state-penitentiary/</link>
+		<comments>/eastern-state-penitentiary/?#comments</comments>
+		<pubDate>Fri, 27 May 2011 20:16:05 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[USA]]></category>
+		<category><![CDATA[Filadelfia]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[opuszczone]]></category>
+		<category><![CDATA[Pensylwania]]></category>
+		<category><![CDATA[więzienie]]></category>
+
+		<guid isPermaLink="false">/?p=4394</guid>
+		<description><![CDATA[Więzienie &#8211; jedna z rzeczy, które najlepiej zapamiętam z tegorocznej wizyty w Stanach. Historia jest taka. Jedziemy sobie z Atlantic City. Ograniczenie do 65 mph, jadę tylko jakieś 20 mph za szybko (wiem, naganne, nie róbcie tego w domu! Ani&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/eastern-state-penitentiary/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+		<item>
+		<title>Zbrodniczy reżim Czerwonych Khmerów</title>
+		<link>/zbrodniczy-rezim-czerwonych-khmerow/</link>
+		<comments>/zbrodniczy-rezim-czerwonych-khmerow/?#comments</comments>
+		<pubDate>Fri, 06 Nov 2009 13:22:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kambodża]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[Phnom Penh]]></category>
+		<category><![CDATA[Siem Reap]]></category>
+		<category><![CDATA[więzienie]]></category>
+		<category><![CDATA[zbrodnie]]></category>
+
+		<guid isPermaLink="false">/?p=4765</guid>
+		<description><![CDATA[Wizyta w tych miejscach jest smutna, szokująca, pozostawia bez słów. Snując się po kolejnych salach, nie jestem nawet w stanie zmusić się do fotografowania. Nie potrafię ogarnąć umysłem okrucieństwa reżimu Czerwonych Khmerów i ich przywódcy — Pol Pota. Ta komunistyczna&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zbrodniczy-rezim-czerwonych-khmerow/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		</item>
+	</channel>
+</rss>

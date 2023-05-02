@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cenote &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/cenote/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Jak zanurzyłam się w zaświaty</title>
+		<link>/jak-zanurzylam-sie-w-zaswiaty/</link>
+		<comments>/jak-zanurzylam-sie-w-zaswiaty/?#comments</comments>
+		<pubDate>Thu, 15 Mar 2018 19:20:55 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Meksyk]]></category>
+		<category><![CDATA[cenote]]></category>
+		<category><![CDATA[jaskinia]]></category>
+		<category><![CDATA[nurkowanie]]></category>
+
+		<guid isPermaLink="false">/?p=14390</guid>
+		<description><![CDATA[Krystalicznie czysta woda przyjemnie chłodzi rozgrzaną na meksykańskim powietrzu skórę. Powoli zanurzam się pod jej powierzchnię, miarowo oddychając, coraz głębiej w ten spokojny, błękitny świat. Pod sobą widzę ogromne fragmenty zawalonego przed wiekami wapiennego stropu. Nade mną dyndają nogi dwóch&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/jak-zanurzylam-sie-w-zaswiaty/feed/</wfw:commentRss>
+		<slash:comments>64</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Jukatanie</title>
+		<link>/garsc-informacji-praktycznych-o-jukatanie/</link>
+		<comments>/garsc-informacji-praktycznych-o-jukatanie/?#comments</comments>
+		<pubDate>Tue, 06 Mar 2018 18:07:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Meksyk]]></category>
+		<category><![CDATA[cenote]]></category>
+		<category><![CDATA[Chichen Itza]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[Jukatan]]></category>
+		<category><![CDATA[Merida]]></category>
+		<category><![CDATA[Tulum]]></category>
+
+		<guid isPermaLink="false">/?p=14372</guid>
+		<description><![CDATA[Od bardzo dawna Meksyk rozpalał moją wyobraźnię, dlatego co roku aplikowałam do pracy w Cancún. Niestety nie miałam szczęścia, kiedy więc odeszłam z pracy, pierwszym miejscem, do którego postanowiłam się wybrać, był właśnie Meksyk. Wszystko było zupełnie na ostatnią chwilę,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-jukatanie/feed/</wfw:commentRss>
+		<slash:comments>51</slash:comments>
+		</item>
+	</channel>
+</rss>

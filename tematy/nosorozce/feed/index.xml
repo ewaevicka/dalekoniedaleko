@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nosorożce &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/nosorozce/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Na tropie różowych flamingów</title>
+		<link>/na-tropie-rozowych-flamingow/</link>
+		<comments>/na-tropie-rozowych-flamingow/?#comments</comments>
+		<pubDate>Sun, 16 Feb 2014 16:31:59 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[nosorożce]]></category>
+		<category><![CDATA[safari]]></category>
+		<category><![CDATA[zwierzęta]]></category>
+
+		<guid isPermaLink="false">/?p=7718</guid>
+		<description><![CDATA[Różowe, różowiutkie. Fotogeniczne takie. Mam w głowie takie scenki – stado flamingów zrywa się do lotu nad taflą jeziora. I sama chciałabym kiedyś taką fotkę cyknąć. No i w ogóle zobaczyć całe wielkie różowe stado. A gdzie szukać flamingów, jak&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/na-tropie-rozowych-flamingow/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		</item>
+		<item>
+		<title>Spotkanie z wielką piątką Afryki w Masai Mara</title>
+		<link>/spotkanie-z-wielka-piatka-afryki-w-masai-mara/</link>
+		<comments>/spotkanie-z-wielka-piatka-afryki-w-masai-mara/?#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 17:33:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[bawoły]]></category>
+		<category><![CDATA[lamparty]]></category>
+		<category><![CDATA[lwy]]></category>
+		<category><![CDATA[Masai Mara]]></category>
+		<category><![CDATA[nosorożce]]></category>
+		<category><![CDATA[safari]]></category>
+		<category><![CDATA[słonie]]></category>
+		<category><![CDATA[zwierzęta]]></category>
+
+		<guid isPermaLink="false">/?p=7007</guid>
+		<description><![CDATA[Zebry, żyrafy, antylopy, hipopotamy, może uda się też lwa&#8230; &#8211; wymieniam jednym tchem kiedy Duncan, nasz przewodnik i jednocześnie kierowca pyta, jakie zwierzęta chcielibyśmy zobaczyć w rezerwacie Masai Mara. Jest popołudnie, niedawno przylecieliśmy do parku, a mnie już ciągnie na&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/spotkanie-z-wielka-piatka-afryki-w-masai-mara/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+	</channel>
+</rss>

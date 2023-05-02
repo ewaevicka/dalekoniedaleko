@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>taniec &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/taniec/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Tańce kandyjskie</title>
+		<link>/tance-kandyjskie/</link>
+		<comments>/tance-kandyjskie/?#comments</comments>
+		<pubDate>Fri, 03 Dec 2010 07:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[Kandy]]></category>
+		<category><![CDATA[legenda]]></category>
+		<category><![CDATA[przedstawienie]]></category>
+		<category><![CDATA[taniec]]></category>
+		<category><![CDATA[wierzenia]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=2897</guid>
+		<description><![CDATA[Sri Lanka, miasto Kandy. Wchodzę do słabo oświetlonej sali i już od progu czuję się, jakbym przeniosła się piętnaście lat wstecz i znalazła w jakimś małomiasteczkowym domu kultury. Do ręki dostaję świstek szarego papieru, na którym łamaną polszczyzną opisano w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tance-kandyjskie/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Gnawa</title>
+		<link>/gnawa/</link>
+		<comments>/gnawa/?#comments</comments>
+		<pubDate>Wed, 01 Dec 2010 17:49:34 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Maroko]]></category>
+		<category><![CDATA[Gnawa]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[muzyka]]></category>
+		<category><![CDATA[taniec]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=2882</guid>
+		<description><![CDATA[Można ich spotkać w miejscach będących marokańskimi atrakcjami turystycznymi, bo tam &#8211; wykonując swój taniec pełen na pozór nieskoordynowanych ruchów głową i podskoków &#8211; mogą zebrać trochę pieniędzy. Turyści, obserwatorzy zawsze chętnie rzucą parę dirhamów. Kim jednak są Gnawa i&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/gnawa/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

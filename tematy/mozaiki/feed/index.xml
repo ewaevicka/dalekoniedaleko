@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mozaiki &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/mozaiki/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Mozaiki &#8211; skarb Pafos</title>
+		<link>/mozaiki-skarb-pafos/</link>
+		<comments>/mozaiki-skarb-pafos/?#comments</comments>
+		<pubDate>Fri, 13 Mar 2015 18:10:49 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Cypr]]></category>
+		<category><![CDATA[mozaiki]]></category>
+		<category><![CDATA[Pafos]]></category>
+		<category><![CDATA[ruiny]]></category>
+
+		<guid isPermaLink="false">/?p=10287</guid>
+		<description><![CDATA[Jest 1962 rok na Cyprze. Dzień jak co dzień, nie wyróżniający się niczym szczególnym. Rolnik z Pafos orze kawałek swojego poletka. Robi tak już od lat i nie spodziewa się, że za chwilę dokona zupełnie przypadkiem znaczącego odkrycia archeologicznego! Ale&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/mozaiki-skarb-pafos/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		</item>
+		<item>
+		<title>Odkrywając mozaiki Umm ar-Rasas czułam się jak archeolog</title>
+		<link>/odkrywajac-mozaiki-umm-ar-rasas-czulam-sie-jak-archeolog/</link>
+		<comments>/odkrywajac-mozaiki-umm-ar-rasas-czulam-sie-jak-archeolog/?#comments</comments>
+		<pubDate>Wed, 19 Nov 2014 08:18:37 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Jordania]]></category>
+		<category><![CDATA[mozaiki]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[Umm ar-Rasas]]></category>
+
+		<guid isPermaLink="false">/?p=9539</guid>
+		<description><![CDATA[Tak. Wiem, że czasy odkrywców już minęły, a opowieści o Indiana Jonesie można włożyć między bajki. Nic jednak nie poradzę na to, że odgarniając warstwę piachu z kolorowej starożytnej mozaiki czuję się trochę jak ten słynny archeolog. Odkrywca przez wielkie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/odkrywajac-mozaiki-umm-ar-rasas-czulam-sie-jak-archeolog/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+		</item>
+		<item>
+		<title>Volubilis</title>
+		<link>/volubilis/</link>
+		<comments>/volubilis/?#comments</comments>
+		<pubDate>Fri, 07 Jan 2011 11:16:16 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Maroko]]></category>
+		<category><![CDATA[mozaiki]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[Volubilis]]></category>
+
+		<guid isPermaLink="false">/?p=3054</guid>
+		<description><![CDATA[Jest takie miejsce w Maroku niedaleko Meknes, gdzie obejrzeć można rzymskie ruiny. Ale takie naprawdę ruiny, mnóstwo kamieni, nierzadko rozsypanych bez ładu i składu, resztki kolumn czy ścian. I podłogi wykładane ozdobną mozaiką. Połowa tego zarośnięta jest wysoką trawą, w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/volubilis/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

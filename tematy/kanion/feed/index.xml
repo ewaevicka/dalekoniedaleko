@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kanion &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/kanion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Rozgrzane do czerwoności serce Australii</title>
+		<link>/rozgrzane-do-czerwonosci-serce-australii/</link>
+		<comments>/rozgrzane-do-czerwonosci-serce-australii/?#comments</comments>
+		<pubDate>Fri, 04 Jan 2019 10:30:10 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Australia]]></category>
+		<category><![CDATA[kanion]]></category>
+		<category><![CDATA[Outback]]></category>
+		<category><![CDATA[park narodowy]]></category>
+		<category><![CDATA[skały]]></category>
+		<category><![CDATA[wąwóz]]></category>
+
+		<guid isPermaLink="false">/?p=15338</guid>
+		<description><![CDATA[Od kilkudziesięciu minut wpatruję się w monotonny krajobraz, przewijający się przed przednią szyba niczym taśma nudnego filmu przyrodniczego. Rdzawoczerwona ziemia upstrzona jest kępkami ostrej jak brzytwa trawy z rodzaju Triodia, zwanej tu popularnie spinifeksem oraz pojedynczymi karłowatymi eukaliptusami, zaskakująco soczyście&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/rozgrzane-do-czerwonosci-serce-australii/feed/</wfw:commentRss>
+		<slash:comments>72</slash:comments>
+		</item>
+		<item>
+		<title>Terenówką po bezdrożach nad Kanionem Szaryńskim</title>
+		<link>/terenowka-po-bezdrozach-nad-kanionem-szarynskim/</link>
+		<comments>/terenowka-po-bezdrozach-nad-kanionem-szarynskim/?#comments</comments>
+		<pubDate>Fri, 16 Nov 2018 08:38:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kazachstan]]></category>
+		<category><![CDATA[kanion]]></category>
+		<category><![CDATA[offroad]]></category>
+		<category><![CDATA[park narodowy]]></category>
+
+		<guid isPermaLink="false">/?p=15170</guid>
+		<description><![CDATA[Jest płasko. Wszędzie. Gdzie okiem nie sięgnąć, rdzawa, sucha, spalona słońcem ziemia ciągnie się po horyzont. Za plecami, na jego skraju, dostrzec można majaczący w oddali ośnieżony łańcuch górski &#8211; zapewne szczyty są wysokie, ale z tej odległości wydają się&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/terenowka-po-bezdrozach-nad-kanionem-szarynskim/feed/</wfw:commentRss>
+		<slash:comments>37</slash:comments>
+		</item>
+	</channel>
+</rss>

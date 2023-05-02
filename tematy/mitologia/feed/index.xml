@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mitologia &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/mitologia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Dlaczego wulkan dostał piątkę czyli spacer w oparach siarki</title>
+		<link>/dlaczego-wulkan-dostal-piatke-czyli-spacer-w-oparach-siarki/</link>
+		<comments>/dlaczego-wulkan-dostal-piatke-czyli-spacer-w-oparach-siarki/?#comments</comments>
+		<pubDate>Fri, 15 Aug 2014 19:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[Dodekanez]]></category>
+		<category><![CDATA[Kos]]></category>
+		<category><![CDATA[mitologia]]></category>
+		<category><![CDATA[wulkan]]></category>
+
+		<guid isPermaLink="false">/?p=8482</guid>
+		<description><![CDATA[Wulkan wcale nie budzi grozy. I to pomimo krajobrazu zdominowanego przez żółty kolor osadzającej się na skałach siarki. Pomimo dziur w ziemi, z których wydobywa się bogata w minerały gorąca para wodna. Pomimo zatykającego nos smrodu zgniłych jaj. Nie. Wszystko&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dlaczego-wulkan-dostal-piatke-czyli-spacer-w-oparach-siarki/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+		<item>
+		<title>Tam, gdzie narodziła się bogini miłości</title>
+		<link>/tam-gdzie-narodzila-sie-bogini-milosci/</link>
+		<comments>/tam-gdzie-narodzila-sie-bogini-milosci/?#comments</comments>
+		<pubDate>Tue, 01 Jul 2014 07:28:37 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Cypr]]></category>
+		<category><![CDATA[legenda]]></category>
+		<category><![CDATA[mitologia]]></category>
+		<category><![CDATA[Skała Afrodyty]]></category>
+
+		<guid isPermaLink="false">/?p=8186</guid>
+		<description><![CDATA[Wątła musiała być ta Afrodyta po pojawieniu się na świecie i słaba, jeśli powstała z tej piany morskiej u wybrzeży Cypru w pogodny dzień, bo kiedy stoję na plaży w miejscu, gdzie bogini ponoć wyłoniła się z wody, żadnej piany&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tam-gdzie-narodzila-sie-bogini-milosci/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>Tu, gdzie Helios strzegł wejścia do portu</title>
+		<link>/tu-gdzie-helios-strzegl-wejscia-do-portu/</link>
+		<comments>/tu-gdzie-helios-strzegl-wejscia-do-portu/?#comments</comments>
+		<pubDate>Sat, 10 Mar 2012 10:24:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Grecja]]></category>
+		<category><![CDATA[Dodekanez]]></category>
+		<category><![CDATA[mitologia]]></category>
+		<category><![CDATA[port]]></category>
+		<category><![CDATA[Rodos]]></category>
+
+		<guid isPermaLink="false">/?p=6169</guid>
+		<description><![CDATA[Stał samotnie, twarzą zwrócony ku morzu, ręką osłaniając oczy i patrząc w dal. Przypominał wszystkim o chwale i potędze Rodos. Nie pozwalał zapomnieć zwycięstwa nad Demetriuszem Poliokretesem, który na polecenie swego ojca, Antygona Jednookiego próbował podbić miasto sprzymierzone po śmierci&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tu-gdzie-helios-strzegl-wejscia-do-portu/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>La Graciosa &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/la-graciosa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>La Graciosa. Mały raj na ziemi</title>
+		<link>/graciosa-maly-raj-na-ziemi/</link>
+		<comments>/graciosa-maly-raj-na-ziemi/?#comments</comments>
+		<pubDate>Sat, 04 Apr 2015 22:33:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[La Graciosa]]></category>
+		<category><![CDATA[Lanzarote]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[Wyspy Kanaryjskie]]></category>
+
+		<guid isPermaLink="false">/?p=10464</guid>
+		<description><![CDATA[Niewielki katamaran, na wyrost nieco zwany promem, dobija do nabrzeża. Oprócz mnie z pokładu schodzi jeszcze tylko kilka osób: para turystów gdzieś ze Skandynawii, młody chłopak z plecakiem, hiszpańska rodzinka z małym dzieckiem w wózku, dwóch hiszpańskich robotników i samotna&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/graciosa-maly-raj-na-ziemi/feed/</wfw:commentRss>
+		<slash:comments>40</slash:comments>
+		</item>
+		<item>
+		<title>La Graciosa, mniejsza siostra Lanzarote</title>
+		<link>/la-graciosa-mniejsza-siostra-lanzarote/</link>
+		<comments>/la-graciosa-mniejsza-siostra-lanzarote/?#comments</comments>
+		<pubDate>Fri, 09 Jan 2015 15:50:06 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[La Graciosa]]></category>
+		<category><![CDATA[Lanzarote]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[wulkan]]></category>
+		<category><![CDATA[Wyspy Kanaryjskie]]></category>
+
+		<guid isPermaLink="false">/?p=9942</guid>
+		<description><![CDATA[Miasteczko wygląda jak żywcem wyjęte z westernu. Pusta ulica &#8211; jeśli ulicą można nazwać trakt z ubitego, żółtego piachu. Po lewej i prawej stronie rosną pojedyncze kaktusy. Brak żywej duszy. Oczyma wyobraźni widzę dwóch rewolwerowców w kapeluszach i skórzanych kamizelkach&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/la-graciosa-mniejsza-siostra-lanzarote/feed/</wfw:commentRss>
+		<slash:comments>69</slash:comments>
+		</item>
+	</channel>
+</rss>

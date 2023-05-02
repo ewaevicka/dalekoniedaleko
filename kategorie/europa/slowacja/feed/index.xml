@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Słowacja &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/europa/slowacja/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Liny, kładki i drabinki czyli podziemna przygoda</title>
+		<link>/liny-kladki-i-drabinki-czyli-podziemna-przygoda/</link>
+		<comments>/liny-kladki-i-drabinki-czyli-podziemna-przygoda/?#comments</comments>
+		<pubDate>Wed, 06 May 2015 21:02:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowacja]]></category>
+		<category><![CDATA[aktywny wypoczynek]]></category>
+		<category><![CDATA[jaskinia]]></category>
+
+		<guid isPermaLink="false">/?p=10678</guid>
+		<description><![CDATA[Czy to aby nie przesada? &#8211; myślę, wciągając na siebie niebieski kombinezon z grubego i wytrzymałego materiału. Wiem, że Jaskinia Krasnogórska (Krásnohorská jaskyňa), którą mam za chwilę odwiedzić, jest inna od jaskiń, jakie widziałam do tej pory. Są kładki, liny&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/liny-kladki-i-drabinki-czyli-podziemna-przygoda/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+		<item>
+		<title>Kulturalne Koszyce pełne niespodzianek</title>
+		<link>/kulturalne-koszyce-pelne-niespodzianek/</link>
+		<comments>/kulturalne-koszyce-pelne-niespodzianek/?#comments</comments>
+		<pubDate>Sun, 26 Apr 2015 09:42:26 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowacja]]></category>
+		<category><![CDATA[katedra]]></category>
+		<category><![CDATA[Koszyce]]></category>
+		<category><![CDATA[miasto]]></category>
+		<category><![CDATA[starówka]]></category>
+
+		<guid isPermaLink="false">/?p=10531</guid>
+		<description><![CDATA[Powiedziałeś: Koszyce, a ja pomyślałam: huta stali. To było pierwsze skojarzenie, jakie do niedawna jeszcze przychodziło mi do głowy na dźwięk nazwy tego miasta położonego w południowo-wschodniej części Słowacji. To trochę wina władz dawnej Czechosłowacji, która promowała fantastyczną Pragę jako&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kulturalne-koszyce-pelne-niespodzianek/feed/</wfw:commentRss>
+		<slash:comments>56</slash:comments>
+		</item>
+		<item>
+		<title>Aktywny wypoczynek w raju &#8211; w Słowackim Raju</title>
+		<link>/aktywny-wypoczynek-w-raju-w-slowackim-raju/</link>
+		<comments>/aktywny-wypoczynek-w-raju-w-slowackim-raju/?#comments</comments>
+		<pubDate>Sat, 18 Apr 2015 08:52:23 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowacja]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[ochrona przyrody]]></category>
+		<category><![CDATA[park narodowy]]></category>
+		<category><![CDATA[przyroda]]></category>
+		<category><![CDATA[Słowacki Raj]]></category>
+		<category><![CDATA[wąwóz]]></category>
+
+		<guid isPermaLink="false">/?p=10485</guid>
+		<description><![CDATA[Połowa polany pokryta jest śniegiem. Druga połowa – zaschniętą, sprasowaną zeszłoroczną trawą, spomiędzy której wyrastają małe, fioletowe kwiatki. Setki krokusów. Gdzieś w tle ciemnozielone świerki. Na błękitnym niebie kilka puchatych obłoczków, po lewej drewniane stoliki zapraszające zmęczonych wędrowców do odpoczynku.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/aktywny-wypoczynek-w-raju-w-slowackim-raju/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>adrenalina &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/adrenalina/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Jak północ Czarnogóry skradła moje serce</title>
+		<link>/jak-polnoc-czarnogory-skradla-moje-serce/</link>
+		<comments>/jak-polnoc-czarnogory-skradla-moje-serce/?#comments</comments>
+		<pubDate>Sun, 06 Aug 2017 19:19:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Czarnogóra]]></category>
+		<category><![CDATA[adrenalina]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[most]]></category>
+		<category><![CDATA[rzeka]]></category>
+
+		<guid isPermaLink="false">/?p=13918</guid>
+		<description><![CDATA[Trochę dziwnie się czuję ze swoją ekscytacją w momencie, kiedy obsługa sprawnie i profesjonalnie przygotowuje mnie do przejazdu tyrolką w poprzek najgłębszego kanionu Europy. Pyk, pyk &#8211; zamykają się kolejne zatrzaski. Siadam w uprzęży podwieszonej na grubej linie i&#8230; jadę!&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/jak-polnoc-czarnogory-skradla-moje-serce/feed/</wfw:commentRss>
+		<slash:comments>73</slash:comments>
+		</item>
+	</channel>
+</rss>

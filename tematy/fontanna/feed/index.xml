@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fontanna &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/fontanna/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Manneken i Jeanneke</title>
+		<link>/manneken-i-jeanneke/</link>
+		<comments>/manneken-i-jeanneke/?#comments</comments>
+		<pubDate>Sat, 25 Jun 2011 18:27:06 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Belgia]]></category>
+		<category><![CDATA[Bruksela]]></category>
+		<category><![CDATA[fontanna]]></category>
+		<category><![CDATA[legenda]]></category>
+		<category><![CDATA[pamiątki]]></category>
+		<category><![CDATA[pomnik]]></category>
+
+		<guid isPermaLink="false">/?p=4514</guid>
+		<description><![CDATA[Kto by pomyślał, że jednym z symboli europejskiego miasta będzie mały chłopczyk załatwiający publicznie swoją potrzebę fizjologiczną? W dodatku najczęściej nago. Z rurką doprowadzającą wodę wetkniętą w pupę&#8230; Taki ekshibicjonizm! A tłumy turystów odwiedzających Brukselę przychodzą na róg Rue de&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/manneken-i-jeanneke/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Majdan Niepodległości</title>
+		<link>/majdan-niepodleglosci/</link>
+		<comments>/majdan-niepodleglosci/?#comments</comments>
+		<pubDate>Sat, 19 Feb 2011 13:32:32 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Ukraina]]></category>
+		<category><![CDATA[fontanna]]></category>
+		<category><![CDATA[Kijów]]></category>
+		<category><![CDATA[plac]]></category>
+		<category><![CDATA[pomnik]]></category>
+
+		<guid isPermaLink="false">/?p=3355</guid>
+		<description><![CDATA[Pamiętacie Pomarańczową Rewolucję i telewizyjne relacje z kijowskiego Majdanu Niepodległości &#8211; placu, na którym Ukraińcy zbierali się, by wyrazić swoje zdanie? Majdan wygląda zupełnie inaczej, niż go sobie wyobrażałam widząc tamte migawki. Zanim go zobaczyłam, myślałam, że jest to wielki,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/majdan-niepodleglosci/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

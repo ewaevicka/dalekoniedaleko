@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fuerteventura &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/fuerteventura/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Złociste piaski Corralejo &#8211; raj dla miłośników plażowania</title>
+		<link>/zlociste-piaski-corralejo-raj-dla-milosnikow-plazowania/</link>
+		<comments>/zlociste-piaski-corralejo-raj-dla-milosnikow-plazowania/?#comments</comments>
+		<pubDate>Tue, 09 Dec 2014 15:46:05 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Fuerteventura]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[Wyspy Kanaryjskie]]></category>
+
+		<guid isPermaLink="false">/?p=9734</guid>
+		<description><![CDATA[Wyobraźcie sobie piaskownicę o powierzchni 2600 hektarów. Takie coś istnieje na Fuerteventurze, a dokładniej na jej północnym koniuszku. To rezerwat naturalny Corralejo znajdujący się jakieś 5 kilometrów od miasteczka o tej samej nazwie. Miejsce warte odwiedzenia, szczególnie przez miłośników plażowania.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zlociste-piaski-corralejo-raj-dla-milosnikow-plazowania/feed/</wfw:commentRss>
+		<slash:comments>40</slash:comments>
+		</item>
+	</channel>
+</rss>

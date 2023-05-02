@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>guagua &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/guagua/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Guagua i spółka</title>
+		<link>/guagua-i-spolka/</link>
+		<comments>/guagua-i-spolka/?#comments</comments>
+		<pubDate>Tue, 12 Apr 2011 21:35:41 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[guagua]]></category>
+		<category><![CDATA[transport]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=4261</guid>
+		<description><![CDATA[Bzdura! &#8211; skomentował Carlos kiedy wspomniałam mu o innym Dominikańczyku, który parę dni wcześniej mocno się zdziwił, że nie boimy się podróżować z Klarą po kraju lokalnymi środkami transportu i uraczył nas wiadomością, że jesteśmy szalone, bo przecież Dominikana ma&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/guagua-i-spolka/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+		<item>
+		<title>Z Las Terrenas do Cabarete</title>
+		<link>/z-las-terrenas-do-cabarete/</link>
+		<comments>/z-las-terrenas-do-cabarete/?#comments</comments>
+		<pubDate>Mon, 20 Dec 2010 11:41:38 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[Cabarete]]></category>
+		<category><![CDATA[guagua]]></category>
+		<category><![CDATA[Las Terrenas]]></category>
+		<category><![CDATA[owoce]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=2975</guid>
+		<description><![CDATA[Po dzisiejszym dniu zdecydowanie mogę powiedzieć, że jeśli chodzi o lokalny transport dominikański, to najważniejsze atrakcje mam już za sobą. Do tego okraszone kulinarnymi doznaniami. Wiecie, gdzie pomarańcze smakują najlepiej. Pewnie się domyślacie, że w Dominikanie. A konkretniej? Na przyczepce&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/z-las-terrenas-do-cabarete/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Guagua do Las Terrenas</title>
+		<link>/guagua-do-las-terrenas/</link>
+		<comments>/guagua-do-las-terrenas/?#comments</comments>
+		<pubDate>Fri, 17 Dec 2010 02:37:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[El Cortecito]]></category>
+		<category><![CDATA[guagua]]></category>
+		<category><![CDATA[Las Terrenas]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[Punta Cana]]></category>
+		<category><![CDATA[Samaná]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=2958</guid>
+		<description><![CDATA[Pierwsza przygoda z guagua już za mną. I to na całego. Guagua to popularny środek transportu na Dominikanie. Minibusik taki. Jak to zwykle bywa, wchodzi do niego ze dwa razy więcej ludzi, niż podpowiada wyobraźnia czy przewiduje producent pojazdu. Plus&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/guagua-do-las-terrenas/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

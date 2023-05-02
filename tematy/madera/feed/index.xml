@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Madera &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/madera/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Zona Velha &#8211; spacer po starówce Funchal</title>
+		<link>/zona-velha-spacer-po-starowce-funchal/</link>
+		<comments>/zona-velha-spacer-po-starowce-funchal/?#comments</comments>
+		<pubDate>Sat, 17 Jun 2017 16:47:46 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Madera]]></category>
+		<category><![CDATA[starówka]]></category>
+
+		<guid isPermaLink="false">/?p=13832</guid>
+		<description><![CDATA[Stoiska pełne są kolorowych, apetycznie i kusząco wyglądających owoców, poukładanych w koszach lub na tacach w niewysokie kupki, piętrzące się jedna obok drugiej. Na każdej takiej kupce lub obok stoi etykietka, opisująca dany owoc. Przyglądam się uważnie, bo tylu egzotycznych,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zona-velha-spacer-po-starowce-funchal/feed/</wfw:commentRss>
+		<slash:comments>41</slash:comments>
+		</item>
+		<item>
+		<title>Wędrówka na koniuszek Madery</title>
+		<link>/wedrowka-na-koniuszek-madery/</link>
+		<comments>/wedrowka-na-koniuszek-madery/?#comments</comments>
+		<pubDate>Mon, 17 Apr 2017 13:50:33 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[aktywny wypoczynek]]></category>
+		<category><![CDATA[Madera]]></category>
+		<category><![CDATA[przylądek]]></category>
+
+		<guid isPermaLink="false">/?p=13490</guid>
+		<description><![CDATA[Niepewnie spoglądam na niebo, po którym płyną szare chmury. Ich warstwa nie jest zbyt gruba, więc mam nadzieję, że w połowie drogi nie złapie nas deszcz. Mimo to kurtka przeciwdeszczowa zwinięta czeka w plecaku na wszelki wypadek. Po cichu marzę,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wedrowka-na-koniuszek-madery/feed/</wfw:commentRss>
+		<slash:comments>62</slash:comments>
+		</item>
+		<item>
+		<title>Prowadziła nas woda, szumiał nam las</title>
+		<link>/prowadzila-nas-woda-szumial-nam-las/</link>
+		<comments>/prowadzila-nas-woda-szumial-nam-las/?#comments</comments>
+		<pubDate>Sat, 18 Mar 2017 20:26:04 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[aktywny wypoczynek]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[Madera]]></category>
+		<category><![CDATA[wodospad]]></category>
+		<category><![CDATA[źródło]]></category>
+
+		<guid isPermaLink="false">/?p=13234</guid>
+		<description><![CDATA[Chłodne, przyjemnie orzeźwiające powietrze pachnie wilgocią. Przystaję na chwilę, by wziąć głęboki oddech, wraz z którym do moich nozdrzy dobiega intensywny zapach mokrego lasu. Zaciągam się nim, próbując zachować go jak najdłużej. W uszach cały czas dźwięczy mi śpiew ptaków,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/prowadzila-nas-woda-szumial-nam-las/feed/</wfw:commentRss>
+		<slash:comments>51</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Maderze</title>
+		<link>/garsc-informacji-praktycznych-o-maderze/</link>
+		<comments>/garsc-informacji-praktycznych-o-maderze/?#comments</comments>
+		<pubDate>Wed, 08 Mar 2017 16:52:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[Madera]]></category>
+
+		<guid isPermaLink="false">/?p=13188</guid>
+		<description><![CDATA[Tydzień na Wyspie Wiecznej Wiosny, jak określa się Maderę, to stanowczo za mało, by dobrze poznać najważniejsze jej zakątki &#8211; to wiem na pewno. Koncentracja pięknych miejsc, szlaków i atrakcji turystycznych na skrawku lądu o powierzchni niecałych ośmiuset kilometrów kwadratowych&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-maderze/feed/</wfw:commentRss>
+		<slash:comments>69</slash:comments>
+		</item>
+	</channel>
+</rss>

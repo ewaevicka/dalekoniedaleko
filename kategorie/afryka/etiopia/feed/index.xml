@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Etiopia &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/afryka/etiopia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Czarne, płynne złoto Etiopii</title>
+		<link>/czarne-plynne-zloto-etiopii/</link>
+		<comments>/czarne-plynne-zloto-etiopii/?#comments</comments>
+		<pubDate>Thu, 09 Aug 2018 06:52:30 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Etiopia]]></category>
+		<category><![CDATA[kawa]]></category>
+		<category><![CDATA[napoje]]></category>
+		<category><![CDATA[używki]]></category>
+
+		<guid isPermaLink="false">/?p=14720</guid>
+		<description><![CDATA[Ceremonia zaczyna się od przepłukania zielonych ziarenek chłodną wodą. Następnie gospodyni przesypuje je do niewielkiego, płaskiego rondelka albo na okrągły kawałek blachy przypominający patelnię bez rączki, które umieszcza nad paleniskiem, gdzie żarzą się już małe węgielki. Jedną ręką co jakiś&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/czarne-plynne-zloto-etiopii/feed/</wfw:commentRss>
+		<slash:comments>56</slash:comments>
+		</item>
+		<item>
+		<title>Lalibela &#8211; kościoły, które w skale wykuwały anioły</title>
+		<link>/lalibela-koscioly-ktore-w-skale-wykuwaly-anioly/</link>
+		<comments>/lalibela-koscioly-ktore-w-skale-wykuwaly-anioly/?#comments</comments>
+		<pubDate>Wed, 25 Apr 2018 16:59:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Etiopia]]></category>
+		<category><![CDATA[kościół]]></category>
+		<category><![CDATA[religia]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=14547</guid>
+		<description><![CDATA[Gdy dziecko przyszło na świat, otoczył je rój pszczół, co matka uznała za znak, że w przyszłości zostanie on władcą kraju. Chłopiec nie miał jednak łatwego życia, gdyż tron formalnie przypadał jego starszemu bratu, Kedusowi Habre. Ten, w obawie o&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/lalibela-koscioly-ktore-w-skale-wykuwaly-anioly/feed/</wfw:commentRss>
+		<slash:comments>42</slash:comments>
+		</item>
+	</channel>
+</rss>

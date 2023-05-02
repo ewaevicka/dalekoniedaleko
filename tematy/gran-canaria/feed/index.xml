@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gran Canaria &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/gran-canaria/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Gran Canaria pokazuje erozji środkowy palec</title>
+		<link>/gran-canaria-pokazuje-erozji-srodkowy-palec/</link>
+		<comments>/gran-canaria-pokazuje-erozji-srodkowy-palec/?#comments</comments>
+		<pubDate>Thu, 05 Apr 2018 18:09:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[Gran Canaria]]></category>
+		<category><![CDATA[Wyspy Kanaryjskie]]></category>
+
+		<guid isPermaLink="false">/?p=14514</guid>
+		<description><![CDATA[Siedząc u podnóża bazaltowego monolitu i przyglądając się majaczącemu w oddali wierzchołkowi wulkanu będącego najwyższym szczytem Hiszpanii, wystawiam twarz do południowego słońca. Totalnie zrelaksowana, opieram plecy o nagą skałę i sięgam po butelkę wody. Chociaż nieopodal ktoś robi sobie zdjęcie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/gran-canaria-pokazuje-erozji-srodkowy-palec/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+		</item>
+	</channel>
+</rss>

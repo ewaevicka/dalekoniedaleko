@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jarabacoa &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/jarabacoa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Cmentarze w bieli</title>
+		<link>/cmentarze-w-bieli/</link>
+		<comments>/cmentarze-w-bieli/?#comments</comments>
+		<pubDate>Mon, 31 Oct 2011 17:32:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[cmentarz]]></category>
+		<category><![CDATA[Jarabacoa]]></category>
+		<category><![CDATA[Las Terrenas]]></category>
+
+		<guid isPermaLink="false">/?p=5199</guid>
+		<description><![CDATA[Przyznaje się, że nie przepadam za naszymi współczesnymi cmentarzami. Są dla mnie dość przygnębiające, z przyciężkimi, ciemnymi, marmurowymi lub marmuropodobnymi nagrobkami. Nie lubię po nich chodzić. Dlatego idąc ulicą w centrum Las Terrenas nie załapuję od razu, że przechodzę obok&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cmentarze-w-bieli/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Dach nad głową: Dominikana</title>
+		<link>/dach-nad-glowa-dominikana/</link>
+		<comments>/dach-nad-glowa-dominikana/?#comments</comments>
+		<pubDate>Mon, 03 Jan 2011 01:09:32 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[El Cortecito]]></category>
+		<category><![CDATA[hotel]]></category>
+		<category><![CDATA[Jarabacoa]]></category>
+		<category><![CDATA[Las Terrenas]]></category>
+		<category><![CDATA[nocleg]]></category>
+		<category><![CDATA[Punta Cana]]></category>
+		<category><![CDATA[Santo Domingo]]></category>
+
+		<guid isPermaLink="false">/?p=3032</guid>
+		<description><![CDATA[Podróżując po Dominikanie śpię zarówno w hotelach, jak i u couchsurferów. Bo nie zawsze da się wyszukać posiadacza kanapy, który akurat może i chce poświęcić swój czas dla podróżników. Znalezienie pokoju na początku sezonu turystycznego nie stanowi problemu, ale bądźcie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dach-nad-glowa-dominikana/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+		<item>
+		<title>Salto de Jimenoa Dos</title>
+		<link>/salto-de-jimenoa-dos/</link>
+		<comments>/salto-de-jimenoa-dos/?#comments</comments>
+		<pubDate>Thu, 23 Dec 2010 22:52:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[Jarabacoa]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[przyroda]]></category>
+		<category><![CDATA[Santo Domingo]]></category>
+		<category><![CDATA[wodospad]]></category>
+
+		<guid isPermaLink="false">/?p=2989</guid>
+		<description><![CDATA[Salto de Jimenoa Dos jest jednym z trzech wodospadów w okolicach Jarabacoa. Przy Jimenoa Uno kręcono sceny z Jurassic Park, ale wyprawę tam sobie odpuszczamy, bo nie ma czasu. Trzeci z wodospadów, Salto de Baguate, jest najmniej interesujący, wybór pada&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/salto-de-jimenoa-dos/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>El Mogote</title>
+		<link>/el-mogote/</link>
+		<comments>/el-mogote/?#comments</comments>
+		<pubDate>Wed, 22 Dec 2010 23:09:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[El Mogote]]></category>
+		<category><![CDATA[góry]]></category>
+		<category><![CDATA[Jarabacoa]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[przyroda]]></category>
+
+		<guid isPermaLink="false">/?p=2986</guid>
+		<description><![CDATA[El Mogote prawie zdobyte. Prawie w tym przypadku to i tak dobrze, bo wszyscy patrzyli na nas dziwnie, kiedy mówiłyśmy, że chcemy się tam wspiąć. Po wejściu na prawie sam szczyt wiem z jakiego powodu. Droga nie jest łatwa, błoto,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/el-mogote/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Przystanek La Vega</title>
+		<link>/przystanek-la-vega/</link>
+		<comments>/przystanek-la-vega/?#comments</comments>
+		<pubDate>Wed, 22 Dec 2010 00:39:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[dworzec]]></category>
+		<category><![CDATA[Jarabacoa]]></category>
+		<category><![CDATA[La Vega]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=2984</guid>
+		<description><![CDATA[Znowu w drodze. I to cały dzień. Tym razem nie składa się nam tak idealnie, jak podczas przejazdu do Las Terrenas. Jako główny środek transportu wybieramy dzisiaj autobus. No i nie trafiamy idealnie w odjazdy. Na tyle, że trzy godziny&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/przystanek-la-vega/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>La Vega &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/la-vega/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Przystanek La Vega</title>
+		<link>/przystanek-la-vega/</link>
+		<comments>/przystanek-la-vega/?#comments</comments>
+		<pubDate>Wed, 22 Dec 2010 00:39:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[dworzec]]></category>
+		<category><![CDATA[Jarabacoa]]></category>
+		<category><![CDATA[La Vega]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=2984</guid>
+		<description><![CDATA[Znowu w drodze. I to cały dzień. Tym razem nie składa się nam tak idealnie, jak podczas przejazdu do Las Terrenas. Jako główny środek transportu wybieramy dzisiaj autobus. No i nie trafiamy idealnie w odjazdy. Na tyle, że trzy godziny&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/przystanek-la-vega/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

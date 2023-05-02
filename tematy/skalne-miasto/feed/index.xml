@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>skalne miasto &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/skalne-miasto/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Czy skalne miasto Upliscyche rozczarowuje?</title>
+		<link>/czy-skalne-miasto-upliscyche-rozczarowuje/</link>
+		<comments>/czy-skalne-miasto-upliscyche-rozczarowuje/?#comments</comments>
+		<pubDate>Thu, 23 Apr 2015 08:14:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Gruzja]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[skalne miasto]]></category>
+		<category><![CDATA[Upliscyche]]></category>
+
+		<guid isPermaLink="false">/?p=10511</guid>
+		<description><![CDATA[Tak naprawdę to chciałam jechać do Wardzi – fantastycznego miasta wykutego w skale. Ale względy czasowo-logistyczne nie pozwalają, trzeba więc szukać alternatyw. Już w czasie przygotowań przewija mi się tu i tam nazwa Upliscyche, a najlepiej pamiętam opinię, że to&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/czy-skalne-miasto-upliscyche-rozczarowuje/feed/</wfw:commentRss>
+		<slash:comments>35</slash:comments>
+		</item>
+		<item>
+		<title>Skarby Petry &#8211; miasta wykutego w skałach</title>
+		<link>/skarby-petry-miasta-wykutego-w-skalach/</link>
+		<comments>/skarby-petry-miasta-wykutego-w-skalach/?#comments</comments>
+		<pubDate>Fri, 28 Feb 2014 07:46:39 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Jordania]]></category>
+		<category><![CDATA[grobowiec]]></category>
+		<category><![CDATA[klasztor]]></category>
+		<category><![CDATA[Petra]]></category>
+		<category><![CDATA[skalne miasto]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=7911</guid>
+		<description><![CDATA[Wiem, czego mogę się spodziewać. Teoretycznie. Widziałam przecież chyba z milion zdjęć z Petry. Jestem świadoma, że na końcu długiego wąwozu wyłoni się wykuta w skałach budowla zwana Skarbcem. Przygotuj się na zaskoczenie &#8211; mówi mi spotkana na początku szlaku&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/skarby-petry-miasta-wykutego-w-skalach/feed/</wfw:commentRss>
+		<slash:comments>27</slash:comments>
+		</item>
+	</channel>
+</rss>

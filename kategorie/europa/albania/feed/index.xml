@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Albania &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/europa/albania/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Rozafa miała pecha, czyli jakie są skutki uczciwości</title>
+		<link>/rozafa-miala-pecha-czyli-jakie-sa-skutki-uczciwosci/</link>
+		<comments>/rozafa-miala-pecha-czyli-jakie-sa-skutki-uczciwosci/?#comments</comments>
+		<pubDate>Sun, 20 Aug 2017 11:34:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Albania]]></category>
+		<category><![CDATA[miasto]]></category>
+		<category><![CDATA[zamek]]></category>
+
+		<guid isPermaLink="false">/?p=13946</guid>
+		<description><![CDATA[Trzej bracia obudzili się wraz z nastaniem świtu. Po raz kolejny ich oczom ukazała się kupa kamieni. Znali ten widok doskonale, zastali go wczoraj, przedwczoraj, dzień wcześniej i jeszcze wcześniej. Nie pomagały zmiany sposobu konstrukcji, spoiwa, ciosanie kamieni &#8211; każdego&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/rozafa-miala-pecha-czyli-jakie-sa-skutki-uczciwosci/feed/</wfw:commentRss>
+		<slash:comments>64</slash:comments>
+		</item>
+		<item>
+		<title>Bo ja po prostu lubię Sarandę</title>
+		<link>/bo-ja-po-prostu-lubie-sarande/</link>
+		<comments>/bo-ja-po-prostu-lubie-sarande/?#comments</comments>
+		<pubDate>Sun, 15 Nov 2015 15:07:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Albania]]></category>
+		<category><![CDATA[kurort]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[Saranda]]></category>
+
+		<guid isPermaLink="false">/?p=11322</guid>
+		<description><![CDATA[Czterdziestu. Tylu męczenników zginęło w okolicach Sebasty w ówczesnej Armenii. Byli oni żołnierzami rzymskiego legionu, którzy w 320 roku nie chcieli wyrzec się wiary chrześcijańskiej, za co zostali najpierw ukamienowani, potem bez odzienia wystawieni na mróz a na końcu ich&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/bo-ja-po-prostu-lubie-sarande/feed/</wfw:commentRss>
+		<slash:comments>44</slash:comments>
+		</item>
+		<item>
+		<title>Błękitne Oko, które hipnotyzuje</title>
+		<link>/blekitne-oko-ktore-hipnotyzuje/</link>
+		<comments>/blekitne-oko-ktore-hipnotyzuje/?#comments</comments>
+		<pubDate>Sat, 19 Sep 2015 16:25:09 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Albania]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[rzeka]]></category>
+		<category><![CDATA[źródło]]></category>
+
+		<guid isPermaLink="false">/?p=11199</guid>
+		<description><![CDATA[Stojąc na przeżartej rdzą platformie sprawiającej wrażenie, jakby miała za moment runąć, i wpatrując się w krystalicznie czystą wodę wypływającą z głębokiego źródła w towarzystwie maleńkich bąbelków w ogóle nie zauważam upływu czasu. Z transu wyrywa mnie dopiero głośny plusk,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/blekitne-oko-ktore-hipnotyzuje/feed/</wfw:commentRss>
+		<slash:comments>106</slash:comments>
+		</item>
+		<item>
+		<title>Butrint. Spacer przez historię</title>
+		<link>/butrint-spacer-przez-historie/</link>
+		<comments>/butrint-spacer-przez-historie/?#comments</comments>
+		<pubDate>Sun, 21 Jun 2015 12:07:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Albania]]></category>
+		<category><![CDATA[ruiny]]></category>
+
+		<guid isPermaLink="false">/?p=10926</guid>
+		<description><![CDATA[Mały żółw leniwie wystawia głowę nad powierzchnię brunatnej wody by po chwili zanurkować ponownie. Nie zwraca zupełnie uwagi na grupkę ludzi, którzy przystanęli nad niewielką sadzawką w miejscu, gdzie wiele wieków temu mieścił się gimnazjon. Nazwy tej nie trzeba kojarzyć&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/butrint-spacer-przez-historie/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+	</channel>
+</rss>

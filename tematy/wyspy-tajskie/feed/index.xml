@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wyspy tajskie &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/wyspy-tajskie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Skąd się biorą gumki?</title>
+		<link>/skad-sie-biora-gumki/</link>
+		<comments>/skad-sie-biora-gumki/?#comments</comments>
+		<pubDate>Tue, 15 Dec 2009 21:12:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[plantacja]]></category>
+		<category><![CDATA[wyspy tajskie]]></category>
+
+		<guid isPermaLink="false">/?p=794</guid>
+		<description><![CDATA[Siedzimy w busie z Hat Yai do Pak Bara, obserwując widoki za szybą. Głównie skalisty krajobraz pokryty bujną roślinnością, a od czasu do czasu jakiś równiutko rosnący las, niezbyt gęsty, ze smukłymi drzewami i soczyście zieloną koroną. To plantacje kauczukowców.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/skad-sie-biora-gumki/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Rajskie wyspy tajskie</title>
+		<link>/rajskie-wyspy-tajskie/</link>
+		<comments>/rajskie-wyspy-tajskie/?#comments</comments>
+		<pubDate>Sat, 12 Dec 2009 19:26:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[wyspy tajskie]]></category>
+
+		<guid isPermaLink="false">/?p=773</guid>
+		<description><![CDATA[W Tajlandii znajdują się setki wysp. W czasie mojej podróży po tym kraju odwiedzam tylko kilka z nich, ale w każdej z nich zakochuję się od pierwszego wejrzenia. Kilka oglądam z daleka. To zaledwie ułamek całego piękna tego wyspowego raju,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/rajskie-wyspy-tajskie/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+		</item>
+		<item>
+		<title>Ko Muk &#8211; perły i szmaragdy</title>
+		<link>/ko-muk/</link>
+		<comments>/ko-muk/?#comments</comments>
+		<pubDate>Fri, 13 Nov 2009 14:08:46 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[jaskinia]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[wyspy tajskie]]></category>
+
+		<guid isPermaLink="false">/?p=656</guid>
+		<description><![CDATA[Mam wrażenie, że Tajlandia składa się z samych rajskich wysepek. Ko Muk różni się od Ko Lipe tym, że zbudowana jest z bardziej strzelistych skał, które porastają gęste drzewa i krzewy. Taki soczyście zielony kożuszek. Zresztą już w czasie półtoragodzinnego&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/ko-muk/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Ko Lipe &#8211; pierwszy raz w raju</title>
+		<link>/ko-lipe/</link>
+		<comments>/ko-lipe/?#comments</comments>
+		<pubDate>Wed, 11 Nov 2009 15:30:39 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[wyspy tajskie]]></category>
+
+		<guid isPermaLink="false">/?p=4524</guid>
+		<description><![CDATA[Łódź nie podpływa do samego brzegu, tylko wysadza nas na podeście na środku morza. Tam już czekają miejscowe tradycyjne długie łódki z silnikiem ruea hang yao, zwane popularnie long-tail boats. Za pięćdziesiąt bahtów jedna z nich zabiera nas na plażę&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/ko-lipe/feed/</wfw:commentRss>
+		<slash:comments>49</slash:comments>
+		</item>
+	</channel>
+</rss>

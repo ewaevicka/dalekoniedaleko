@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>batik &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/batik/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Batik &#8211; woskiem malowane</title>
+		<link>/batik-woskiem-malowane/</link>
+		<comments>/batik-woskiem-malowane/?#comments</comments>
+		<pubDate>Wed, 14 Sep 2011 08:34:55 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[batik]]></category>
+		<category><![CDATA[pamiątki]]></category>
+		<category><![CDATA[rękodzieło]]></category>
+
+		<guid isPermaLink="false">/?p=4912</guid>
+		<description><![CDATA[Kto pierwszy wpadł na pomysł, by na kawałku materiału namalować woskiem najprzeróżniejsze wzory, zanurzyć go w farbie a potem wyprać w gorącej wodzie, żeby pozbyć się wosku i otrzymać w ten sposób ciekawe zdobienie? Może był to przypadek, bo komuś&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/batik-woskiem-malowane/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

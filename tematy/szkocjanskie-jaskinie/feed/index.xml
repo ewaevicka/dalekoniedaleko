@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Szkocjańskie jaskinie &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/szkocjanskie-jaskinie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Ku słoweńskiemu wybrzeżu, czyli dzień w wakacyjnym nastroju</title>
+		<link>/ku-slowenskiemu-wybrzezu-czyli-dzien-w-wakacyjnym-nastroju/</link>
+		<comments>/ku-slowenskiemu-wybrzezu-czyli-dzien-w-wakacyjnym-nastroju/?#comments</comments>
+		<pubDate>Sat, 24 Jun 2017 15:44:19 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowenia]]></category>
+		<category><![CDATA[predjama]]></category>
+		<category><![CDATA[punkt widokowy]]></category>
+		<category><![CDATA[starówka]]></category>
+		<category><![CDATA[Szkocjańskie jaskinie]]></category>
+
+		<guid isPermaLink="false">/?p=13851</guid>
+		<description><![CDATA[Żar leje się z nieba, choć to dopiero początek maja. Temperatura jest wyraźnie wyższa, niż w Lublanie. Dlatego spacer po Piranie rozpoczynamy od porcji przepysznych, włoskich lodów. Lodziarnia znajduje się przy porcie, zaraz obok Rynku Tartiniego &#8211; głównego placu miasta.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/ku-slowenskiemu-wybrzezu-czyli-dzien-w-wakacyjnym-nastroju/feed/</wfw:commentRss>
+		<slash:comments>50</slash:comments>
+		</item>
+		<item>
+		<title>Co kryje się pod słoweńską ziemią?</title>
+		<link>/co-kryje-sie-pod-slowenska-ziemia/</link>
+		<comments>/co-kryje-sie-pod-slowenska-ziemia/?#comments</comments>
+		<pubDate>Mon, 15 May 2017 16:40:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowenia]]></category>
+		<category><![CDATA[jaskinia]]></category>
+		<category><![CDATA[Szkocjańskie jaskinie]]></category>
+
+		<guid isPermaLink="false">/?p=13728</guid>
+		<description><![CDATA[Płaskowyż Kras. Pod tą nazwą znany jest region rozciągający się w zachodniej części Słowenii, aż po Włochy. To od niej pochodzi używane w geologii określenie kras, definiowane jako proces rozpuszczania skał przez wodę. Tą samą nazwą określa się też formy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/co-kryje-sie-pod-slowenska-ziemia/feed/</wfw:commentRss>
+		<slash:comments>49</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Słowenii</title>
+		<link>/garsc-informacji-praktycznych-o-slowenii/</link>
+		<comments>/garsc-informacji-praktycznych-o-slowenii/?#comments</comments>
+		<pubDate>Fri, 12 May 2017 17:53:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Słowenia]]></category>
+		<category><![CDATA[Bled]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[jaskinia Postojna]]></category>
+		<category><![CDATA[Lublana]]></category>
+		<category><![CDATA[Szkocjańskie jaskinie]]></category>
+
+		<guid isPermaLink="false">/?p=13691</guid>
+		<description><![CDATA[Słowenia wyszła przypadkiem. Kiedy zastanawiałam się, co robić w czasie majówki, moja przyjaciółka Evi powiedziała mi, że jedzie do Słowenii. Pomyślałam, że czemu nie, przecież tam jeszcze nie byłam. Jednak ponieważ nie był to ani mój pomysł, ani kraj, o&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-slowenii/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+	</channel>
+</rss>

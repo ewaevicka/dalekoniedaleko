@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tramwaj &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/tramwaj/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Tramwaj zwany podążaniem</title>
+		<link>/tramwaj-zwany-podazaniem/</link>
+		<comments>/tramwaj-zwany-podazaniem/?#respond</comments>
+		<pubDate>Tue, 16 Mar 2010 12:29:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Lizbona]]></category>
+		<category><![CDATA[tramwaj]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=1612</guid>
+		<description><![CDATA[Kiedy tak patrzę na te lizbońskie tramwaje (pomijając tutaj nowoczesne piętnastki kursujące do Algés) to zawsze, ale to zawsze zastanawiam się jak one jeżdżą? W jaki sposób one trzymają się stromych dróg żelaznych na tych swoich malutkich kółkach ustawionych tak&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tramwaj-zwany-podazaniem/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pocztówka z Lizbony</title>
+		<link>/pocztowka-z-lizbony/</link>
+		<comments>/pocztowka-z-lizbony/?#comments</comments>
+		<pubDate>Tue, 29 Dec 2009 01:40:43 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Boże Narodzenie]]></category>
+		<category><![CDATA[Lizbona]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[tramwaj]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=887</guid>
+		<description><![CDATA[Lizbona. Znowu jestem w moim ukochanym mieście. Tym razem jako gość. W 2006 r. tu mieszkałam. Ale przez te trzy lata Lizbona prawie się nie zmieniła. Ciągle pachnie świeżym, słonym i mokrym powietrzem znad Atlantyku i grillowanymi sardynkami. Ciągle pozwala&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pocztowka-z-lizbony/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Białoruś &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/europa/bialorus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Ładniejsza strona Mińska</title>
+		<link>/ladniejsza-strona-minska/</link>
+		<comments>/ladniejsza-strona-minska/?#comments</comments>
+		<pubDate>Sat, 02 Dec 2017 13:01:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Białoruś]]></category>
+		<category><![CDATA[Mińsk]]></category>
+		<category><![CDATA[starówka]]></category>
+
+		<guid isPermaLink="false">/?p=14239</guid>
+		<description><![CDATA[Szukam starówki. To z reguły najbardziej malownicza część miasta, gdzie można odpocząć od zgiełku, nacieszyć oczy urokliwą architekturą, pobłądzić po wąskich uliczkach. Jednakże Mińsk prawdziwego starego miasta nie posiada. Niszczony wielokrotnie, ucierpiał także w czasie drugiej wojny światowej. Wtedy odbudowano&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/ladniejsza-strona-minska/feed/</wfw:commentRss>
+		<slash:comments>44</slash:comments>
+		</item>
+		<item>
+		<title>Mińsk &#8211; zaprojektowany, by imponować</title>
+		<link>/minsk-zaprojektowany-by-imponowac/</link>
+		<comments>/minsk-zaprojektowany-by-imponowac/?#comments</comments>
+		<pubDate>Tue, 25 Apr 2017 17:34:29 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Białoruś]]></category>
+		<category><![CDATA[architektura]]></category>
+		<category><![CDATA[metro]]></category>
+		<category><![CDATA[Mińsk]]></category>
+
+		<guid isPermaLink="false">/?p=13642</guid>
+		<description><![CDATA[Mówi się, że gdy odbudowywano niemal doszczętnie zniszczony po wojnie Mińsk, zaplanowano go tak, by wywoływał podziw, pokazując potęgę państwa i aparatu władzy, jednocześnie podkreślając słabość i nieistotność jednostki. Coś jednak poszło nie tak, albo to ze mną jest coś&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/minsk-zaprojektowany-by-imponowac/feed/</wfw:commentRss>
+		<slash:comments>49</slash:comments>
+		</item>
+		<item>
+		<title>Czarna Dama, skarb i ogromny tunel &#8211; tajemnice zamków w Nieświeżu i Mirze</title>
+		<link>/czarna-dama-skarb-i-ogromny-tunel-tajemnice-zamkow-w-nieswiezu-i-mirze/</link>
+		<comments>/czarna-dama-skarb-i-ogromny-tunel-tajemnice-zamkow-w-nieswiezu-i-mirze/?#comments</comments>
+		<pubDate>Fri, 14 Apr 2017 15:32:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Białoruś]]></category>
+		<category><![CDATA[legenda]]></category>
+		<category><![CDATA[zamek]]></category>
+
+		<guid isPermaLink="false">/?p=13429</guid>
+		<description><![CDATA[Czarna Dama przechadza się ciemnymi nocami po alejkach przyzamkowego parku, opustoszałych korytarzach i zamkniętych komnatach. Mówi się, że to zbłąkana dusza Barbary Radziwiłłówny, żony króla Zygmunta II Augusta, ponoć otrutej przez nieakceptującą mezaliansu syna Bonę Sforzę, choć według badań zmarła&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/czarna-dama-skarb-i-ogromny-tunel-tajemnice-zamkow-w-nieswiezu-i-mirze/feed/</wfw:commentRss>
+		<slash:comments>31</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Mińsku</title>
+		<link>/garsc-informacji-praktycznych-o-minsku/</link>
+		<comments>/garsc-informacji-praktycznych-o-minsku/?#comments</comments>
+		<pubDate>Tue, 04 Apr 2017 15:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Białoruś]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[Mińsk]]></category>
+
+		<guid isPermaLink="false">/?p=13354</guid>
+		<description><![CDATA[Tego dnia, którego dowiedziałam się, że Łukaszenko ogłosił dekret znoszący obowiązek posiadania wizy osobom, które na Białoruś przyjadą na nie więcej niż pięć dni, od razu kupiłam bilety do Mińska. W księgarniach nie znalazłam porządnego przewodnika po samym Mińsku, takiego&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-minsku/feed/</wfw:commentRss>
+		<slash:comments>61</slash:comments>
+		</item>
+	</channel>
+</rss>

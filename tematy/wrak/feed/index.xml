@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wrak &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/wrak/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Cedar Pride. Mój pierwszy raz we wraku statku</title>
+		<link>/cedar-pride-moj-pierwszy-raz-we-wraku-statku/</link>
+		<comments>/cedar-pride-moj-pierwszy-raz-we-wraku-statku/?#comments</comments>
+		<pubDate>Thu, 13 Mar 2014 23:32:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Jordania]]></category>
+		<category><![CDATA[Cedar Pride]]></category>
+		<category><![CDATA[nurkowanie]]></category>
+		<category><![CDATA[pod wodą]]></category>
+		<category><![CDATA[wrak]]></category>
+
+		<guid isPermaLink="false">/?p=7994</guid>
+		<description><![CDATA[Ktoś stwierdził niedawno, że nie mamy już szans być odkrywcami, bo tak naprawdę na świecie prawie wszystko już zostało odkryte, znalezione, opisane, odwiedzone. Człowiek był już prawie wszędzie. Jeśli jedziesz gdzieś jako turysta to możesz być pewien, że ktoś przed&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cedar-pride-moj-pierwszy-raz-we-wraku-statku/feed/</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+		</item>
+		<item>
+		<title>Edro III &#8211; statek, który rozbił się o skały Cypru</title>
+		<link>/edro-iii-statek-ktory-rozbil-sie-o-skaly-cypru/</link>
+		<comments>/edro-iii-statek-ktory-rozbil-sie-o-skaly-cypru/?#comments</comments>
+		<pubDate>Wed, 19 Feb 2014 06:46:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Cypr]]></category>
+		<category><![CDATA[opuszczone]]></category>
+		<category><![CDATA[wrak]]></category>
+
+		<guid isPermaLink="false">/?p=7847</guid>
+		<description><![CDATA[Dostrzegam go pierwszy raz, kiedy zjeżdżamy jakąś serpentynką ze wzniesienia na półwyspie Akamas ku wybrzeżu. Pewnie wcale bym go nie zauważyła, bo przecież prowadzę i muszę się jako tako koncentrować na drodze i tym, co dzieje się wokół mnie, a&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/edro-iii-statek-ktory-rozbil-sie-o-skaly-cypru/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+		</item>
+	</channel>
+</rss>

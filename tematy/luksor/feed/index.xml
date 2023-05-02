@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Luksor &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/luksor/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Luksor. Tam, gdzie można dotknąć historii</title>
+		<link>/luksot-tam-gdzie-mozna-dotknac-historii/</link>
+		<comments>/luksot-tam-gdzie-mozna-dotknac-historii/?#comments</comments>
+		<pubDate>Tue, 01 Jun 2010 16:09:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Egipt]]></category>
+		<category><![CDATA[grobowiec]]></category>
+		<category><![CDATA[Luksor]]></category>
+		<category><![CDATA[starożytność]]></category>
+
+		<guid isPermaLink="false">/?p=6996</guid>
+		<description><![CDATA[Chcąc zobaczyć hieroglify z bliska, najlepiej wybrać się do Luksoru. W Kairze, w Muzeum Egipskim, jest wprawdzie wystawionych mnóstwo eksponatów pokrytych hieroglifami, ale dopiero tutaj wyglądają one jak żywe. Nie w muzeum, lecz chociażby w grobowcach królów i królowych, gdzie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/luksot-tam-gdzie-mozna-dotknac-historii/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Przechadzka po gruzach Karnaku</title>
+		<link>/przechadzka-po-gruzach-karnaku/</link>
+		<comments>/przechadzka-po-gruzach-karnaku/?#comments</comments>
+		<pubDate>Mon, 31 May 2010 16:06:54 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Egipt]]></category>
+		<category><![CDATA[Luksor]]></category>
+		<category><![CDATA[starożytność]]></category>
+
+		<guid isPermaLink="false">/?p=4860</guid>
+		<description><![CDATA[Jadąc dzisiaj taksówką do Karnaku, Rafał próbuje się dowiedzieć od taksówkarza, jaka jest temperatura. Kierowca niewiele rozumie, ale potakuje, że gorąco. Oj, co do tego nie ma wątpliwości. W Luksorze upał, w Karnaku jeszcze goręcej, jakbyśmy trafili do piekarnika. Cień&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/przechadzka-po-gruzach-karnaku/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		</item>
+	</channel>
+</rss>

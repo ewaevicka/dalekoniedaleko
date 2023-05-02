@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wietnam &#8211; Daleko niedaleko</title>
+	<atom:link href="/kategorie/azja/wietnam/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>W świetle tysięcy lampionów, wśród omszałych ruin</title>
+		<link>/w-swietle-tysiecy-lampionow-wsrod-omszalych-ruin/</link>
+		<comments>/w-swietle-tysiecy-lampionow-wsrod-omszalych-ruin/?#comments</comments>
+		<pubDate>Mon, 25 Feb 2019 19:54:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polecane]]></category>
+		<category><![CDATA[Wietnam]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[starówka]]></category>
+
+		<guid isPermaLink="false">/?p=15513</guid>
+		<description><![CDATA[Zmrok zapada tutaj błyskawicznie. W jednej chwili słońce chowa się za horyzontem, w następnej niebo jest już ciemnogranatowe. Ten króciutki moment, gdy nie widać już światła słonecznego, ale nad miastem nie rozpostarła się jeszcze czarna noc, jest najpiękniejszy. Niebo ma&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-swietle-tysiecy-lampionow-wsrod-omszalych-ruin/feed/</wfw:commentRss>
+		<slash:comments>39</slash:comments>
+		</item>
+	</channel>
+</rss>

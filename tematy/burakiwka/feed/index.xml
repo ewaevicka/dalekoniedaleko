@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Burakiwka &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/burakiwka/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Cmentarzysko z promieniowaniem w tle</title>
+		<link>/cmentarzysko-z-promieniowaniem-w-tle/</link>
+		<comments>/cmentarzysko-z-promieniowaniem-w-tle/?#comments</comments>
+		<pubDate>Mon, 13 Feb 2012 15:07:10 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Ukraina]]></category>
+		<category><![CDATA[Burakiwka]]></category>
+		<category><![CDATA[cmentarzysko]]></category>
+		<category><![CDATA[Czarnobyl]]></category>
+		<category><![CDATA[opuszczone]]></category>
+		<category><![CDATA[strefa zamknięta]]></category>
+		<category><![CDATA[złomowisko]]></category>
+
+		<guid isPermaLink="false">/?p=5990</guid>
+		<description><![CDATA[Gdyby nie te zardzewiałe znaczki ostrzegające przed radioaktywnością, można by pomyśleć, że za plecami mamy zwykłe, pofałdowane pole, a przed sobą – standardowe złomowisko. A jednak w Burakiwce możemy spędzić nie więcej, niż kilka minut, a towarzyszący nam strażnik bardziej&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cmentarzysko-z-promieniowaniem-w-tle/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Czarnobyl &#8211; wyprawa do strefy zamkniętej</title>
+		<link>/czarnobyl-wyprawa-do-strefy-zamknietej/</link>
+		<comments>/czarnobyl-wyprawa-do-strefy-zamknietej/?#comments</comments>
+		<pubDate>Mon, 03 Oct 2011 15:35:28 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Ukraina]]></category>
+		<category><![CDATA[Burakiwka]]></category>
+		<category><![CDATA[Czarnobyl]]></category>
+		<category><![CDATA[opuszczone]]></category>
+		<category><![CDATA[pomnik]]></category>
+		<category><![CDATA[Prypeć]]></category>
+		<category><![CDATA[strefa zamknięta]]></category>
+		<category><![CDATA[strefa zero]]></category>
+
+		<guid isPermaLink="false">/?p=4970</guid>
+		<description><![CDATA[Reaktor w bloku nr 4 elektrowni atomowej w Czarnobylu (dokładna nazwa elektrowni to Czarnobylska Elektrownia Jądrowa im. W.I. Lenina &#8211; Чорнобильська Атомна Електростанція, ЧАЕС) wybuchł niecałe 26 lat temu, 26 kwietnia 1986 r. Dzisiaj obszar wokół elektrowni jest strefą zamkniętą,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/czarnobyl-wyprawa-do-strefy-zamknietej/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+	</channel>
+</rss>

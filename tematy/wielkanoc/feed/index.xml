@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wielkanoc &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/wielkanoc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Procesja Krwi w Semana Santa</title>
+		<link>/procesja-krwi-w-semana-santa/</link>
+		<comments>/procesja-krwi-w-semana-santa/?#comments</comments>
+		<pubDate>Fri, 06 Apr 2012 15:16:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Baleary]]></category>
+		<category><![CDATA[chrześcijaństwo]]></category>
+		<category><![CDATA[Majorka]]></category>
+		<category><![CDATA[Palma de Mallorca]]></category>
+		<category><![CDATA[procesja]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[Wielkanoc]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=6257</guid>
+		<description><![CDATA[Niedziela Wielkanocna i poprzedzający ją Wielki Tydzień (Semana Santa) to chyba najważniejsze święto w Hiszpanii, a zatem też na Majorce. Przez cały tydzień, od Niedzieli Palmowej aż do Wielkiego Piątku odbywają się mniejsze lub większe procesje. W Wielki Czwartek (Dijous&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/procesja-krwi-w-semana-santa/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+		</item>
+		<item>
+		<title>Linksmų Velykų!</title>
+		<link>/linksmu-velyku/</link>
+		<comments>/linksmu-velyku/?#comments</comments>
+		<pubDate>Fri, 22 Apr 2011 14:35:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Litwa]]></category>
+		<category><![CDATA[pomnik]]></category>
+		<category><![CDATA[święto]]></category>
+		<category><![CDATA[Wielkanoc]]></category>
+		<category><![CDATA[Wilno]]></category>
+
+		<guid isPermaLink="false">/?p=4318</guid>
+		<description><![CDATA[W tym roku spędzam Wielkanoc nieco mniej tradycyjnie, bo w Wilnie. Docieramy tu dzisiaj rankiem i od razu ruszamy na mały rekonesans po mieście. Niedaleko naszego hostelu stoi sobie taki oto ciekawy pomnik pisanki &#8211; margutis. Zdobienie jaj to na&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/linksmu-velyku/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

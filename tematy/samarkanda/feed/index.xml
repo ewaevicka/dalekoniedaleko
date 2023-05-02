@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Samarkanda &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/samarkanda/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Garść informacji praktycznych o Uzbekistanie</title>
+		<link>/garsc-informacji-praktycznych-o-uzbekistanie/</link>
+		<comments>/garsc-informacji-praktycznych-o-uzbekistanie/?#comments</comments>
+		<pubDate>Wed, 07 Nov 2018 11:15:18 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Uzbekistan]]></category>
+		<category><![CDATA[Buchara]]></category>
+		<category><![CDATA[Chiwa]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[Samarkanda]]></category>
+
+		<guid isPermaLink="false">/?p=15146</guid>
+		<description><![CDATA[Położony w Azji Centralnej Uzbekistan rozkwitł dzięki przechodzącemu w dawnych czasach przez te terytoria Jedwabnemu Szlakowi. Dzisiaj wspomnieniem po tamtych czasach są olśniewające zabytki, meczety, medresy, pałace i mauzolea w trzech głównych miastach historycznych kraju &#8211; Samarkandzie, Bucharze i Chiwie.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-uzbekistanie/feed/</wfw:commentRss>
+		<slash:comments>70</slash:comments>
+		</item>
+	</channel>
+</rss>

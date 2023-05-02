@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>snorkeling na Islandii &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/snorkeling-na-islandii/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Pływając w lodowatej wodzie między kontynentami</title>
+		<link>/plywajac-w-lodowatej-wodzie-miedzy-kontynentami/</link>
+		<comments>/plywajac-w-lodowatej-wodzie-miedzy-kontynentami/?#comments</comments>
+		<pubDate>Thu, 21 May 2015 09:05:32 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Islandia]]></category>
+		<category><![CDATA[pod wodą]]></category>
+		<category><![CDATA[Silfra]]></category>
+		<category><![CDATA[snorkeling]]></category>
+		<category><![CDATA[snorkeling na Islandii]]></category>
+		<category><![CDATA[Thingvellir]]></category>
+
+		<guid isPermaLink="false">/?p=10790</guid>
+		<description><![CDATA[W suchym skafandrze czuję się jak kosmonauta, szykujący się do podboju innych planet, a nie jak człowiek, który za chwilę ma dać nura do lodowatej wody. W głowie kołaczą się dwie myśli: po co ja się tam pcham? na przemian&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/plywajac-w-lodowatej-wodzie-miedzy-kontynentami/feed/</wfw:commentRss>
+		<slash:comments>68</slash:comments>
+		</item>
+		<item>
+		<title>Garść informacji praktycznych o Islandii</title>
+		<link>/garsc-informacji-praktycznych-o-islandii/</link>
+		<comments>/garsc-informacji-praktycznych-o-islandii/?#comments</comments>
+		<pubDate>Thu, 14 May 2015 07:01:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Islandia]]></category>
+		<category><![CDATA[Blue Lagoon]]></category>
+		<category><![CDATA[Golden Circle]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[Jokulsarlon]]></category>
+		<category><![CDATA[puffin watching]]></category>
+		<category><![CDATA[snorkeling na Islandii]]></category>
+		<category><![CDATA[transport]]></category>
+
+		<guid isPermaLink="false">/?p=10725</guid>
+		<description><![CDATA[Drogo, zimno, bezpiecznie i przepięknie – te określenia przychodzą mi do głowy, kiedy wspominam podróż na Islandię. Naprawdę nie jest to tani kraj, ale tak cudowny, że nie żałuję ani złotówki wydanej na ten wyjazd. Do pogody mamy szczęście, gdyż&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-islandii/feed/</wfw:commentRss>
+		<slash:comments>64</slash:comments>
+		</item>
+	</channel>
+</rss>

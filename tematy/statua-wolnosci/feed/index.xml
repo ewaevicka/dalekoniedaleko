@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Statua Wolności &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/statua-wolnosci/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Na głowie Statuy Wolności</title>
+		<link>/na-glowie-statuy-wolnosci/</link>
+		<comments>/na-glowie-statuy-wolnosci/?#comments</comments>
+		<pubDate>Fri, 13 May 2011 13:57:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[USA]]></category>
+		<category><![CDATA[Nowy Jork]]></category>
+		<category><![CDATA[pomnik]]></category>
+		<category><![CDATA[Statua Wolności]]></category>
+
+		<guid isPermaLink="false">/?p=4379</guid>
+		<description><![CDATA[Wejście na Statuę Wolności jest proste i trudne jednocześnie. Trudne, bo bilety trzeba rezerwować ze sporym wyprzedzeniem &#8211; w tej chwili dostępne są na sierpień &#8211; jedynie 240 osób dziennie może wejść na górę. Łatwe, bo wbrew pozorom pokonanie 354&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/na-glowie-statuy-wolnosci/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Wolność Oświecająca Świat</title>
+		<link>/wolnosc-oswiecajaca-swiat/</link>
+		<comments>/wolnosc-oswiecajaca-swiat/?#comments</comments>
+		<pubDate>Thu, 09 Dec 2010 14:04:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[USA]]></category>
+		<category><![CDATA[Nowy Jork]]></category>
+		<category><![CDATA[pomnik]]></category>
+		<category><![CDATA[Statua Wolności]]></category>
+
+		<guid isPermaLink="false">/?p=2930</guid>
+		<description><![CDATA[Statua Wolności, zwana też właśnie Wolnością Oświecającą Świat, to jeden z symboli Nowego Jorku. Po 11 września 2001 r. zamknięto ją dla zwiedzających, ale dziś można się już dostać na górę, choć nie jest to łatwe &#8211; dziennie może tam&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wolnosc-oswiecajaca-swiat/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

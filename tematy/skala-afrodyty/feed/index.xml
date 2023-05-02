@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Skała Afrodyty &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/skala-afrodyty/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Tam, gdzie narodziła się bogini miłości</title>
+		<link>/tam-gdzie-narodzila-sie-bogini-milosci/</link>
+		<comments>/tam-gdzie-narodzila-sie-bogini-milosci/?#comments</comments>
+		<pubDate>Tue, 01 Jul 2014 07:28:37 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Cypr]]></category>
+		<category><![CDATA[legenda]]></category>
+		<category><![CDATA[mitologia]]></category>
+		<category><![CDATA[Skała Afrodyty]]></category>
+
+		<guid isPermaLink="false">/?p=8186</guid>
+		<description><![CDATA[Wątła musiała być ta Afrodyta po pojawieniu się na świecie i słaba, jeśli powstała z tej piany morskiej u wybrzeży Cypru w pogodny dzień, bo kiedy stoję na plaży w miejscu, gdzie bogini ponoć wyłoniła się z wody, żadnej piany&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tam-gdzie-narodzila-sie-bogini-milosci/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+	</channel>
+</rss>

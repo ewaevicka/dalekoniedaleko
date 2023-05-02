@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>stupa &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/stupa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>U stóp starożytnych stup o skomplikowanych nazwach</title>
+		<link>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/</link>
+		<comments>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/?#comments</comments>
+		<pubDate>Wed, 29 Aug 2012 10:07:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[Anuradhapura]]></category>
+		<category><![CDATA[buddyzm]]></category>
+		<category><![CDATA[religia]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[stupa]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=6785</guid>
+		<description><![CDATA[Anuradhapura. Zapamiętanie tej nazwy zajmuje mi dobre kilka godzin. A to przecież jedno z najczęściej powtarzanych słów tamtego dnia. Tak nazywała się jedna z dawnych wspaniałych stolic Sri Lanki. Dzisiaj – ogromny obszar pełen zabytkowych świątyń, stup (zwanych tutaj dagobami),&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/u-stop-starozytnych-stup-o-skomplikowanych-nazwach/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Turystyczny Bagan i lokalne Salay</title>
+		<link>/turystyczny-bagan-i-lokalne-salay/</link>
+		<comments>/turystyczny-bagan-i-lokalne-salay/?#comments</comments>
+		<pubDate>Sun, 20 Nov 2011 11:27:10 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Bagan]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[Salay]]></category>
+		<category><![CDATA[stupa]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=5428</guid>
+		<description><![CDATA[Pięknie tu jest. Naprawdę. Bagan można spokojnie porównać do Khajuraho (chociaż tutaj świątyń jest duuużo więcej) czy nawet Angkoru (chociaż o ile w Angkorze mogłabym chodzić od świątyni do świątyni, to tu bardziej imponują mi widoki z góry). To jednocześnie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/turystyczny-bagan-i-lokalne-salay/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Sarnath &#8211; tam nauczał Budda</title>
+		<link>/sarnath-tam-nauczal-budda/</link>
+		<comments>/sarnath-tam-nauczal-budda/?#comments</comments>
+		<pubDate>Tue, 18 Oct 2011 09:39:41 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Indie]]></category>
+		<category><![CDATA[buddyzm]]></category>
+		<category><![CDATA[Sarnath]]></category>
+		<category><![CDATA[stupa]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=5021</guid>
+		<description><![CDATA[Późne popołudnie, a żar leje się z nieba. Nieco osłabiona po porannych problemach zdrowotnych (towarzyszący nam na wycieczce lekarze stwierdzają, że dopadł mnie lekki udar słoneczny) nie mam ochoty wychodzić z klimatyzowanego autobusu, ani tym bardziej nastroju do zwiedzania. Podjeżdżamy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/sarnath-tam-nauczal-budda/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

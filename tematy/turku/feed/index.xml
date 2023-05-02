@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Turku &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/turku/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Średniowieczne Turku</title>
+		<link>/sredniowieczne-turku/</link>
+		<comments>/sredniowieczne-turku/?#comments</comments>
+		<pubDate>Mon, 07 Mar 2011 17:29:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Finlandia]]></category>
+		<category><![CDATA[katedra]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[skansen]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[Turku]]></category>
+		<category><![CDATA[zamek]]></category>
+
+		<guid isPermaLink="false">/?p=3592</guid>
+		<description><![CDATA[Jak rozpoznać średniowieczne miasto? W przybliżeniu: leży nad rzeką, ma zamek, katedrę i rynek. Jedynym takim miastem w Finlandii jest Turku, którego szwedzka nazwa brzmi Åbo. To przyjemne fińskie miasteczko leżące jakieś 170 kilometrów na zachód od Helsinek u ujścia&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/sredniowieczne-turku/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Dolina Muminków</title>
+		<link>/dolina-muminkow/</link>
+		<comments>/dolina-muminkow/?#comments</comments>
+		<pubDate>Tue, 09 Nov 2010 09:20:18 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Finlandia]]></category>
+		<category><![CDATA[bajka]]></category>
+		<category><![CDATA[Naantali]]></category>
+		<category><![CDATA[park rozrywki]]></category>
+		<category><![CDATA[Turku]]></category>
+
+		<guid isPermaLink="false">/?p=2730</guid>
+		<description><![CDATA[Muminki się cieszą radością i życiem, Muminki! I tym, że im chmurki bieleją o świcie, Muminki! Ręka górę, kto lubił te małe, białe, okrągłe, przypominające wyglądem hipopotamy, sympatyczne stworzonka. Dla mnie to była jedna z ulubionych bajek późniejszego dzieciństwa. Dlatego&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dolina-muminkow/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

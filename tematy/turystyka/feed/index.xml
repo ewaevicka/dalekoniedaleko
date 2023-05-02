@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>turystyka &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/turystyka/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Podróżuj świadomie i odpowiedzialnie&#8230; także z biurem podróży!</title>
+		<link>/podrozuj-swiadomie-i-odpowiedzialnie-takze-z-biurem-podrozy/</link>
+		<comments>/podrozuj-swiadomie-i-odpowiedzialnie-takze-z-biurem-podrozy/?#comments</comments>
+		<pubDate>Mon, 22 Feb 2016 09:45:16 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[odpowiedzialna turystyka]]></category>
+		<category><![CDATA[pamiątki]]></category>
+		<category><![CDATA[turystyka]]></category>
+
+		<guid isPermaLink="false">/?p=11685</guid>
+		<description><![CDATA[Biura podróży niesamowicie ułatwiają podróżowanie, szczególnie tym, którzy nie chcą, nie mają czasu czy ochoty sami planować swoich wyjazdów. Lubię jeździć na własną rękę, ale zdarza mi się też czasem wykupić gotową ofertę. W takim przypadku moim obowiązkiem jest zapłacić,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/podrozuj-swiadomie-i-odpowiedzialnie-takze-z-biurem-podrozy/feed/</wfw:commentRss>
+		<slash:comments>66</slash:comments>
+		</item>
+		<item>
+		<title>Długopis, cukierek, one dollar. Gdy ktoś wyciąga dłoń w geście prośby&#8230;</title>
+		<link>/dlugopis-cukierek-one-dollar-gdy-ktos-wyciaga-dlon-w-gescie-prosby/</link>
+		<comments>/dlugopis-cukierek-one-dollar-gdy-ktos-wyciaga-dlon-w-gescie-prosby/?#comments</comments>
+		<pubDate>Thu, 05 Feb 2015 15:10:02 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Z innej beczki]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[odpowiedzialna turystyka]]></category>
+		<category><![CDATA[osobiste]]></category>
+		<category><![CDATA[turystyka]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=10165</guid>
+		<description><![CDATA[Kiedyś myślałam, że jadąc do biedniejszych krajów warto brać ze sobą długopisy, cukierki, stare ubrania, by rozdawać je na miejscu osobom potrzebującym. By mieć choć drobne prezenty dla napotkanych na szlaku dzieciaków. Dziś mam coraz większe wątpliwości, czy nawet takie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dlugopis-cukierek-one-dollar-gdy-ktos-wyciaga-dlon-w-gescie-prosby/feed/</wfw:commentRss>
+		<slash:comments>124</slash:comments>
+		</item>
+	</channel>
+</rss>

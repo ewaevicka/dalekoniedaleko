@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Silves &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/silves/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Silves – dawna stolica Algarve</title>
+		<link>/silves-dawna-stolica-algarve/</link>
+		<comments>/silves-dawna-stolica-algarve/?#comments</comments>
+		<pubDate>Wed, 04 Aug 2010 21:02:26 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Algarve]]></category>
+		<category><![CDATA[bazar]]></category>
+		<category><![CDATA[Serra de Monchique]]></category>
+		<category><![CDATA[Silves]]></category>
+		<category><![CDATA[targ]]></category>
+		<category><![CDATA[zamek]]></category>
+
+		<guid isPermaLink="false">/?p=2318</guid>
+		<description><![CDATA[Dawno, dawno temu, za siedmioma górami, za siedmioma lasami i za siedmioma rzekami&#8230; Ech, inaczej. Dawno, dawno temu, na zboczu pasma górskiego Serra de Monchique, nieopodal rzeki, która obecnie nosi nazwę Rio Arade, wśród lasów, starożytni Rzymianie dokonali podboju jednego&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/silves-dawna-stolica-algarve/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

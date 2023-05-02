@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>plantacja &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/plantacja/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Skąd się biorą orzeszki ziemne</title>
+		<link>/skad-sie-biora-orzeszki-ziemne/</link>
+		<comments>/skad-sie-biora-orzeszki-ziemne/?#comments</comments>
+		<pubDate>Wed, 24 Jan 2018 20:41:40 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Senegal]]></category>
+		<category><![CDATA[plantacja]]></category>
+		<category><![CDATA[rolnictwo]]></category>
+
+		<guid isPermaLink="false">/?p=14347</guid>
+		<description><![CDATA[Przy każdym kroku słychać chrupnięcie, gdy wysiadam z autobusu na promie z Bandżulu do Barry, by czas przeprawy przez rzekę Gambia spędzić na świeżym powietrzu na górnym pokładzie. Cała metalowa podłoga pokryta jest skorupkami orzeszków ziemnych, łupanych przez pasażerów promu.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/skad-sie-biora-orzeszki-ziemne/feed/</wfw:commentRss>
+		<slash:comments>39</slash:comments>
+		</item>
+		<item>
+		<title>Opowieść o zanzibarskich algach</title>
+		<link>/opowiesc-o-zanzibarskich-algach/</link>
+		<comments>/opowiesc-o-zanzibarskich-algach/?#comments</comments>
+		<pubDate>Fri, 23 Sep 2016 18:15:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tanzania]]></category>
+		<category><![CDATA[plantacja]]></category>
+		<category><![CDATA[przemysł]]></category>
+		<category><![CDATA[Zanzibar]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=12218</guid>
+		<description><![CDATA[Wyciągnąwszy z płytkiej wody kawałek wodorostu Mustafa podaje mi go z uśmiechem. &#8211; Jedz! &#8211; zachęca, a ja nie jestem pewna, czy mówi poważnie, czy może stroi sobie ze mnie żarty. &#8211; To? No nie wiem&#8230; Ty zjedz pierwszy &#8211;&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/opowiesc-o-zanzibarskich-algach/feed/</wfw:commentRss>
+		<slash:comments>70</slash:comments>
+		</item>
+		<item>
+		<title>Skąd się biorą gumki?</title>
+		<link>/skad-sie-biora-gumki/</link>
+		<comments>/skad-sie-biora-gumki/?#comments</comments>
+		<pubDate>Tue, 15 Dec 2009 21:12:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Tajlandia]]></category>
+		<category><![CDATA[plantacja]]></category>
+		<category><![CDATA[wyspy tajskie]]></category>
+
+		<guid isPermaLink="false">/?p=794</guid>
+		<description><![CDATA[Siedzimy w busie z Hat Yai do Pak Bara, obserwując widoki za szybą. Głównie skalisty krajobraz pokryty bujną roślinnością, a od czasu do czasu jakiś równiutko rosnący las, niezbyt gęsty, ze smukłymi drzewami i soczyście zieloną koroną. To plantacje kauczukowców.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/skad-sie-biora-gumki/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

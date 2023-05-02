@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>karnawał &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/karnawal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Garść informacji praktycznych o Rio de Janeiro</title>
+		<link>/garsc-informacji-praktycznych-o-rio-de-janeiro/</link>
+		<comments>/garsc-informacji-praktycznych-o-rio-de-janeiro/?#comments</comments>
+		<pubDate>Fri, 22 Mar 2019 20:13:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Brazylia]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[karnawał]]></category>
+		<category><![CDATA[rio de janeiro]]></category>
+
+		<guid isPermaLink="false">/?p=15544</guid>
+		<description><![CDATA[Do 1960 roku Rio de Janeiro było stolicą największego południowoamerykańskiego państwa, czyli Brazylii, kiedy to straciło ten status na rzecz Brasilii. Dzisiaj jest drugim co do wielkości, po São Paulo, miastem tego kraju, zamieszkiwanym przez ponad dwanaście milionów ludzi na&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-rio-de-janeiro/feed/</wfw:commentRss>
+		<slash:comments>48</slash:comments>
+		</item>
+		<item>
+		<title>Jak karnawał, to w Wenecji!</title>
+		<link>/jak-karnawal-to-w-wenecji/</link>
+		<comments>/jak-karnawal-to-w-wenecji/?#comments</comments>
+		<pubDate>Tue, 13 Jan 2015 07:15:53 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Włochy]]></category>
+		<category><![CDATA[karnawał]]></category>
+		<category><![CDATA[Wenecja]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=10058</guid>
+		<description><![CDATA[Karnawał &#8211; czas radości, szaleństwa i zabawy na całego. A jak karnawał &#8211; to Wenecja. Od dziecka marzyłam o tym, żeby zobaczyć na własne oczy tajemnicze zamaskowane postaci przemierzające wąskie uliczki i mosty przerzucone nad kanałami. Żeby poczuć tę magiczną&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/jak-karnawal-to-w-wenecji/feed/</wfw:commentRss>
+		<slash:comments>57</slash:comments>
+		</item>
+		<item>
+		<title>Kryjąc twarz za wenecką maską</title>
+		<link>/kryjac-twarz-za-wenecka-maska/</link>
+		<comments>/kryjac-twarz-za-wenecka-maska/?#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 06:24:47 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Włochy]]></category>
+		<category><![CDATA[karnawał]]></category>
+		<category><![CDATA[Wenecja]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=7958</guid>
+		<description><![CDATA[W maskach wszyscy są sobie równi. Arystokrata i biedak, kupiec i rzemieślnik, strażnik i rzezimieszek, urzędnik i artysta, pani domu i służąca, zakonnica i kurtyzana, rzeźnik i skryba, rybak i marynarz, żołnierz i szpieg, panna i mężatka, kawaler i wdowiec.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kryjac-twarz-za-wenecka-maska/feed/</wfw:commentRss>
+		<slash:comments>34</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kolumbia Brytyjska &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/kolumbia-brytyjska/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Garść informacji praktycznych o kanadyjskich Górach Skalistych i Vancouver</title>
+		<link>/garsc-informacji-praktycznych-o-kanadyjskich-gorach-skalistych-i-vancouver/</link>
+		<comments>/garsc-informacji-praktycznych-o-kanadyjskich-gorach-skalistych-i-vancouver/?#comments</comments>
+		<pubDate>Sun, 07 Oct 2018 15:33:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kanada]]></category>
+		<category><![CDATA[Alberta]]></category>
+		<category><![CDATA[Góry Skaliste]]></category>
+		<category><![CDATA[informacje praktyczne]]></category>
+		<category><![CDATA[Kolumbia Brytyjska]]></category>
+
+		<guid isPermaLink="false">/?p=15004</guid>
+		<description><![CDATA[Prawie miesiąc spędzony w Kanadzie, z punktem startowym w Vancouver, uświadamia mi, jak wiele do zaoferowania podróżnikowi ma ten ogromny kraj. Poznaję zaledwie mały wycinek północnej sąsiadki Stanów Zjednoczonych, co pobudza mój apetyt na wiele więcej. I pewnie w ciągu&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/garsc-informacji-praktycznych-o-kanadyjskich-gorach-skalistych-i-vancouver/feed/</wfw:commentRss>
+		<slash:comments>41</slash:comments>
+		</item>
+		<item>
+		<title>Vancouver &#8211; miasto na granicy gór i oceanu</title>
+		<link>/vancouver-miasto-na-granicy-gor-i-oceanu/</link>
+		<comments>/vancouver-miasto-na-granicy-gor-i-oceanu/?#comments</comments>
+		<pubDate>Mon, 01 Oct 2018 17:02:10 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kanada]]></category>
+		<category><![CDATA[Kolumbia Brytyjska]]></category>
+		<category><![CDATA[miasto]]></category>
+
+		<guid isPermaLink="false">/?p=14969</guid>
+		<description><![CDATA[Kajak delikatnie podskakuje na False Creek, gdy wiosłujemy z Karoliną w kierunku plaży nad zatoką English Bay. Pogoda nam dopisuje &#8211; choć rankiem niebo zasnuwały chmury, to przed południem się rozjaśniło i tylko wiatr powoli się wzmaga, zmieniając wcześniejsze zmarszczki&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/vancouver-miasto-na-granicy-gor-i-oceanu/feed/</wfw:commentRss>
+		<slash:comments>40</slash:comments>
+		</item>
+	</channel>
+</rss>

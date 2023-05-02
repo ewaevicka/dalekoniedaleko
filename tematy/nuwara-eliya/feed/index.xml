@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nuwara Eliya &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/nuwara-eliya/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Między krzaczkiem a filiżanką</title>
+		<link>/miedzy-krzaczkiem-a-filizanka/</link>
+		<comments>/miedzy-krzaczkiem-a-filizanka/?#comments</comments>
+		<pubDate>Fri, 04 Jan 2013 18:27:35 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[herbata]]></category>
+		<category><![CDATA[napoje]]></category>
+		<category><![CDATA[Nuwara Eliya]]></category>
+		<category><![CDATA[używki]]></category>
+
+		<guid isPermaLink="false">/?p=7141</guid>
+		<description><![CDATA[Czajnik gwizdaniem oznajmia, że woda już się zagotowała. Wyłączasz gaz i zalewasz herbatę wrzątkiem zostawiając ją na 3 minuty, by otrzymać idealny napar. Być może wsypujesz łyżeczkę cukru i już możesz rozkoszować się pysznym napojem, mając około 8% szans, że&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/miedzy-krzaczkiem-a-filizanka/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Herbaciane kobiety</title>
+		<link>/herbaciane-kobiety/</link>
+		<comments>/herbaciane-kobiety/?#comments</comments>
+		<pubDate>Thu, 25 Nov 2010 19:41:36 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Sri Lanka]]></category>
+		<category><![CDATA[herbata]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[Nuwara Eliya]]></category>
+		<category><![CDATA[rolnictwo]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=2855</guid>
+		<description><![CDATA[Kiedy wypijacie w domowym zaciszu cejlońską herbatę zapewne nie myślicie o tym, skąd się ona wzięła w waszej filiżance. A historia zaczyna się tutaj, na kilkuset hektarach upraw herbaty na Sri Lance, gdzie pracują głównie kobiety. Codziennie ruszają do pracy,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/herbaciane-kobiety/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+	</channel>
+</rss>

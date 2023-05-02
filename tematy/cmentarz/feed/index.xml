@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cmentarz &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/cmentarz/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Kubańskie nekropolie &#8211; tam spoczywają bohaterzy</title>
+		<link>/kubanskie-nekropolie-tam-spoczywaja-bohaterzy/</link>
+		<comments>/kubanskie-nekropolie-tam-spoczywaja-bohaterzy/?#comments</comments>
+		<pubDate>Sun, 30 Oct 2016 12:41:46 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kuba]]></category>
+		<category><![CDATA[cmentarz]]></category>
+		<category><![CDATA[Hawana]]></category>
+		<category><![CDATA[Santiago de Cuba]]></category>
+
+		<guid isPermaLink="false">/?p=12340</guid>
+		<description><![CDATA[Wbrew nazwie na hawańskim Cmentarzu Krzysztofa Kolumba nie znajduje się grób odkrywcy Ameryki. Zresztą do dziś trwają spory, gdzie spoczywają szczątki żeglarza &#8211; w Sewilli czy może w Santo Domingo. Z pewnością jednak nie w Hawanie. Nie na cmentarzu, który&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kubanskie-nekropolie-tam-spoczywaja-bohaterzy/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+		</item>
+		<item>
+		<title>Chwila zadumy na Cmentarzu na Rossie</title>
+		<link>/chwila-zadumy-na-cmentarzu-na-rossie/</link>
+		<comments>/chwila-zadumy-na-cmentarzu-na-rossie/?#comments</comments>
+		<pubDate>Thu, 30 Oct 2014 12:38:29 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Litwa]]></category>
+		<category><![CDATA[cmentarz]]></category>
+		<category><![CDATA[Wilno]]></category>
+
+		<guid isPermaLink="false">/?p=9288</guid>
+		<description><![CDATA[Jest piękny kwietniowy dzień, kiedy idziemy na wileński Cmentarz na Rossie. Nie przepadam za cmentarzami jako takimi, ale być w Wilnie i nie odwiedzić tej nekropolii to tak jak być w Paryżu i nie zobaczyć Wieży Eiffle’a. Idziemy więc na&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/chwila-zadumy-na-cmentarzu-na-rossie/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+		<item>
+		<title>Cmentarze w bieli</title>
+		<link>/cmentarze-w-bieli/</link>
+		<comments>/cmentarze-w-bieli/?#comments</comments>
+		<pubDate>Mon, 31 Oct 2011 17:32:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Dominikana]]></category>
+		<category><![CDATA[cmentarz]]></category>
+		<category><![CDATA[Jarabacoa]]></category>
+		<category><![CDATA[Las Terrenas]]></category>
+
+		<guid isPermaLink="false">/?p=5199</guid>
+		<description><![CDATA[Przyznaje się, że nie przepadam za naszymi współczesnymi cmentarzami. Są dla mnie dość przygnębiające, z przyciężkimi, ciemnymi, marmurowymi lub marmuropodobnymi nagrobkami. Nie lubię po nich chodzić. Dlatego idąc ulicą w centrum Las Terrenas nie załapuję od razu, że przechodzę obok&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cmentarze-w-bieli/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Fatima i okolice</title>
+		<link>/fatima-i-okolice/</link>
+		<comments>/fatima-i-okolice/?#comments</comments>
+		<pubDate>Sat, 26 Mar 2011 15:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Portugalia]]></category>
+		<category><![CDATA[Aljustrel]]></category>
+		<category><![CDATA[cmentarz]]></category>
+		<category><![CDATA[Fatima]]></category>
+		<category><![CDATA[katolicyzm]]></category>
+		<category><![CDATA[pamiątki]]></category>
+		<category><![CDATA[sanktuarium]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=4173</guid>
+		<description><![CDATA[Zdania co do tego miejsca są podzielone. Znam osoby, które przekonują, że odczuwają tam jakąś siłę, energię, boską moc. Inni wracają z Fatimy rozczarowani, bo jedyna siła, jaką dostrzegają, to moc pieniądza. Rzeczywiście miejsce jest bardzo skomercjalizowane, ale dla wielu&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/fatima-i-okolice/feed/</wfw:commentRss>
+		<slash:comments>63</slash:comments>
+		</item>
+		<item>
+		<title>Cmentarz żydowski w Otwocku</title>
+		<link>/cmentarz-zydowski-w-otwocku/</link>
+		<comments>/cmentarz-zydowski-w-otwocku/?#comments</comments>
+		<pubDate>Sun, 16 May 2010 16:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Polska]]></category>
+		<category><![CDATA[cmentarz]]></category>
+		<category><![CDATA[judaizm]]></category>
+		<category><![CDATA[Otwock]]></category>
+		<category><![CDATA[zwyczaje]]></category>
+
+		<guid isPermaLink="false">/?p=2044</guid>
+		<description><![CDATA[Po obfotografowaniu opuszczonego szpitala psychiatrycznego Zofiówka w Otwocku ruszyliśmy na drugą część pleneru &#8211; na cmentarz żydowski w Otwocku. Leży on na skraju lasu i jest dość zaniedbany. Dość, bo dawniej podobno było tu jeszcze gorzej. Mimo wszystko poprzewracane i&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cmentarz-zydowski-w-otwocku/feed/</wfw:commentRss>
+		<slash:comments>40</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Siem Reap &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/siem-reap/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Zbrodniczy reżim Czerwonych Khmerów</title>
+		<link>/zbrodniczy-rezim-czerwonych-khmerow/</link>
+		<comments>/zbrodniczy-rezim-czerwonych-khmerow/?#comments</comments>
+		<pubDate>Fri, 06 Nov 2009 13:22:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kambodża]]></category>
+		<category><![CDATA[muzeum]]></category>
+		<category><![CDATA[Phnom Penh]]></category>
+		<category><![CDATA[Siem Reap]]></category>
+		<category><![CDATA[więzienie]]></category>
+		<category><![CDATA[zbrodnie]]></category>
+
+		<guid isPermaLink="false">/?p=4765</guid>
+		<description><![CDATA[Wizyta w tych miejscach jest smutna, szokująca, pozostawia bez słów. Snując się po kolejnych salach, nie jestem nawet w stanie zmusić się do fotografowania. Nie potrafię ogarnąć umysłem okrucieństwa reżimu Czerwonych Khmerów i ich przywódcy — Pol Pota. Ta komunistyczna&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zbrodniczy-rezim-czerwonych-khmerow/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		</item>
+		<item>
+		<title>Tam dom mój, gdzie woda</title>
+		<link>/tam-dom-moj-gdzie-woda/</link>
+		<comments>/tam-dom-moj-gdzie-woda/?#comments</comments>
+		<pubDate>Wed, 04 Nov 2009 12:45:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kambodża]]></category>
+		<category><![CDATA[jezioro]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[Siem Reap]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=1088</guid>
+		<description><![CDATA[Ludzie żyjący nad brzegiem jeziora podporządkowują mu rytm nie tylko dnia, ale też roku. Potrafią się doskonale przystosować do jego zmian. Jedni budują swoje domy na wysokich palach, gdzie woda ich nie sięgnie. Inni stawiają domy składane, które wraz z&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/tam-dom-moj-gdzie-woda/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Magiczny Angkor</title>
+		<link>/magiczny-angkor/</link>
+		<comments>/magiczny-angkor/?#comments</comments>
+		<pubDate>Tue, 03 Nov 2009 15:03:06 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kambodża]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[Siem Reap]]></category>
+		<category><![CDATA[świątynia buddyjska]]></category>
+		<category><![CDATA[świątynia hinduistyczna]]></category>
+
+		<guid isPermaLink="false">/?p=1019</guid>
+		<description><![CDATA[Razem z całkiem pokaźną grupą turystów wspinamy się na wzniesienie do świątyni Phnom Bakheng. Miejsce to uznaje się za najlepszy punkt widokowy do obserwacji zachodu słońca. Chwilę wcześniej nasz tuk-tuk minął skąpaną w pomarańczowych promieniach słońca słynną świątynia Angkor Wat.&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/magiczny-angkor/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+		</item>
+		<item>
+		<title>Kiedy rzeka płynie pod prąd</title>
+		<link>/kiedy-rzeka-plynie-pod-prad/</link>
+		<comments>/kiedy-rzeka-plynie-pod-prad/?#comments</comments>
+		<pubDate>Mon, 02 Nov 2009 15:31:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kambodża]]></category>
+		<category><![CDATA[rzeka]]></category>
+		<category><![CDATA[Siem Reap]]></category>
+		<category><![CDATA[święto]]></category>
+
+		<guid isPermaLink="false">/?p=611</guid>
+		<description><![CDATA[Jest na świecie taka rzeka, która na wiosnę zawraca i zaczyna płynąć w odwrotnym kierunku niż normalnie. Zamiast, jak to ma w zwyczaju, wypływać z jeziora i podążać w kierunku morza, ona nagle zaczyna wpływać z powrotem do jeziora. Trwa&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/kiedy-rzeka-plynie-pod-prad/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

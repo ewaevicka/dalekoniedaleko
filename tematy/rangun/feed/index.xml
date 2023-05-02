@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rangun &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/rangun/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Dach nad głową: Birma</title>
+		<link>/dach-nad-glowa-birma/</link>
+		<comments>/dach-nad-glowa-birma/?#comments</comments>
+		<pubDate>Fri, 09 Dec 2011 12:45:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Bagan]]></category>
+		<category><![CDATA[guesthouse]]></category>
+		<category><![CDATA[hostel]]></category>
+		<category><![CDATA[hotel]]></category>
+		<category><![CDATA[Inle]]></category>
+		<category><![CDATA[Kalaw]]></category>
+		<category><![CDATA[Kinpun]]></category>
+		<category><![CDATA[Mandalay]]></category>
+		<category><![CDATA[nocleg]]></category>
+		<category><![CDATA[Nyaung Shwe]]></category>
+		<category><![CDATA[Nyaung U]]></category>
+		<category><![CDATA[Rangun]]></category>
+		<category><![CDATA[Yangon]]></category>
+
+		<guid isPermaLink="false">/?p=5507</guid>
+		<description><![CDATA[Myślałam, że będzie jak w innych krajach Azji Południowo-Wschodniej. Przyjeżdżam do hostelu, oglądam pokój, jak się podoba to zostaję, jak nie &#8211; to szukam gdzieś indziej. Być może jeszcze niedawno tak było, ale już nie jest. Nauczone brakiem miejsc w&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dach-nad-glowa-birma/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>W rozgrzanym Rangunie</title>
+		<link>/w-rozgrzanym-rangunie/</link>
+		<comments>/w-rozgrzanym-rangunie/?#comments</comments>
+		<pubDate>Wed, 30 Nov 2011 05:11:07 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Rangun]]></category>
+		<category><![CDATA[Shwedagon Paya]]></category>
+		<category><![CDATA[świątynia]]></category>
+		<category><![CDATA[Yangon]]></category>
+
+		<guid isPermaLink="false">/?p=5464</guid>
+		<description><![CDATA[Rangun, zwany teraz w zasadzie Yangonem, jest dla mnie typowym dużym miastem południowo-wschodniej Azji. Gorący, tłoczny, hałaśliwy i lepki. Lepi się wszystko do wszystkiego, przede wszystkim nagrzane powietrze do ciała. Klei się mokra koszulka i kleją się brudni ludzie. Gwar,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-rozgrzanym-rangunie/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

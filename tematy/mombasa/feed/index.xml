@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mombasa &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/mombasa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Co mnie wkurza w Kenii?</title>
+		<link>/co-mnie-wkurza-w-kenii/</link>
+		<comments>/co-mnie-wkurza-w-kenii/?#comments</comments>
+		<pubDate>Mon, 08 Feb 2016 11:01:20 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[Mombasa]]></category>
+		<category><![CDATA[policja]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=11611</guid>
+		<description><![CDATA[Spędziłam już w Kenii w sumie ponad dwa lata. Przez ten czas stała się ona prawie moim drugim domem &#8211; poza Polską to kraj, w którym mieszkam najdłużej. Na początku musiałam się do wielu rzeczy przyzwyczaić, wiele zaakceptować, sporo polubiłam,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/co-mnie-wkurza-w-kenii/feed/</wfw:commentRss>
+		<slash:comments>77</slash:comments>
+		</item>
+		<item>
+		<title>Mombasa &#8211; przybrudzony klejnot kenijskiego wybrzeża</title>
+		<link>/mombasa-przybrudzony-klejnot-kenijskiego-wybrzeza/</link>
+		<comments>/mombasa-przybrudzony-klejnot-kenijskiego-wybrzeza/?#comments</comments>
+		<pubDate>Sun, 05 Jul 2015 17:18:05 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[forteca]]></category>
+		<category><![CDATA[miasto]]></category>
+		<category><![CDATA[Mombasa]]></category>
+		<category><![CDATA[park]]></category>
+		<category><![CDATA[starówka]]></category>
+		<category><![CDATA[wybrzeże Kenii]]></category>
+
+		<guid isPermaLink="false">/?p=10949</guid>
+		<description><![CDATA[Mombasa brzmi jak przygoda, taka egzotyczna, afrykańska. To drugie co do wielkości miasto Kenii jest jednym z największych portów w Afryce i stanowi ciekawą mieszankę kultury Czarnej Afryki, arabskiej, hinduskiej i europejskiej. Widać to na każdym kroku stawianym w stolicy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/mombasa-przybrudzony-klejnot-kenijskiego-wybrzeza/feed/</wfw:commentRss>
+		<slash:comments>53</slash:comments>
+		</item>
+		<item>
+		<title>Wakacje na kenijskim wybrzeżu. Ale co tam robić&#8230;?</title>
+		<link>/wakacje-na-kenijskim-wybrzezu-ale-co-tam-robic/</link>
+		<comments>/wakacje-na-kenijskim-wybrzezu-ale-co-tam-robic/?#comments</comments>
+		<pubDate>Mon, 05 Jan 2015 08:15:14 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Kenia]]></category>
+		<category><![CDATA[Gede]]></category>
+		<category><![CDATA[las namorzynowy]]></category>
+		<category><![CDATA[Masai Mara]]></category>
+		<category><![CDATA[Mombasa]]></category>
+		<category><![CDATA[motolotnia]]></category>
+		<category><![CDATA[nurkowanie]]></category>
+		<category><![CDATA[plaża]]></category>
+		<category><![CDATA[rejs]]></category>
+		<category><![CDATA[ruiny]]></category>
+		<category><![CDATA[safari]]></category>
+		<category><![CDATA[Tsavo]]></category>
+		<category><![CDATA[wybrzeże Kenii]]></category>
+		<category><![CDATA[zwierzęta]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=9967</guid>
+		<description><![CDATA[Grudzień, styczeń i luty to okres, kiedy sezon turystyczny na kenijskim wybrzeżu trwa w najlepsze. Dzięki bezpośrednim połączeniom czarterowym z Polski można w ciągu kilku godzin uciec od śniegu z deszczem i zimnego wiatru do miejsca, gdzie cały dzień świeci&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/wakacje-na-kenijskim-wybrzezu-ale-co-tam-robic/feed/</wfw:commentRss>
+		<slash:comments>51</slash:comments>
+		</item>
+	</channel>
+</rss>

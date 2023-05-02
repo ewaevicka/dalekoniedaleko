@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trekking &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/trekking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Nie tylko autokarem. Jak zwiedzać Lanzarote?</title>
+		<link>/nie-tylko-autokarem-jak-zwiedzac-lanzarote/</link>
+		<comments>/nie-tylko-autokarem-jak-zwiedzac-lanzarote/?#comments</comments>
+		<pubDate>Wed, 10 Jun 2015 15:47:11 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[Lanzarote]]></category>
+		<category><![CDATA[nurkowanie]]></category>
+		<category><![CDATA[trekking]]></category>
+		<category><![CDATA[wulkan]]></category>
+
+		<guid isPermaLink="false">/?p=10665</guid>
+		<description><![CDATA[Prawie wszyscy, którzy docierają na Lanzarote, wypoczywają na plaży, podziwiają kratery wulkaniczne i pola lawowe zza szyby autokaru i jeżdżą śladami Cesara Manrique. I dobrze! Bo te atrakcje jak najbardziej są tego warte. Ale co jeśli ktoś chce poznać Lanzarote&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/nie-tylko-autokarem-jak-zwiedzac-lanzarote/feed/</wfw:commentRss>
+		<slash:comments>55</slash:comments>
+		</item>
+		<item>
+		<title>Dwa dni w marszu</title>
+		<link>/dwa-dni-w-marszu/</link>
+		<comments>/dwa-dni-w-marszu/?#comments</comments>
+		<pubDate>Fri, 25 Nov 2011 03:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Birma]]></category>
+		<category><![CDATA[Inle]]></category>
+		<category><![CDATA[Kalaw]]></category>
+		<category><![CDATA[ludzie]]></category>
+		<category><![CDATA[Nyaung Shwe]]></category>
+		<category><![CDATA[trekking]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=5447</guid>
+		<description><![CDATA[Wsi spokojna, wsi wesoła! &#8211; chciałoby się zakrzyknąć, maszerując pomiędzy łanami kołyszących się na lekkim wietrze zbóż i polami pełnymi kwitnącej na biało gorczycy. Jaskrawożółte połacie rzepaku pięknie kontrastują z błękitnym niebem. Żniwa w pełni – wieśniaczki z sierpami ścinają&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/dwa-dni-w-marszu/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+	</channel>
+</rss>

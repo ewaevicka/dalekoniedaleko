@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Astoria &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/astoria/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Zachód słońca nad Triboro Bridge</title>
+		<link>/zachod-slonca-nad-triboro-bridge/</link>
+		<comments>/zachod-slonca-nad-triboro-bridge/?#comments</comments>
+		<pubDate>Sat, 26 May 2012 13:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[USA]]></category>
+		<category><![CDATA[Astoria]]></category>
+		<category><![CDATA[most]]></category>
+		<category><![CDATA[Nowy Jork]]></category>
+		<category><![CDATA[park]]></category>
+		<category><![CDATA[zachód słońca]]></category>
+
+		<guid isPermaLink="false">/?p=267</guid>
+		<description><![CDATA[To były wakacje pierwszych razów. Pierwsza tak daleka podróż, bo na inny kontynent. Pierwszy lot samolotem &#8211; w dodatku sama. Pierwszy raz na tak długo. To był 2004 r., a ja dopiero zaczynałam swoją przygodę z podróżowaniem. Jeden z tamtych&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/zachod-slonca-nad-triboro-bridge/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

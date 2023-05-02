@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Helsinki &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/helsinki/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Pół dnia w Helsinkach</title>
+		<link>/pol-dnia-w-helsinkach/</link>
+		<comments>/pol-dnia-w-helsinkach/?#comments</comments>
+		<pubDate>Mon, 26 Sep 2011 08:50:55 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Finlandia]]></category>
+		<category><![CDATA[centrum olimpijskie]]></category>
+		<category><![CDATA[Eduskunta]]></category>
+		<category><![CDATA[Helsinki]]></category>
+		<category><![CDATA[katedra]]></category>
+		<category><![CDATA[świątynia]]></category>
+
+		<guid isPermaLink="false">/?p=4956</guid>
+		<description><![CDATA[Stolica Finlandii nie oferuje wielkich atrakcji turystycznych, jakimi mogą się pochwalić na przykład Paryż czy Londyn. Jednak spacer po tym mieście jest niezwykle przyjemny. Żałuję, że podczas mojej podróży do Finlandii mam tylko kilka godzin na eksplorację tego miasta, co&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/pol-dnia-w-helsinkach/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

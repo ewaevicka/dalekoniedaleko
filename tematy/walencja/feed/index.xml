@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Walencja &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/walencja/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Jaśnie pani Walencja</title>
+		<link>/jasnie-pani-walencja/</link>
+		<comments>/jasnie-pani-walencja/?#comments</comments>
+		<pubDate>Tue, 29 Apr 2014 16:52:21 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[bazar]]></category>
+		<category><![CDATA[katedra]]></category>
+		<category><![CDATA[targ]]></category>
+		<category><![CDATA[Walencja]]></category>
+
+		<guid isPermaLink="false">/?p=8100</guid>
+		<description><![CDATA[Nie umiem porównać Walencji do żadnego mi znanego dużego miasta. To nie Nowy Jork czy Londyn pełen wieżowców ze szkła i stali nierdzewnej. To nie Lizbona ze starymi, odrapanymi murami i zapachem sardynek. To też nie Kijów z jego topornymi,&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/jasnie-pani-walencja/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>W kółko ryż czyli paella prosto z Hiszpanii</title>
+		<link>/w-kolko-ryz-czyli-paella-prosto-z-hiszpanii/</link>
+		<comments>/w-kolko-ryz-czyli-paella-prosto-z-hiszpanii/?#comments</comments>
+		<pubDate>Mon, 06 Aug 2012 09:47:46 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[kuchnia hiszpańska]]></category>
+		<category><![CDATA[kulinaria]]></category>
+		<category><![CDATA[Walencja]]></category>
+
+		<guid isPermaLink="false">/?p=6712</guid>
+		<description><![CDATA[Króluje na stołach Walencji, bo stąd pochodzi, lecz znana jest nie tylko w całej Hiszpanii, ale i poza jej granicami. Paella – przepyszne danie, którego urok tkwi tak naprawdę w jego prostocie. Bo czym ona jest? To w zasadzie jedynie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-kolko-ryz-czyli-paella-prosto-z-hiszpanii/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>Na zakupy do Mercado Central</title>
+		<link>/na-zakupy-do-mercado-central/</link>
+		<comments>/na-zakupy-do-mercado-central/?#comments</comments>
+		<pubDate>Tue, 13 Dec 2011 23:20:45 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Hiszpania]]></category>
+		<category><![CDATA[bazar]]></category>
+		<category><![CDATA[targ]]></category>
+		<category><![CDATA[Walencja]]></category>
+		<category><![CDATA[życie codzienne]]></category>
+
+		<guid isPermaLink="false">/?p=5565</guid>
+		<description><![CDATA[Fajnie mieć taki targ w centrum miasta. Nie dość, że można zrobić najpotrzebniejsze zakupy, to jeszcze w przyjemnym otoczeniu. Budynek Mercado Central w Walencji podoba mi się już z zewnątrz &#8211; jasny, z delikatnymi zdobieniami, dużymi oknami. W środku równie&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/na-zakupy-do-mercado-central/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+	</channel>
+</rss>

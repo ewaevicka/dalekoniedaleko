@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>test sprzętu &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/test-sprzetu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Vasco Traveler Premium 5&#8243; &#8211; asystent w podróży</title>
+		<link>/vasco-traveler-premium-5-asystent-w-podrozy/</link>
+		<comments>/vasco-traveler-premium-5-asystent-w-podrozy/?#comments</comments>
+		<pubDate>Mon, 05 Nov 2018 15:53:44 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Recenzje i testy]]></category>
+		<category><![CDATA[elektronika]]></category>
+		<category><![CDATA[test sprzętu]]></category>
+
+		<guid isPermaLink="false">/?p=15056</guid>
+		<description><![CDATA[Po całym dniu podróży przez zachodnią część Gór Skalistych dojeżdżamy do położonego nieopodal kanionu Johnston kempingu. Ukryte w lesie pole namiotowe leży na uboczu autostrady numer 1, zwanej Transkanadyjską, ale wystarczająco daleko w dziczy, by zasięg komórkowy był słabiutki. Jesteśmy&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/vasco-traveler-premium-5-asystent-w-podrozy/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		</item>
+	</channel>
+</rss>

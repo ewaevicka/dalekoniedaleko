@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sprzęt turystyczny &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/sprzet-turystyczny/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>Regatta Blackfell 20L i 25L &#8211; dwa plecaki na krótkie wypady</title>
+		<link>/regatta-blackfell-20l-i-25l-dwa-plecaki-na-krotkie-wypady/</link>
+		<comments>/regatta-blackfell-20l-i-25l-dwa-plecaki-na-krotkie-wypady/?#comments</comments>
+		<pubDate>Sun, 08 Oct 2017 08:47:15 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Recenzje i testy]]></category>
+		<category><![CDATA[sprzęt turystyczny]]></category>
+
+		<guid isPermaLink="false">/?p=14046</guid>
+		<description><![CDATA[Jest już połowa września, ale słońce nadal daje się we znaki. Przez całe wakacje wybierałam się na Jezerski Vrh, drugi co do wysokości szczyt masywu Lovćen, lecz jakoś nigdy nie było czasu. Dlaczego na drugi? Bo znajduje się tam mauzoleum&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/regatta-blackfell-20l-i-25l-dwa-plecaki-na-krotkie-wypady/feed/</wfw:commentRss>
+		<slash:comments>35</slash:comments>
+		</item>
+		<item>
+		<title>Cabin Zero Vintage &#8211; mały wielki plecak</title>
+		<link>/cabin-zero-vintage-maly-wielki-plecak/</link>
+		<comments>/cabin-zero-vintage-maly-wielki-plecak/?#comments</comments>
+		<pubDate>Sat, 29 Apr 2017 14:22:58 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Recenzje i testy]]></category>
+		<category><![CDATA[sprzęt turystyczny]]></category>
+
+		<guid isPermaLink="false">/?p=13676</guid>
+		<description><![CDATA[Koła samolotu dotykają pasa, czuć gwałtowne hamowanie. Podjeżdżamy do rękawa albo na miejsce parkingowe i czekamy, aż obsługa wypuści nas z samolotu. Potem maszeruję w kierunku taśm bagażowych, po drodze czasem zahaczając o kontrolę paszportową. Czekam przy taśmie, aż lampka&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/cabin-zero-vintage-maly-wielki-plecak/feed/</wfw:commentRss>
+		<slash:comments>85</slash:comments>
+		</item>
+	</channel>
+</rss>

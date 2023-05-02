@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zorza polarna &#8211; Daleko niedaleko</title>
+	<atom:link href="/tematy/zorza-polarna/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pozytywny blog podróżniczy</description>
+	<lastBuildDate>Wed, 03 Jul 2019 16:23:43 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.22</generator>
+	<item>
+		<title>W pogoni za ognistym lisem</title>
+		<link>/w-pogoni-za-ognistym-lisem/</link>
+		<comments>/w-pogoni-za-ognistym-lisem/?#comments</comments>
+		<pubDate>Thu, 23 Mar 2017 07:38:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Finlandia]]></category>
+		<category><![CDATA[Norwegia]]></category>
+		<category><![CDATA[Tromso]]></category>
+		<category><![CDATA[zorza polarna]]></category>
+
+		<guid isPermaLink="false">/?p=13268</guid>
+		<description><![CDATA[Jest cicha, zimowa noc. Poprzez ośnieżone arktyczne bezdroża, przeskakując nad wzniesieniami, biegnie lis. Nie żaden zwykły rudy chytrus, tylko magiczny, ognisty lis. Zwierzę, pędząc przed siebie, zamiata na lewo i prawo kitą, rozsypując za sobą snop iskier, które unoszą się&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/w-pogoni-za-ognistym-lisem/feed/</wfw:commentRss>
+		<slash:comments>39</slash:comments>
+		</item>
+		<item>
+		<title>O tym, jak na chwilę zostałam maszerką</title>
+		<link>/o-tym-jak-na-chwile-zostalam-maszerka/</link>
+		<comments>/o-tym-jak-na-chwile-zostalam-maszerka/?#comments</comments>
+		<pubDate>Wed, 01 Feb 2017 17:12:56 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Norwegia]]></category>
+		<category><![CDATA[aktywny wypoczynek]]></category>
+		<category><![CDATA[Tromso]]></category>
+		<category><![CDATA[zorza polarna]]></category>
+
+		<guid isPermaLink="false">/?p=12887</guid>
+		<description><![CDATA[To uczucie, gdy ciągnięty przez sześć psów zaprzęg sunie po miękkim śniegu, a ja stoję na płozach sań i nimi kieruję, trudno porównać do czegokolwiek, i to nawet mimo świadomości, że psy są tu mądrzejsze niż ja, więc to chyba&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/o-tym-jak-na-chwile-zostalam-maszerka/feed/</wfw:commentRss>
+		<slash:comments>61</slash:comments>
+		</item>
+		<item>
+		<title>Poprzez białe drogi, z mrozem za pan brat, pędzi skuter śnieżny&#8230;</title>
+		<link>/poprzez-biale-drogi-z-mrozem-za-pan-brat-pedzi-skuter-sniezny/</link>
+		<comments>/poprzez-biale-drogi-z-mrozem-za-pan-brat-pedzi-skuter-sniezny/?#comments</comments>
+		<pubDate>Wed, 21 Dec 2016 08:34:58 +0000</pubDate>
+		<dc:creator><![CDATA[Ewa]]></dc:creator>
+				<category><![CDATA[Finlandia]]></category>
+		<category><![CDATA[aktywny wypoczynek]]></category>
+		<category><![CDATA[Rovaniemi]]></category>
+		<category><![CDATA[zorza polarna]]></category>
+
+		<guid isPermaLink="false">/?p=12519</guid>
+		<description><![CDATA[W prawie całkowitej ciemności uginające się pod ciężarem śniegu drzewa przypominają jakieś zgarbione postaci, trolle może czy krasnoludy. Oświetlane snopem światła przejeżdżających pomiędzy nimi skuterów śnieżnych wyglądają, jakby się poruszały. To wyłaniają się z cienia, to znowu się w nim&#46;&#46;&#46;]]></description>
+		<wfw:commentRss>/poprzez-biale-drogi-z-mrozem-za-pan-brat-pedzi-skuter-sniezny/feed/</wfw:commentRss>
+		<slash:comments>37</slash:comments>
+		</item>
+	</channel>
+</rss>
